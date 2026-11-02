@@ -1,0 +1,68 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <link rel="icon" href="data:,">
+  <title>Quatorze</title>
+  <!-- public, but kept out of search engines: the photos are the shops' own (Claude's choice, 2026-11-01) -->
+  <meta name="robots" content="noindex, nofollow">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Bodoni+Moda:ital,opsz,wght@0,6..96,400;0,6..96,500;0,6..96,700;1,6..96,400&family=Inter+Tight:wght@300;400;500;600&display=swap" rel="stylesheet">
+  <script type="module" crossorigin src="./assets/index-Q0dQECc_.js"></script>
+  <link rel="stylesheet" crossorigin href="./assets/index-Dhdxlabh.css">
+</head>
+<body>
+  <!-- outside: the street in 3D, and the door -->
+  <div id="stage"></div>
+  <div id="start">
+    <div class="inner">
+      <div class="logo">QUATORZE</div>
+      <div class="sub">Clothes, shoes, bags and jewellery — every piece in S and M</div>
+      <form class="money" autocomplete="off">
+        <div class="ask">How much money do you have to spend?</div>
+        <div class="back" hidden></div>
+        <div class="amount">
+          <label class="field"><span>$</span><input type="number" min="1" step="1" inputmode="numeric" placeholder="0" aria-label="How much money you have"></label>
+          <div class="presets"><button type="button" data-amt="100">$100</button><button type="button" data-amt="250">$250</button><button type="button" data-amt="500">$500</button><button type="button" data-amt="1000">$1,000</button></div>
+        </div>
+        <button class="go" type="submit" disabled>Go in</button>
+      </form>
+      <div class="loading"></div>
+    </div>
+  </div>
+  <div id="fade"></div>
+
+  <!-- inside: the store -->
+  <div id="store" hidden>
+    <div class="announce">Every piece in S &amp; M <i>·</i> Free shipping on every order <i>·</i> Free returns</div>
+    <header class="top">
+      <div class="bar1">
+        <form class="search" role="search"><span class="i"><svg viewBox="0 0 24 24"><circle cx="10.5" cy="10.5" r="6.5"/><path d="M15.5 15.5 21 21"/></svg></span><input type="search" placeholder="Search Quatorze" aria-label="Search"></form>
+        <a class="mark" href="#/">QUATORZE</a>
+        <div class="tools">
+          <button class="purse" type="button" data-act="money"><small>Left to spend</small><span class="amt"></span></button>
+          <a class="icon wishlink" href="#/wish" aria-label="Saved"><svg viewBox="0 0 24 24"><path d="M12 20s-7.5-4.6-9.2-9.4C1.6 7.2 3.8 4 7.2 4c2 0 3.5 1.1 4.8 2.8C13.3 5.1 14.8 4 16.8 4c3.4 0 5.6 3.2 4.4 6.6C19.5 15.4 12 20 12 20z"/></svg><i class="n"></i></a>
+          <button class="icon baglink" type="button" data-act="bag" aria-label="Bag"><svg viewBox="0 0 24 24"><path d="M5 8h14l-1.2 12.2a1 1 0 0 1-1 .8H7.2a1 1 0 0 1-1-.8z"/><path d="M8.5 10V7a3.5 3.5 0 0 1 7 0v3"/></svg><i class="n"></i></button>
+        </div>
+      </div>
+      <nav class="depts"></nav>
+      <div class="moneypop"></div>
+    </header>
+    <main id="page"></main>
+    <footer>
+      <div class="fmark">QUATORZE</div>
+      <div class="fcols">
+        <div><b>Shop</b><a href="#/new">New In</a><a href="#/c/dresses">Dresses</a><a href="#/c/shoes">Shoes</a><a href="#/sale">Sale</a></div>
+        <div><b>Me</b><a href="#/closet">My closet</a><a href="#/wish">Saved for later</a><button class="link" type="button" data-act="money">My money</button></div>
+        <div><b>Quatorze</b><span>14 Mercer Row, London</span><span>Every piece in S and M</span><button class="link" type="button" data-act="leave">Leave the shop</button></div>
+      </div>
+      <div class="fine">© Quatorze</div>
+    </footer>
+    <div class="shade"></div>
+    <aside class="drawer" aria-label="Your bag"></aside>
+    <div class="toast" aria-live="polite"></div>
+  </div>
+</body>
+</html>

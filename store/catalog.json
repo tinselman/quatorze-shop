@@ -1,0 +1,9981 @@
+{
+"depts": [
+{
+"key": "tops",
+"name": "Tops"
+},
+{
+"key": "knits",
+"name": "Sweaters & Hoodies"
+},
+{
+"key": "dresses",
+"name": "Dresses"
+},
+{
+"key": "skirts",
+"name": "Skirts"
+},
+{
+"key": "pants",
+"name": "Pants & Jeans"
+},
+{
+"key": "shorts",
+"name": "Shorts"
+},
+{
+"key": "jackets",
+"name": "Jackets & Coats"
+},
+{
+"key": "active",
+"name": "Active"
+},
+{
+"key": "shoes",
+"name": "Shoes"
+},
+{
+"key": "bags",
+"name": "Bags"
+},
+{
+"key": "jewelry",
+"name": "Jewelry"
+},
+{
+"key": "acc",
+"name": "Accessories"
+}
+],
+"items": [
+{
+"id": "faisa-off-shoulder-satin-top-black",
+"style": "Q4480",
+"dept": "tops",
+"kind": "Tops",
+"name": "Faisa Off Shoulder Satin Top",
+"colour": "Black",
+"price": 49.0,
+"was": null,
+"sizes": [
+"S",
+"M"
+],
+"blurb": "",
+"facts": [
+"Off-shoulder satin top",
+"Split at shoulders, cinched waist",
+"Non-stretch material, unlined",
+"100% polyester",
+"Cold hand wash"
+],
+"n": 4,
+"added": "2026-10-29",
+"shape": 1.35
+},
+{
+"id": "tiffany-cotton-polka-dot-tank-navy-white-polka-d",
+"style": "Q9426",
+"dept": "tops",
+"kind": "Tanks & Camis",
+"name": "Tiffany Cotton Polka Dot Tank",
+"colour": "Navy White Polka Dots",
+"price": 22.0,
+"was": null,
+"sizes": [
+"S",
+"M"
+],
+"blurb": "",
+"facts": [
+"Fabrics: 96 % cotton, 4% elastane"
+],
+"n": 3,
+"added": "2026-10-30",
+"shape": 1.5
+},
+{
+"id": "lumira-v-neck-top-in-jersey-grey",
+"style": "Q5329",
+"dept": "tops",
+"kind": "Tops",
+"name": "Lumira V Neck Top in Jersey Grey",
+"colour": null,
+"price": 52.0,
+"was": null,
+"sizes": [
+"S",
+"M"
+],
+"blurb": "",
+"facts": [
+"Fitted through the body",
+"V-neckline",
+"Gathered detail at the centre front of the neckline",
+"Short cap sleeves"
+],
+"n": 4,
+"added": "2026-10-25",
+"shape": 1.26
+},
+{
+"id": "darleah-feather-trim-tee-black",
+"style": "Q5599",
+"dept": "tops",
+"kind": "Tees",
+"name": "Darleah Feather Trim Tee",
+"colour": "Black",
+"price": 69.0,
+"was": null,
+"sizes": [
+"S",
+"M"
+],
+"blurb": "The Darleah Feather Trim Tee in Black is the kind of piece that turns a simple outfit into a moment. The feather trim detail adds a soft, tactile edge that catches the eye without going over the top, while the asymmetrical hemline brings a subtle unpredictability that keeps things interesting.",
+"facts": [
+"Round neckline",
+"Short sleeves",
+"Feather trim detail",
+"Asymmetrical hemline",
+"Unlined"
+],
+"n": 4,
+"added": "2026-10-28",
+"shape": 1.5
+},
+{
+"id": "lucy-top-white-dot",
+"style": "Q5678",
+"dept": "tops",
+"kind": "Tops",
+"name": "Lucy Top",
+"colour": "White Dot",
+"price": 118.0,
+"was": null,
+"sizes": [
+"S",
+"M"
+],
+"blurb": "Introducing the Lucy Top: A high-neck tank featuring ties at both sides and an empire waist for a snug fit at the waist. Side seam zipper closure.",
+"facts": [
+"100% Polyester",
+"Machine wash cold, gentle, lay flat to dry only. Do not bleach.",
+"Waist",
+"Total Length"
+],
+"n": 4,
+"added": "2026-09-17",
+"shape": 1.33
+},
+{
+"id": "jodee-lacey-long-sleeve-top-gray-melange",
+"style": "Q7399",
+"dept": "tops",
+"kind": "Long Sleeves",
+"name": "Jodee Lacey Long Sleeve Top",
+"colour": "Gray-melange",
+"price": 48.0,
+"was": null,
+"sizes": [
+"S",
+"M"
+],
+"blurb": "",
+"facts": [],
+"n": 4,
+"added": "2026-11-01",
+"shape": 1.5
+},
+{
+"id": "eleanorre-batwing-v-neck-top-blue-brown-stripe",
+"style": "Q3512",
+"dept": "tops",
+"kind": "Tops",
+"name": "Eleanorre Batwing V Neck Top",
+"colour": "Blue / Brown Stripe",
+"price": 39.0,
+"was": null,
+"sizes": [
+"S",
+"M"
+],
+"blurb": "",
+"facts": [
+"Batwing v-neck top",
+"Ribbed neckline, side ruching",
+"Good stretch, unlined",
+"95% polyester 5% elastane",
+"Cold gentle machine wash"
+],
+"n": 4,
+"added": "2026-10-29",
+"shape": 1.35
+},
+{
+"id": "amara-leopard-tank-dark-brown-leopard",
+"style": "Q4535",
+"dept": "tops",
+"kind": "Tanks & Camis",
+"name": "Amara Leopard Tank",
+"colour": "Dark Brown Leopard",
+"price": 20.0,
+"was": null,
+"sizes": [
+"S",
+"M"
+],
+"blurb": "Soft, leopard-print tank top with spaghetti straps and a V-neck.",
+"facts": [
+"Fabrics: 96% cotton, 4% elastane"
+],
+"n": 3,
+"added": "2026-10-30",
+"shape": 1.5
+},
+{
+"id": "ione-quarter-sleeve-top-in-ditsy-leopard-burgund",
+"style": "Q2902",
+"dept": "tops",
+"kind": "Long Sleeves",
+"name": "Ione Quarter Sleeve Top in Ditsy Leopard Burgundy",
+"colour": null,
+"price": 55.0,
+"was": null,
+"sizes": [
+"S",
+"M"
+],
+"blurb": "",
+"facts": [
+"Burgundy ditsy leopard print",
+"Fitted through the body",
+"Boat neckline",
+"Three-quarter-length sleeves"
+],
+"n": 4,
+"added": "2026-10-25",
+"shape": 1.26
+},
+{
+"id": "sinthia-off-shoulder-top-green-floral",
+"style": "Q2243",
+"dept": "tops",
+"kind": "Tops",
+"name": "Sinthia Off Shoulder Top",
+"colour": "Green Floral",
+"price": 69.0,
+"was": null,
+"sizes": [
+"S",
+"M"
+],
+"blurb": "The Sinthia Off Shoulder Top in Green Floral is the kind of piece that does all the talking for you. An asymmetrical neckline and off-shoulder silhouette bring a relaxed elegance to the look, while the long sleeves with adjustable tie cuffs let you dial in exactly the right fit.",
+"facts": [
+"Asymmetrical neckline",
+"Long sleeves",
+"Adjustable tie cuffs",
+"Floral print",
+"Partially lined"
+],
+"n": 4,
+"added": "2026-10-28",
+"shape": 1.5
+},
+{
+"id": "charlie-tee-swan-song",
+"style": "Q4367",
+"dept": "tops",
+"kind": "Tees",
+"name": "Charlie Tee",
+"colour": "Swan Song",
+"price": 85.0,
+"was": null,
+"sizes": [
+"S",
+"M"
+],
+"blurb": "Machine wash cold, gentle, lay flat to dry only. Do not bleach.",
+"facts": [
+"100% Cotton",
+"TOTAL LENGTH",
+"SLEEVE LENGTH"
+],
+"n": 4,
+"added": "2026-09-17",
+"shape": 1.33
+},
+{
+"id": "doron-v-neck-long-sleeve-top-turquoise",
+"style": "Q6538",
+"dept": "tops",
+"kind": "Long Sleeves",
+"name": "Doron V Neck Long Sleeve Top",
+"colour": "Turquoise",
+"price": 25.0,
+"was": 50.0,
+"sizes": [
+"S",
+"M"
+],
+"blurb": "",
+"facts": [
+"Long sleeves",
+"V neckline",
+"Rayon, Cotton, Acrylic, Spandex"
+],
+"n": 4,
+"added": "2026-10-28",
+"shape": 1.5
+},
+{
+"id": "hadlia-off-shoulder-top-black",
+"style": "Q9863",
+"dept": "tops",
+"kind": "Tops",
+"name": "Hadlia Off Shoulder Top",
+"colour": "Black",
+"price": 45.0,
+"was": null,
+"sizes": [
+"S",
+"M"
+],
+"blurb": "",
+"facts": [
+"Ruched, cinched waist",
+"Good stretch, fully lined",
+"Main: 93% polyester 7% elastane, Lining: 95% polyester 5% elastane",
+"Cold gentle machine wash"
+],
+"n": 4,
+"added": "2026-10-29",
+"shape": 1.35
+},
+{
+"id": "zelly-top-white",
+"style": "Q1440",
+"dept": "tops",
+"kind": "Tops",
+"name": "Zelly Top",
+"colour": "White",
+"price": 20.0,
+"was": null,
+"sizes": [
+"S",
+"M"
+],
+"blurb": "",
+"facts": [
+"Fabrics: 100% cotton"
+],
+"n": 4,
+"added": "2026-10-30",
+"shape": 1.5
+},
+{
+"id": "enesty-long-sleeve-top-in-rar-leopard-brown",
+"style": "Q3100",
+"dept": "tops",
+"kind": "Long Sleeves",
+"name": "Enesty Long Sleeve Top in Rar Leopard Brown",
+"colour": null,
+"price": 59.0,
+"was": null,
+"sizes": [
+"S",
+"M"
+],
+"blurb": "",
+"facts": [
+"Fitted through the body",
+"Regular length",
+"High neckline with keyhole tie detail",
+"Long sleeves"
+],
+"n": 4,
+"added": "2026-10-25",
+"shape": 1.26
+},
+{
+"id": "endira-lace-inset-top-brown",
+"style": "Q6966",
+"dept": "tops",
+"kind": "Tops",
+"name": "Endira Lace Inset Top",
+"colour": "Brown",
+"price": 79.0,
+"was": null,
+"sizes": [
+"S",
+"M"
+],
+"blurb": "",
+"facts": [
+"Square neckline",
+"Mid length sleeves",
+"Functional buttons down front",
+"Lace detail",
+"Peplum waist",
+"Unlined"
+],
+"n": 4,
+"added": "2026-10-28",
+"shape": 1.5
+},
+{
+"id": "marin-striped-polo-blue-stripe",
+"style": "Q2243",
+"dept": "tops",
+"kind": "Shirts & Blouses",
+"name": "Marin Striped Polo",
+"colour": "Blue Stripe",
+"price": 118.0,
+"was": null,
+"sizes": [
+"S",
+"M"
+],
+"blurb": "",
+"facts": [
+"Self: 95% Polyester, 5% Spandex, Collar: 100% Cotton",
+"Hand wash cold with like colors, lay flat to dry",
+"Total Length",
+"Sleeve length"
+],
+"n": 4,
+"added": "2026-08-25",
+"shape": 1.33
+},
+{
+"id": "dezi-long-sleeve-knit-top-light-pink",
+"style": "Q8668",
+"dept": "tops",
+"kind": "Long Sleeves",
+"name": "Dezi Long Sleeve Knit Top",
+"colour": "Light-pink",
+"price": 27.0,
+"was": 54.0,
+"sizes": [
+"S",
+"M"
+],
+"blurb": "",
+"facts": [
+"Long sleeves",
+"Knit fabric",
+"Polyester, Nylon, Spandex"
+],
+"n": 4,
+"added": "2026-10-28",
+"shape": 1.5
+},
+{
+"id": "dalenna-lace-long-sleeve-top-cream",
+"style": "Q3227",
+"dept": "tops",
+"kind": "Long Sleeves",
+"name": "Dalenna Lace Long Sleeve Top",
+"colour": "Cream",
+"price": 55.0,
+"was": null,
+"sizes": [
+"S",
+"M"
+],
+"blurb": "",
+"facts": [
+"Lace long sleeve top with crew neckline & flared sleeves",
+"Good stretch, unlined",
+"65% cotton 30% polyamide 5% elastane",
+"Cold gentle machine wash"
+],
+"n": 4,
+"added": "2026-10-29",
+"shape": 1.35
+},
+{
+"id": "isla-tank-top-black",
+"style": "Q3364",
+"dept": "tops",
+"kind": "Tanks & Camis",
+"name": "Isla Tank Top",
+"colour": "Black",
+"price": 8.0,
+"was": null,
+"sizes": [
+"S",
+"M"
+],
+"blurb": "",
+"facts": [
+"Fabrics: 96 % cotton, 4% spandex"
+],
+"n": 4,
+"added": "2026-10-29",
+"shape": 1.5
+},
+{
+"id": "dudley-vest-top-in-neutral-light-camo",
+"style": "Q3746",
+"dept": "tops",
+"kind": "Tops",
+"name": "Dudley Vest Top in Neutral Light Camo",
+"colour": null,
+"price": 51.0,
+"was": null,
+"sizes": [
+"S",
+"M"
+],
+"blurb": "",
+"facts": [
+"Neutral light camo print",
+"Fitted through the body",
+"Boat neckline",
+"Sleeveless"
+],
+"n": 4,
+"added": "2026-10-25",
+"shape": 1.26
+},
+{
+"id": "lucja-cinched-tie-top-ivory",
+"style": "Q8466",
+"dept": "tops",
+"kind": "Tops",
+"name": "Lucja Cinched Tie Top",
+"colour": "Ivory",
+"price": 49.0,
+"was": null,
+"sizes": [
+"S",
+"M"
+],
+"blurb": "",
+"facts": [
+"Round neckline",
+"Short sleeves",
+"Relaxed box fit style",
+"Unlined"
+],
+"n": 4,
+"added": "2026-10-26",
+"shape": 1.5
+},
+{
+"id": "summer-long-sleeve-top-saddle",
+"style": "Q5282",
+"dept": "tops",
+"kind": "Long Sleeves",
+"name": "Summer Long Sleeve Top",
+"colour": "Saddle",
+"price": 108.0,
+"was": null,
+"sizes": [
+"S",
+"M"
+],
+"blurb": "",
+"facts": [
+"95% Polyester, 5% Spandex",
+"Hand wash cold, Lay Flat to Dry",
+"Waist",
+"Total Length",
+"Sleeve Length"
+],
+"n": 4,
+"added": "2026-08-20",
+"shape": 1.33
+},
+{
+"id": "rosalin-gathered-tank-top-pink",
+"style": "Q3539",
+"dept": "tops",
+"kind": "Tanks & Camis",
+"name": "Rosalin Gathered Tank Top",
+"colour": "Pink",
+"price": 5.0,
+"was": null,
+"sizes": [
+"S",
+"M"
+],
+"blurb": "",
+"facts": [
+"Adjustable straps",
+"Contrast straps & neckline",
+"Polyester, Spandex"
+],
+"n": 4,
+"added": "2026-10-28",
+"shape": 1.52
+},
+{
+"id": "viollette-v-neck-long-sleeve-top-blue-stripe",
+"style": "Q2053",
+"dept": "tops",
+"kind": "Long Sleeves",
+"name": "Viollette V Neck Long Sleeve Top",
+"colour": "Blue Stripe",
+"price": 55.0,
+"was": null,
+"sizes": [
+"S",
+"M"
+],
+"blurb": "",
+"facts": [
+"V-neck long sleeve top",
+"Good stretch, unlined",
+"95% cotton 5% elastane",
+"Cold gentle machine wash"
+],
+"n": 4,
+"added": "2026-10-28",
+"shape": 1.35
+},
+{
+"id": "archie-tank-white",
+"style": "Q4307",
+"dept": "tops",
+"kind": "Tanks & Camis",
+"name": "Archie Tank",
+"colour": "White",
+"price": 18.0,
+"was": null,
+"sizes": [
+"S",
+"M"
+],
+"blurb": "",
+"facts": [
+"Spaghetti strap tank with cinched detailing on the bust.",
+"Fabrics: 96% cotton, 4% elastane"
+],
+"n": 3,
+"added": "2026-10-29",
+"shape": 1.5
+},
+{
+"id": "yuso-top-in-waffle-knit-stripe-grey-and-cream",
+"style": "Q3132",
+"dept": "tops",
+"kind": "Long Sleeves",
+"name": "Yuso Top in Waffle Knit Stripe Grey and Cream",
+"colour": null,
+"price": 65.0,
+"was": null,
+"sizes": [
+"S",
+"M"
+],
+"blurb": "",
+"facts": [
+"Grey and cream striped waffle knit fabric",
+"Fitted through the body",
+"Regular length",
+"V-neckline",
+"Long sleeves",
+"Complete the look with the Parallel jeans in washed black grey"
+],
+"n": 4,
+"added": "2026-10-18",
+"shape": 1.26
+},
+{
+"id": "donna-top-black-floral",
+"style": "Q5873",
+"dept": "tops",
+"kind": "Tops",
+"name": "Donna Top",
+"colour": "Black Floral",
+"price": 79.0,
+"was": null,
+"sizes": [
+"S",
+"M"
+],
+"blurb": "",
+"facts": [
+"Mock neckline",
+"Long sleeves",
+"Functional buttons down front",
+"Lace detail",
+"Floral print",
+"Partially lined"
+],
+"n": 4,
+"added": "2026-10-26",
+"shape": 1.5
+},
+{
+"id": "alex-tee-horses",
+"style": "Q8767",
+"dept": "tops",
+"kind": "Tees",
+"name": "Alex Tee",
+"colour": "Horses",
+"price": 78.0,
+"was": null,
+"sizes": [
+"S",
+"M"
+],
+"blurb": "Machine wash cold, gentle, lay flat to dry only. Do not bleach.",
+"facts": [
+"100% Cotton",
+"Total Length",
+"Sleeve Length"
+],
+"n": 4,
+"added": "2026-08-20",
+"shape": 1.33
+},
+{
+"id": "remmi-metal-ring-halter-top-black",
+"style": "Q6943",
+"dept": "tops",
+"kind": "Tanks & Camis",
+"name": "Remmi Metal Ring Halter Top",
+"colour": "Black",
+"price": 27.0,
+"was": 54.0,
+"sizes": [
+"S",
+"M"
+],
+"blurb": "",
+"facts": [
+"Side zip closure",
+"Adjustable straps",
+"Rayon, Nylon, Spandex"
+],
+"n": 4,
+"added": "2026-10-28",
+"shape": 1.5
+},
+{
+"id": "dance-with-shadows-batwing-v-neck-long-sleeve-to",
+"style": "Q2296",
+"dept": "tops",
+"kind": "Long Sleeves",
+"name": "Dance With Shadows Batwing V Neck Long Sleeve Top",
+"colour": "Brown",
+"price": 49.0,
+"was": null,
+"sizes": [
+"S",
+"M"
+],
+"blurb": "",
+"facts": [
+"Batwing v-neck long sleeve",
+"Good stretch, unlined",
+"95% organic cotton 5% elastane",
+"Cold gentle machine wash"
+],
+"n": 4,
+"added": "2026-10-27",
+"shape": 1.35
+},
+{
+"id": "skylar-leopard-tank-teal-leopard-print",
+"style": "Q8534",
+"dept": "tops",
+"kind": "Tanks & Camis",
+"name": "Skylar Leopard Tank",
+"colour": "Teal Leopard Print",
+"price": 18.0,
+"was": null,
+"sizes": [
+"S",
+"M"
+],
+"blurb": "Soft, leopard, cotton tank top with spaghetti straps and a scoop neck.",
+"facts": [
+"Fabrics: 96% cotton, 4% elastane"
+],
+"n": 3,
+"added": "2026-10-29",
+"shape": 1.5
+},
+{
+"id": "daima-top-in-knit-mini-stripe-brown",
+"style": "Q6510",
+"dept": "tops",
+"kind": "Long Sleeves",
+"name": "Daima Top in Knit Mini Stripe Brown",
+"colour": null,
+"price": 73.0,
+"was": null,
+"sizes": [
+"S",
+"M"
+],
+"blurb": "",
+"facts": [
+"Brown mini stripe knit fabric",
+"Relaxed fit",
+"Regular length",
+"Crew neckline",
+"Long sleeves",
+"Ribbed hem"
+],
+"n": 4,
+"added": "2026-10-18",
+"shape": 1.26
+},
+{
+"id": "vina-off-shoulder-top-red",
+"style": "Q6851",
+"dept": "tops",
+"kind": "Tops",
+"name": "Vina Off Shoulder Top",
+"colour": "Red",
+"price": 79.0,
+"was": null,
+"sizes": [
+"S",
+"M"
+],
+"blurb": "",
+"facts": [
+"Sweetheart neckline",
+"Short puff sleeves with elasticised cuffs",
+"Invisible back zip with hook and eye close",
+"Pleated side detail",
+"Peplum hem design",
+"Partially lined"
+],
+"n": 4,
+"added": "2026-10-26",
+"shape": 1.5
+},
+{
+"id": "nia-top-heritage-horse",
+"style": "Q7827",
+"dept": "tops",
+"kind": "Tops",
+"name": "Nia Top",
+"colour": "Heritage Horse",
+"price": 98.0,
+"was": null,
+"sizes": [
+"S",
+"M"
+],
+"blurb": "",
+"facts": [
+"100% Recycled Polyester",
+"Total Length",
+"Sleeve Length"
+],
+"n": 4,
+"added": "2026-08-20",
+"shape": 1.33
+},
+{
+"id": "pippah-layered-lacey-cowl-neck-top-black",
+"style": "Q5636",
+"dept": "tops",
+"kind": "Tops",
+"name": "Pippah Layered Lacey Cowl Neck Top",
+"colour": "Black",
+"price": 31.0,
+"was": 62.0,
+"sizes": [
+"S",
+"M"
+],
+"blurb": "",
+"facts": [
+"Cowl neckline",
+"Layered lace tank top design",
+"Rayon, Spandex"
+],
+"n": 4,
+"added": "2026-10-28",
+"shape": 1.5
+},
+{
+"id": "micah-tee-camo",
+"style": "Q3985",
+"dept": "tops",
+"kind": "Tees",
+"name": "Micah Tee",
+"colour": "Camo",
+"price": 35.0,
+"was": null,
+"sizes": [
+"S",
+"M"
+],
+"blurb": "",
+"facts": [
+"Crew neck tee with cap sleeves",
+"Good stretch, unlined",
+"100% cotton",
+"Cold gentle machine wash"
+],
+"n": 4,
+"added": "2026-10-27",
+"shape": 1.35
+},
+{
+"id": "lia-top-black",
+"style": "Q4910",
+"dept": "tops",
+"kind": "Tops",
+"name": "Lia Top",
+"colour": "Black",
+"price": 28.0,
+"was": null,
+"sizes": [
+"S",
+"M"
+],
+"blurb": "Soft, short-sleeved mesh cape shirt with ruffled trim, buttons, and a bow at the neck.",
+"facts": [
+"Fabrics: 100% polyester"
+],
+"n": 4,
+"added": "2026-10-28",
+"shape": 1.5
+},
+{
+"id": "letoda-top-in-pixel-rose-crochet-knit-brown",
+"style": "Q6745",
+"dept": "tops",
+"kind": "Tops",
+"name": "Letoda Top in Pixel Rose Crochet Knit Brown",
+"colour": null,
+"price": 53.0,
+"was": null,
+"sizes": [
+"S",
+"M"
+],
+"blurb": "",
+"facts": [
+"Brown pixel rose crochet knit fabric",
+"Relaxed fit",
+"Regular body length",
+"Off shoulder neckline",
+"Short sleeves",
+"Curved hemline"
+],
+"n": 4,
+"added": "2026-10-13",
+"shape": 1.26
+},
+{
+"id": "jessim-top-black",
+"style": "Q8097",
+"dept": "tops",
+"kind": "Tops",
+"name": "Jessim Top",
+"colour": "Black",
+"price": 79.0,
+"was": null,
+"sizes": [
+"S",
+"M"
+],
+"blurb": "The Jessim Top in Black is the kind of piece that earns compliments without trying too hard. A flattering V-neckline draws the eye upward, while thin adjustable tie straps let you dial in the perfect fit. The empire waist and peplum hem create a silhouette that's equal parts feminine and fun.",
+"facts": [
+"V neckline",
+"Thin adjustable tie straps",
+"Invisible back zip with hook and eye close",
+"Empire waist",
+"Peplum hem design",
+"Lined"
+],
+"n": 4,
+"added": "2026-10-26",
+"shape": 1.5
+},
+{
+"id": "vivienne-top-black",
+"style": "Q1546",
+"dept": "tops",
+"kind": "Tops",
+"name": "Vivienne Top",
+"colour": "Black",
+"price": 138.0,
+"was": null,
+"sizes": [
+"S",
+"M"
+],
+"blurb": "",
+"facts": [
+"100% Cotton",
+"Hand Wash Cold, Line Dry",
+"Waist",
+"Sleeve Length",
+"Total Length"
+],
+"n": 4,
+"added": "2026-08-12",
+"shape": 1.32
+},
+{
+"id": "siana-lacey-long-sleeve-top-white",
+"style": "Q6285",
+"dept": "tops",
+"kind": "Long Sleeves",
+"name": "Siana Lacey Long Sleeve Top",
+"colour": "White",
+"price": 24.0,
+"was": 48.0,
+"sizes": [
+"S",
+"M"
+],
+"blurb": "",
+"facts": [
+"Long sleeves",
+"Lace detailling",
+"Rayon, Spandex"
+],
+"n": 4,
+"added": "2026-10-28",
+"shape": 1.5
+},
+{
+"id": "nakota-v-neck-cinched-tee-coral",
+"style": "Q5513",
+"dept": "tops",
+"kind": "Tees",
+"name": "Nakota V Neck Cinched Tee",
+"colour": "Coral",
+"price": 39.0,
+"was": null,
+"sizes": [
+"S",
+"M"
+],
+"blurb": "",
+"facts": [
+"V-neck cinched tee with cap sleeves",
+"Good stretch, unlined",
+"95% organic cotton 5% elastane",
+"Cold gentle machine wash"
+],
+"n": 4,
+"added": "2026-10-26",
+"shape": 1.35
+},
+{
+"id": "leah-ribbed-top-white",
+"style": "Q6692",
+"dept": "tops",
+"kind": "Tops",
+"name": "Leah Ribbed Top",
+"colour": "White",
+"price": 22.0,
+"was": null,
+"sizes": [
+"S",
+"M"
+],
+"blurb": "Soft, ribbed, basic, long sleeve shirt with a crewneck collar.",
+"facts": [
+"Fabrics: 100% cotton"
+],
+"n": 4,
+"added": "2026-10-28",
+"shape": 1.5
+},
+{
+"id": "handaru-vest-top-in-heritage-twill-grey",
+"style": "Q3768",
+"dept": "tops",
+"kind": "Tops",
+"name": "Handaru Vest Top in Heritage Twill Grey",
+"colour": null,
+"price": 52.0,
+"was": 65.0,
+"sizes": [
+"S",
+"M"
+],
+"blurb": "",
+"facts": [
+"V-neckline",
+"Sleeveless",
+"Fitted silhouette",
+"Button-front fastening",
+"Waist seam detailing"
+],
+"n": 4,
+"added": "2026-10-04",
+"shape": 1.26
+},
+{
+"id": "aquila-pointelle-knit-top-red",
+"style": "Q3720",
+"dept": "tops",
+"kind": "Tops",
+"name": "Aquila Pointelle Knit Top",
+"colour": "Red",
+"price": 59.0,
+"was": null,
+"sizes": [
+"S",
+"M"
+],
+"blurb": "",
+"facts": [
+"Mockneck",
+"Long sleeves",
+"Pointelle knit style",
+"Soft knit feel",
+"Unlined"
+],
+"n": 4,
+"added": "2026-10-26",
+"shape": 1.5
+},
+{
+"id": "maudie-top-crisp-white",
+"style": "Q4081",
+"dept": "tops",
+"kind": "Tops",
+"name": "Maudie Top",
+"colour": "Crisp White",
+"price": 89.5,
+"was": 128.0,
+"sizes": [
+"S",
+"M"
+],
+"blurb": "Eddy is 5'9.5\", 32D, 23\" Waist, 36\" Hip, and wears a size S, Regan is 5'5\", 41\" Bust, 37\" Waist, 42\" Hip and wears a size XL",
+"facts": [
+"100% Cotton",
+"Machine wash Cold, hang to dry",
+"Sleeve Length",
+"Total Length"
+],
+"n": 4,
+"added": "2026-08-07",
+"shape": 1.33
+},
+{
+"id": "manka-twisted-long-sleeve-top-white",
+"style": "Q4522",
+"dept": "tops",
+"kind": "Long Sleeves",
+"name": "Manka Twisted Long Sleeve Top",
+"colour": "White",
+"price": 27.0,
+"was": 54.0,
+"sizes": [
+"S",
+"M"
+],
+"blurb": "",
+"facts": [
+"Long sleeves",
+"Cotton, Spandex"
+],
+"n": 4,
+"added": "2026-10-22",
+"shape": 1.5
+},
+{
+"id": "cecilly-trim-racerback-top-blue",
+"style": "Q2846",
+"dept": "tops",
+"kind": "Tops",
+"name": "Cecilly Trim Racerback Top",
+"colour": "Blue",
+"price": 35.0,
+"was": null,
+"sizes": [
+"S",
+"M"
+],
+"blurb": "",
+"facts": [
+"Cropped trim racerback top",
+"Good stretch, unlined",
+"60% reclaimed cotton 37% polyester 3% elastane",
+"Cold gentle machine wash"
+],
+"n": 4,
+"added": "2026-10-22",
+"shape": 1.35
+},
+{
+"id": "chloe-top-seafoam-teal",
+"style": "Q2359",
+"dept": "tops",
+"kind": "Tops",
+"name": "Chloe Top",
+"colour": "Seafoam Teal",
+"price": 18.0,
+"was": null,
+"sizes": [
+"S",
+"M"
+],
+"blurb": "",
+"facts": [
+"Soft, lightweight cotton crewneck shirt in seafoam teal.",
+"Fabrics: 100% cotton"
+],
+"n": 2,
+"added": "2026-10-27",
+"shape": 1.5
+},
+{
+"id": "roras-top-in-grey-marl-viscose-spandex",
+"style": "Q6907",
+"dept": "tops",
+"kind": "Long Sleeves",
+"name": "Roras Top in Grey Marl Viscose Spandex",
+"colour": null,
+"price": 65.0,
+"was": null,
+"sizes": [
+"S",
+"M"
+],
+"blurb": "",
+"facts": [
+"Grey marl viscose spandex fabric",
+"Regular fit",
+"Regular length",
+"Scoop neckline",
+"Long sleeves",
+"Ruched detail at waist"
+],
+"n": 4,
+"added": "2026-10-04",
+"shape": 1.26
+},
+{
+"id": "jenna-peplum-top-emerald-brocade",
+"style": "Q3510",
+"dept": "tops",
+"kind": "Tops",
+"name": "Jenna Peplum Top",
+"colour": "Emerald Brocade",
+"price": 69.0,
+"was": null,
+"sizes": [
+"S",
+"M"
+],
+"blurb": "",
+"facts": [
+"Round neckline",
+"Sleeveless design",
+"Back keyhole with button close",
+"Adjustable enclosed waist tie",
+"Lined"
+],
+"n": 4,
+"added": "2026-10-26",
+"shape": 1.5
+},
+{
+"id": "retta-top-stable-toile",
+"style": "Q3552",
+"dept": "tops",
+"kind": "Tops",
+"name": "Retta Top",
+"colour": "Stable Toile",
+"price": 128.0,
+"was": null,
+"sizes": [
+"S",
+"M"
+],
+"blurb": "Eddy is 5'9.5\", 32D, 23\" Waist, 36\" Hip, and wears a size S, Regan is 5'5\", 41\" Bust, 37\" Waist, 42\" Hip and wears a size XL",
+"facts": [
+"100% Cotton",
+"Hand Wash Cold, Line Dry",
+"Sleeve Length",
+"Total Length"
+],
+"n": 4,
+"added": "2026-08-07",
+"shape": 1.33
+},
+{
+"id": "umma-faux-leather-tank-top-black",
+"style": "Q2693",
+"dept": "tops",
+"kind": "Tanks & Camis",
+"name": "Umma Faux Leather Tank Top",
+"colour": "Black",
+"price": 29.0,
+"was": 58.0,
+"sizes": [
+"S",
+"M"
+],
+"blurb": "",
+"facts": [
+"Square neckline",
+"Side zip closure",
+"Faux leather fabric",
+"Polyurethane, Polyester"
+],
+"n": 4,
+"added": "2026-10-22",
+"shape": 1.5
+},
+{
+"id": "corabella-high-scoop-tank-top-dark-grey",
+"style": "Q5599",
+"dept": "tops",
+"kind": "Tanks & Camis",
+"name": "Corabella High Scoop Tank Top",
+"colour": "Dark Grey",
+"price": 39.0,
+"was": null,
+"sizes": [
+"S",
+"M"
+],
+"blurb": "",
+"facts": [
+"Sleeveless high scoop tank top",
+"Good stretch, unlined",
+"94% polyester 6 elastane",
+"Cold gentle machine wash"
+],
+"n": 4,
+"added": "2026-10-22",
+"shape": 1.35
+},
+{
+"id": "adriana-top-black",
+"style": "Q5786",
+"dept": "tops",
+"kind": "Long Sleeves",
+"name": "Adriana Top",
+"colour": "Black",
+"price": 30.0,
+"was": null,
+"sizes": [
+"S",
+"M"
+],
+"blurb": "",
+"facts": [
+"Long-sleeve knit top featuring a tie closure at the chest.",
+"Fabrics: 67% cotton, 33% nylon"
+],
+"n": 3,
+"added": "2026-10-27",
+"shape": 1.5
+},
+{
+"id": "orten-top-in-cotton-jersey-60-s-off-white",
+"style": "Q6577",
+"dept": "tops",
+"kind": "Long Sleeves",
+"name": "Orten Top in Cotton Jersey 60's Off White",
+"colour": null,
+"price": 49.0,
+"was": null,
+"sizes": [
+"S",
+"M"
+],
+"blurb": "",
+"facts": [
+"Off-white cotton jersey fabric",
+"Relaxed fit",
+"Longline length",
+"Scoop neckline",
+"Long sleeves"
+],
+"n": 4,
+"added": "2026-10-04",
+"shape": 1.26
+},
+{
+"id": "zara-top-white",
+"style": "Q6410",
+"dept": "tops",
+"kind": "Tops",
+"name": "Zara Top",
+"colour": "White",
+"price": 25.97,
+"was": 60.0,
+"sizes": [
+"S",
+"M"
+],
+"blurb": "",
+"facts": [
+"Cropped length",
+"Boat neckline",
+"Sleeveless design",
+"Elasticised waist",
+"Unlined"
+],
+"n": 4,
+"added": "2026-10-21",
+"shape": 1.5
+},
+{
+"id": "jude-handkerchief-top-chocolate-stripe",
+"style": "Q9750",
+"dept": "tops",
+"kind": "Tops",
+"name": "Jude Handkerchief Top",
+"colour": "Chocolate Stripe",
+"price": 108.0,
+"was": null,
+"sizes": [
+"S",
+"M"
+],
+"blurb": "Eddy is 5'9.5\", 32D, 23\" Waist, 36\" Hip, and wears a size S, Regan is 5'5\", 41\" Bust, 37\" Waist, 42\" Hip and wears a size XL",
+"facts": [
+"60% Cotton, 35% Polyester, 5% Spandex",
+"Total Length",
+"Sleeve Length"
+],
+"n": 4,
+"added": "2026-08-07",
+"shape": 1.33
+},
+{
+"id": "rileigh-v-neck-flutter-top-black",
+"style": "Q2080",
+"dept": "tops",
+"kind": "Tops",
+"name": "Rileigh V Neck Flutter Top",
+"colour": "Black",
+"price": 24.0,
+"was": 48.0,
+"sizes": [
+"S",
+"M"
+],
+"blurb": "",
+"facts": [
+"V neckline",
+"Flutter sleeves",
+"Polyester"
+],
+"n": 4,
+"added": "2026-10-22",
+"shape": 1.5
+},
+{
+"id": "kaliyah-layered-button-down-top-black",
+"style": "Q2828",
+"dept": "tops",
+"kind": "Shirts & Blouses",
+"name": "Kaliyah Layered Button Down Top",
+"colour": "Black",
+"price": 45.0,
+"was": null,
+"sizes": [
+"S",
+"M"
+],
+"blurb": "",
+"facts": [
+"Layered button-down top with front tie & cap sleeves",
+"Good stretch, unlined",
+"38% rayon 29% cotton 28% acrylic 5% elastane",
+"Cold gentle machine wash"
+],
+"n": 4,
+"added": "2026-10-22",
+"shape": 1.35
+},
+{
+"id": "anita-top-white",
+"style": "Q5954",
+"dept": "tops",
+"kind": "Tops",
+"name": "Anita Top",
+"colour": "White",
+"price": 26.0,
+"was": null,
+"sizes": [
+"S",
+"M"
+],
+"blurb": "",
+"facts": [
+"Square neck, wide straps tank top with scalloped trim.",
+"Fabrics : 100% cotton"
+],
+"n": 3,
+"added": "2026-10-27",
+"shape": 1.5
+},
+{
+"id": "hanna-top-with-asymmetric-buttons-in-jacquard-sa",
+"style": "Q3971",
+"dept": "tops",
+"kind": "Tops",
+"name": "Hanna Top with Asymmetric Buttons in Jacquard Sage Green",
+"colour": null,
+"price": 59.0,
+"was": null,
+"sizes": [
+"S",
+"M"
+],
+"blurb": "",
+"facts": [
+"Fitted through the waist",
+"Regular top length",
+"High neckline with asymmetric button placket",
+"Cap sleeves",
+"Gathered waist seam detail"
+],
+"n": 4,
+"added": "2026-10-04",
+"shape": 1.26
+},
+{
+"id": "braylen-top-burgundy-plaid",
+"style": "Q3377",
+"dept": "tops",
+"kind": "Tops",
+"name": "Braylen Top",
+"colour": "Burgundy Plaid",
+"price": 59.0,
+"was": null,
+"sizes": [
+"S",
+"M"
+],
+"blurb": "",
+"facts": [
+"V neckline",
+"Long sleeves with elasticised cuffs",
+"Plaid print",
+"Partially lined"
+],
+"n": 4,
+"added": "2026-10-21",
+"shape": 1.5
+},
+{
+"id": "london-girl-knit-sweater-gray-melange",
+"style": "Q9453",
+"dept": "knits",
+"kind": "Sweaters",
+"name": "London Girl Knit Sweater",
+"colour": "Gray-melange",
+"price": 84.0,
+"was": null,
+"sizes": [
+"S",
+"M"
+],
+"blurb": "",
+"facts": [],
+"n": 4,
+"added": "2026-11-01",
+"shape": 1.5
+},
+{
+"id": "elowynne-button-up-knit-cardigan-pink",
+"style": "Q5468",
+"dept": "knits",
+"kind": "Cardigans",
+"name": "Elowynne Button Up Knit Cardigan",
+"colour": "Pink",
+"price": 75.0,
+"was": null,
+"sizes": [
+"S",
+"M"
+],
+"blurb": "",
+"facts": [
+"Knit cardigan with oversized fit",
+"Good stretch, unlined",
+"100% polyester",
+"Cold machine wash"
+],
+"n": 4,
+"added": "2026-10-29",
+"shape": 1.35
+},
+{
+"id": "hilda-frill-sleeve-sweater-cream",
+"style": "Q7038",
+"dept": "knits",
+"kind": "Sweaters",
+"name": "Hilda Frill Sleeve Sweater",
+"colour": "Cream",
+"price": 65.0,
+"was": null,
+"sizes": [
+"S",
+"M"
+],
+"blurb": "",
+"facts": [
+"Mock neckline",
+"Short frill sleeves",
+"Ribbed hemline",
+"Soft knit fabrication",
+"Unlined"
+],
+"n": 4,
+"added": "2026-10-28",
+"shape": 1.5
+},
+{
+"id": "renata-striped-sweater-dark-grey-and-black-strip",
+"style": "Q8908",
+"dept": "knits",
+"kind": "Sweaters",
+"name": "Renata Striped Sweater",
+"colour": "Dark Grey and Black Stripes",
+"price": 28.0,
+"was": null,
+"sizes": [
+"S",
+"M"
+],
+"blurb": "Cozy, relaxed-fit thick knit off the shoulder sweater with ribbed trim.",
+"facts": [
+"Fabrics: 100% cotton"
+],
+"n": 3,
+"added": "2026-10-30",
+"shape": 1.5
+},
+{
+"id": "riley-sweater-swan-song",
+"style": "Q2507",
+"dept": "knits",
+"kind": "Sweaters",
+"name": "Riley Sweater",
+"colour": "Swan Song",
+"price": 135.0,
+"was": null,
+"sizes": [
+"S",
+"M"
+],
+"blurb": "",
+"facts": [
+"59% Recycled Polyester, 21% Nylon, 11% Polyester, 8% Wool, 1% Spandex",
+"Total Length",
+"Sleeve Length"
+],
+"n": 4,
+"added": "2026-09-17",
+"shape": 1.33
+},
+{
+"id": "belani-jumper-in-knit-brown-and-duo-stripe-pink-",
+"style": "Q8832",
+"dept": "knits",
+"kind": "Sweaters",
+"name": "Belani Jumper in Knit Brown and Duo Stripe Pink with \"7\" Motif",
+"colour": null,
+"price": 90.0,
+"was": null,
+"sizes": [
+"S",
+"M"
+],
+"blurb": "",
+"facts": [
+"Brown knit fabric",
+"Regular fit",
+"Regular length",
+"Round neckline",
+"Long sleeves",
+"Contrast stripe sleeve detail with \"7\" motif"
+],
+"n": 4,
+"added": "2026-10-18",
+"shape": 1.26
+},
+{
+"id": "senior-girl-oversized-hoodie-light-blue",
+"style": "Q9645",
+"dept": "knits",
+"kind": "Hoodies & Sweatshirts",
+"name": "Senior Girl Oversized Hoodie",
+"colour": "Light-blue",
+"price": 44.0,
+"was": 88.0,
+"sizes": [
+"S",
+"M"
+],
+"blurb": "",
+"facts": [
+"Oversized fit",
+"Polyester, Cotton"
+],
+"n": 4,
+"added": "2026-10-28",
+"shape": 1.5
+},
+{
+"id": "elsari-cinched-waist-v-neck-knit-sweater-charcoa",
+"style": "Q9966",
+"dept": "knits",
+"kind": "Sweaters",
+"name": "Elsari Cinched Waist V Neck Knit Sweater",
+"colour": "Charcoal",
+"price": 75.0,
+"was": null,
+"sizes": [
+"S",
+"M"
+],
+"blurb": "",
+"facts": [
+"Cinched waist v-neck knit sweater",
+"Good stretch, unlined",
+"100% polyester",
+"Cold gentle machine wash"
+],
+"n": 4,
+"added": "2026-10-29",
+"shape": 1.35
+},
+{
+"id": "jess-puff-sleeve-cardigan-leopard",
+"style": "Q4041",
+"dept": "knits",
+"kind": "Cardigans",
+"name": "Jess Puff Sleeve Cardigan",
+"colour": "Leopard",
+"price": 65.0,
+"was": null,
+"sizes": [
+"S",
+"M"
+],
+"blurb": "",
+"facts": [
+"Cropped length",
+"Round neckline",
+"Short puff style sleeves",
+"Ribbed hemline",
+"Functional buttons down front",
+"Soft knit fabrication"
+],
+"n": 4,
+"added": "2026-10-28",
+"shape": 1.5
+},
+{
+"id": "iris-cardigan-charcoal-grey",
+"style": "Q3119",
+"dept": "knits",
+"kind": "Cardigans",
+"name": "Iris Cardigan",
+"colour": "Charcoal Grey",
+"price": 28.0,
+"was": null,
+"sizes": [
+"S",
+"M"
+],
+"blurb": "",
+"facts": [
+"Short-sleeve cropped knit cardigan with ribbed trim.",
+"Fabrics: 87.2% cotton, 12.8% polyester"
+],
+"n": 3,
+"added": "2026-10-29",
+"shape": 1.5
+},
+{
+"id": "hazel-sweater-swan",
+"style": "Q1653",
+"dept": "knits",
+"kind": "Sweaters",
+"name": "Hazel Sweater",
+"colour": "Swan",
+"price": 150.0,
+"was": null,
+"sizes": [
+"S",
+"M"
+],
+"blurb": "",
+"facts": [
+"100% Acrylic",
+"Total Length",
+"Sleeve Length"
+],
+"n": 4,
+"added": "2026-09-17",
+"shape": 1.33
+},
+{
+"id": "jaita-v-neck-jumper-in-chunky-knit-black",
+"style": "Q4797",
+"dept": "knits",
+"kind": "Sweaters",
+"name": "Jaita V Neck Jumper in Chunky Knit Black",
+"colour": null,
+"price": 90.0,
+"was": null,
+"sizes": [
+"S",
+"M"
+],
+"blurb": "",
+"facts": [
+"Black chunky knit fabric",
+"Relaxed fit",
+"Regular length",
+"V-neckline",
+"Long sleeves",
+"Ribbed trim detail"
+],
+"n": 4,
+"added": "2026-10-13",
+"shape": 1.26
+},
+{
+"id": "mountain-drive-knit-sweater-light-gray-melange",
+"style": "Q2324",
+"dept": "knits",
+"kind": "Sweaters",
+"name": "Mountain Drive Knit Sweater",
+"colour": "Light-gray-melange",
+"price": 35.0,
+"was": 70.0,
+"sizes": [
+"S",
+"M"
+],
+"blurb": "",
+"facts": [
+"Knit fabric",
+"Rayon, Polyester, Nylon"
+],
+"n": 4,
+"added": "2026-10-25",
+"shape": 1.5
+},
+{
+"id": "kelisso-button-down-cardigan-grey",
+"style": "Q5963",
+"dept": "knits",
+"kind": "Cardigans",
+"name": "Kelisso Button Down Cardigan",
+"colour": "Grey",
+"price": 75.0,
+"was": null,
+"sizes": [
+"S",
+"M"
+],
+"blurb": "",
+"facts": [
+"Cropped button-down cardigan with crew neck",
+"Good stretch, unlined",
+"85% polyester 12% acrylic 3% spandex",
+"Cold gentle machine wash"
+],
+"n": 4,
+"added": "2026-10-28",
+"shape": 1.35
+},
+{
+"id": "lloyd-oversized-crew-knit-sweater-burgundy",
+"style": "Q5264",
+"dept": "knits",
+"kind": "Sweaters",
+"name": "Lloyd Oversized Crew Knit Sweater",
+"colour": "Burgundy",
+"price": 99.0,
+"was": null,
+"sizes": [
+"S",
+"M"
+],
+"blurb": "",
+"facts": [
+"Round neckline",
+"Long sleeves",
+"Relaxed oversized fit",
+"Unlined"
+],
+"n": 4,
+"added": "2026-10-28",
+"shape": 1.5
+},
+{
+"id": "nikki-striped-sweater-pastel-blue-stripes",
+"style": "Q2117",
+"dept": "knits",
+"kind": "Sweaters",
+"name": "Nikki Striped Sweater",
+"colour": "Pastel Blue Stripes",
+"price": 38.0,
+"was": null,
+"sizes": [
+"S",
+"M"
+],
+"blurb": "Fabrics: 13.6% mohair, 16.8% sheep's wool, 39.0% acrylic, 30.6% nylon",
+"facts": [
+"Comfortable, lightweight, striped button-up knit cardigan."
+],
+"n": 3,
+"added": "2026-10-22",
+"shape": 1.5
+},
+{
+"id": "lauda-cardi-prairie-plaid",
+"style": "Q2627",
+"dept": "knits",
+"kind": "Sweaters",
+"name": "Lauda Cardi",
+"colour": "Prairie Plaid",
+"price": 150.0,
+"was": null,
+"sizes": [
+"S",
+"M"
+],
+"blurb": "",
+"facts": [
+"50% Recycled Polyester, 29% Nylon, 15% Polyester, 6% Wool",
+"Total Length",
+"Sleeve Length"
+],
+"n": 4,
+"added": "2026-08-20",
+"shape": 1.33
+},
+{
+"id": "filahia-bardot-jumper-in-burgundy",
+"style": "Q7563",
+"dept": "knits",
+"kind": "Sweaters",
+"name": "Filahia Bardot Jumper in Burgundy",
+"colour": null,
+"price": 66.0,
+"was": 82.0,
+"sizes": [
+"S",
+"M"
+],
+"blurb": "",
+"facts": [
+"Burgundy knit fabric",
+"Regular fit",
+"Regular length",
+"Off-shoulder bardot foldover neckline",
+"Long sleeves",
+"Ribbed cuffs"
+],
+"n": 4,
+"added": "2026-10-04",
+"shape": 1.26
+},
+{
+"id": "ooma-knit-wrap-sweater-white",
+"style": "Q5333",
+"dept": "knits",
+"kind": "Sweaters",
+"name": "Ooma Knit Wrap Sweater",
+"colour": "White",
+"price": 38.0,
+"was": 76.0,
+"sizes": [
+"S",
+"M"
+],
+"blurb": "",
+"facts": [
+"Scalloped trim",
+"Knit fabric",
+"Rayon, Polyester, Nylon"
+],
+"n": 4,
+"added": "2026-10-22",
+"shape": 1.5
+},
+{
+"id": "lulieta-wrap-detail-knit-sweater-pink-grey-strip",
+"style": "Q8461",
+"dept": "knits",
+"kind": "Sweaters",
+"name": "Lulieta Wrap Detail Knit Sweater",
+"colour": "Pink / Grey Stripe",
+"price": 59.0,
+"was": null,
+"sizes": [
+"S",
+"M"
+],
+"blurb": "",
+"facts": [
+"V-neck wrap-detail knit sweater with ribbed neckline",
+"Good stretch, unlined",
+"52% acrylic 28% nylon 20% polyester",
+"Cold gentle machine wash"
+],
+"n": 4,
+"added": "2026-10-28",
+"shape": 1.35
+},
+{
+"id": "bayden-knit-sweater-blue",
+"style": "Q9697",
+"dept": "knits",
+"kind": "Sweaters",
+"name": "Bayden Knit Sweater",
+"colour": "Blue",
+"price": 79.0,
+"was": null,
+"sizes": [
+"S",
+"M"
+],
+"blurb": "",
+"facts": [
+"Long sleeves",
+"Ribbed knit hemline and cuffs",
+"Soft knit fabrication",
+"Unlined"
+],
+"n": 4,
+"added": "2026-10-28",
+"shape": 1.5
+},
+{
+"id": "teya-sweater-brown",
+"style": "Q3850",
+"dept": "knits",
+"kind": "Sweaters",
+"name": "Teya Sweater",
+"colour": "Brown",
+"price": 28.0,
+"was": null,
+"sizes": [
+"S",
+"M"
+],
+"blurb": "",
+"facts": [
+"Long-sleeve V-neck sweater.",
+"Fabrics: 58% cotton, 38% polyamide, 4% elastane"
+],
+"n": 4,
+"added": "2026-10-20",
+"shape": 1.5
+},
+{
+"id": "angie-sweater-sweet-pink",
+"style": "Q9664",
+"dept": "knits",
+"kind": "Sweaters",
+"name": "Angie Sweater",
+"colour": "Sweet Pink",
+"price": 150.0,
+"was": null,
+"sizes": [
+"S",
+"M"
+],
+"blurb": "Introducing the Angie Sweater : a playful striped knit with a cropped, straight fit. It features a button down the front with pink buttons for a sweet finishing touch. Cozy ribbed trim adds structure, while the bold stripes keep it fun.",
+"facts": [
+"76% Recycled Polyester, 22% Acrylic, 8% Wool, 3% Spandex",
+"Total Length",
+"Sleeve Length"
+],
+"n": 4,
+"added": "2026-08-20",
+"shape": 1.33
+},
+{
+"id": "azrina-jumper-in-knit-grey",
+"style": "Q7884",
+"dept": "knits",
+"kind": "Sweaters",
+"name": "Azrina Jumper in Knit Grey",
+"colour": null,
+"price": 78.0,
+"was": null,
+"sizes": [
+"S",
+"M"
+],
+"blurb": "",
+"facts": [
+"Grey knit fabric",
+"Regular fit",
+"Regular length",
+"Off-shoulder foldover neckline",
+"Long sleeves",
+"Ribbed cuffs"
+],
+"n": 4,
+"added": "2026-10-04",
+"shape": 1.26
+},
+{
+"id": "prudy-off-shoulder-pointelle-knit-sweater-burgun",
+"style": "Q5795",
+"dept": "knits",
+"kind": "Sweaters",
+"name": "Prudy Off Shoulder Pointelle Knit Sweater",
+"colour": "Burgundy",
+"price": 35.0,
+"was": 70.0,
+"sizes": [
+"S",
+"M"
+],
+"blurb": "",
+"facts": [
+"Pointelle knit fabric",
+"Rayon, Polyester, Nylon"
+],
+"n": 4,
+"added": "2026-10-22",
+"shape": 1.5
+},
+{
+"id": "zionie-knit-sweater-aqua-brown-stripe",
+"style": "Q3887",
+"dept": "knits",
+"kind": "Sweaters",
+"name": "Zionie Knit Sweater",
+"colour": "Aqua / Brown Stripe",
+"price": 85.0,
+"was": null,
+"sizes": [
+"S",
+"M"
+],
+"blurb": "",
+"facts": [
+"Oversized knit sweater in stripe print with crew neck",
+"Good stretch, unlined",
+"68% reclaimed polyester 32% polyester",
+"Cold gentle machine wash"
+],
+"n": 4,
+"added": "2026-10-27",
+"shape": 1.35
+},
+{
+"id": "sarina-long-line-cardigan-beige-marle",
+"style": "Q1415",
+"dept": "knits",
+"kind": "Cardigans",
+"name": "Sarina Long Line Cardigan",
+"colour": "Beige Marle",
+"price": 79.0,
+"was": null,
+"sizes": [
+"S",
+"M"
+],
+"blurb": "",
+"facts": [
+"Long lined",
+"Long sleeves",
+"Ribbed cuffs",
+"Unlined"
+],
+"n": 4,
+"added": "2026-10-26",
+"shape": 1.5
+},
+{
+"id": "eliana-cable-knit-cardigan-ivory",
+"style": "Q2115",
+"dept": "knits",
+"kind": "Cardigans",
+"name": "Eliana Cable Knit Cardigan",
+"colour": "Ivory",
+"price": 38.0,
+"was": null,
+"sizes": [
+"S",
+"M"
+],
+"blurb": "Comfortable, button up, round neck cardigan in a cotton with ribbed trim.",
+"facts": [
+"Fabrics: 100% cotton"
+],
+"n": 3,
+"added": "2026-10-20",
+"shape": 1.5
+},
+{
+"id": "luna-sweater-cherry-cola",
+"style": "Q4629",
+"dept": "knits",
+"kind": "Sweaters",
+"name": "Luna Sweater",
+"colour": "Cherry Cola",
+"price": 150.0,
+"was": null,
+"sizes": [
+"S",
+"M"
+],
+"blurb": "Meet the Luna Sweater: a vintage inspired off the shoulder striped knit in a rich burgundy, finished with pops of red and navy. Relaxed and slightly cropped fit with ribbed trims for structure.",
+"facts": [
+"100% Acrylic",
+"Total Length",
+"Sleeve Length"
+],
+"n": 4,
+"added": "2026-08-20",
+"shape": 1.33
+},
+{
+"id": "namirta-jumper-in-navy-and-light-blue-with-black",
+"style": "Q7608",
+"dept": "knits",
+"kind": "Sweaters",
+"name": "Namirta Jumper in Navy and Light Blue with Black Stripe",
+"colour": null,
+"price": 76.0,
+"was": 95.0,
+"sizes": [
+"S",
+"M"
+],
+"blurb": "",
+"facts": [
+"Navy and light blue striped knit fabric with a black accent stripe",
+"Relaxed, oversized fit",
+"Regular length",
+"Crew neckline",
+"Long cuffed sleeves"
+],
+"n": 4,
+"added": "2026-10-04",
+"shape": 1.26
+},
+{
+"id": "winnefred-cropped-sweatshirt-light-pink",
+"style": "Q8272",
+"dept": "knits",
+"kind": "Hoodies & Sweatshirts",
+"name": "Winnefred Cropped Sweatshirt",
+"colour": "Light-pink",
+"price": 34.0,
+"was": 68.0,
+"sizes": [
+"S",
+"M"
+],
+"blurb": "",
+"facts": [
+"Cropped fit",
+"Fitted waist",
+"Cotton, Polyester"
+],
+"n": 4,
+"added": "2026-10-22",
+"shape": 1.5
+},
+{
+"id": "aubry-oversized-true-knit-hoodie-pink-stripe",
+"style": "Q1480",
+"dept": "knits",
+"kind": "Hoodies & Sweatshirts",
+"name": "Aubry Oversized True Knit Hoodie",
+"colour": "Pink Stripe",
+"price": 75.0,
+"was": null,
+"sizes": [
+"S",
+"M"
+],
+"blurb": "",
+"facts": [
+"Oversized true knit hoodie in stripe print",
+"Zip closure, twin pockets, drop shoulders",
+"Good stretch, unlined",
+"68% reclaimed polyester 32% polyester",
+"Cold gentle machine wash"
+],
+"n": 4,
+"added": "2026-10-27",
+"shape": 1.35
+},
+{
+"id": "mandie-bobble-cardigan-beige-marle",
+"style": "Q5104",
+"dept": "knits",
+"kind": "Cardigans",
+"name": "Mandie Bobble Cardigan",
+"colour": "Beige Marle",
+"price": 99.0,
+"was": null,
+"sizes": [
+"S",
+"M"
+],
+"blurb": "",
+"facts": [
+"Round neckline",
+"Long sleeves with ribbed cuffs",
+"Functional buttons down front",
+"Bobble knit fabrication",
+"Unlined"
+],
+"n": 4,
+"added": "2026-10-26",
+"shape": 1.5
+},
+{
+"id": "abbie-sweater-black",
+"style": "Q9591",
+"dept": "knits",
+"kind": "Sweaters",
+"name": "Abbie Sweater",
+"colour": "Black",
+"price": 35.0,
+"was": null,
+"sizes": [
+"S",
+"M"
+],
+"blurb": "Classic, regular fit, crewneck sweater in a wool-blend knit with ribbed trim.",
+"facts": [
+"Fabrics: 80% wool, 20% polyamide"
+],
+"n": 4,
+"added": "2026-10-16",
+"shape": 1.5
+},
+{
+"id": "louise-mockneck-sweater-primary-stripe",
+"style": "Q6959",
+"dept": "knits",
+"kind": "Sweaters",
+"name": "Louise Mockneck Sweater",
+"colour": "Primary Stripe",
+"price": 168.0,
+"was": null,
+"sizes": [
+"S",
+"M"
+],
+"blurb": "",
+"facts": [
+"49% Recycled Polyester, 13% Acrylic, 18% Nylon, 8% Wool, 11% Polyester, 1% Span",
+"Total Length",
+"Sleeve Length"
+],
+"n": 4,
+"added": "2026-08-20",
+"shape": 1.33
+},
+{
+"id": "namirta-jumper-in-grey-with-raven-raspberry-stri",
+"style": "Q2202",
+"dept": "knits",
+"kind": "Sweaters",
+"name": "Namirta Jumper in Grey with Raven Raspberry Stripe",
+"colour": null,
+"price": 95.0,
+"was": null,
+"sizes": [
+"S",
+"M"
+],
+"blurb": "",
+"facts": [
+"Grey ribbed knit fabric with a raspberry stripe",
+"Relaxed, oversized fit",
+"Regular length",
+"Crew neckline",
+"Long sleeves"
+],
+"n": 4,
+"added": "2026-09-13",
+"shape": 1.26
+},
+{
+"id": "bostynn-cropped-knit-cardigan-white",
+"style": "Q4415",
+"dept": "knits",
+"kind": "Cardigans",
+"name": "Bostynn Cropped Knit Cardigan",
+"colour": "White",
+"price": 30.0,
+"was": 60.0,
+"sizes": [
+"S",
+"M"
+],
+"blurb": "",
+"facts": [
+"Cropped fit",
+"Front button closures",
+"Knit fabric",
+"Rayon, Polyester, Nylon"
+],
+"n": 4,
+"added": "2026-10-22",
+"shape": 1.5
+},
+{
+"id": "chelzie-zip-through-graphic-hoodie-grey-marle-ca",
+"style": "Q9582",
+"dept": "knits",
+"kind": "Hoodies & Sweatshirts",
+"name": "Chelzie Zip Through Graphic Hoodie",
+"colour": "Grey Marle / Camo",
+"price": 79.0,
+"was": null,
+"sizes": [
+"S",
+"M"
+],
+"blurb": "",
+"facts": [
+"Oversized zip-through graphic hoodie",
+"Star camo detail at side, twin front pockets, ribbed detail, drop shoulders",
+"Non-stretch material, unlined",
+"Main: 85% cotton 15% polyester, Contrast: 95 cotton 5 elastane Lining: 100% cotton",
+"Cold gentle machine wash"
+],
+"n": 4,
+"added": "2026-10-27",
+"shape": 1.35
+},
+{
+"id": "jackson-cardigan-cream-fair-isle",
+"style": "Q1925",
+"dept": "knits",
+"kind": "Cardigans",
+"name": "Jackson Cardigan",
+"colour": "Cream Fair Isle",
+"price": 89.0,
+"was": null,
+"sizes": [
+"S",
+"M"
+],
+"blurb": "",
+"facts": [
+"Crew neckline",
+"Long sleeves",
+"Functional button down front",
+"Fair Isle print",
+"Unlined"
+],
+"n": 4,
+"added": "2026-10-26",
+"shape": 1.5
+},
+{
+"id": "andrea-cable-knit-sweater-dark-grey",
+"style": "Q8828",
+"dept": "knits",
+"kind": "Sweaters",
+"name": "Andrea Cable Knit Sweater",
+"colour": "Dark Grey",
+"price": 45.0,
+"was": null,
+"sizes": [
+"S",
+"M"
+],
+"blurb": "",
+"facts": [
+"Chunky knit sweater with a collared button-up.",
+"Fabrics: 100% acrylic"
+],
+"n": 3,
+"added": "2026-10-13",
+"shape": 1.5
+},
+{
+"id": "hart-long-sleeve-mini-dress-pink",
+"style": "Q8410",
+"dept": "dresses",
+"kind": "Mini",
+"name": "Hart Long Sleeve Mini Dress",
+"colour": "Pink",
+"price": 34.97,
+"was": 99.0,
+"sizes": [
+"S",
+"M"
+],
+"blurb": "Step out in effortless style with the Hart Long Sleeve Mini Dress in Pink. Featuring an elegant v-neckline and a playful mini-length silhouette, this dress is designed to turn heads. The long sleeves with elasticised cuffs add a touch of sophistication while keeping you comfortable all day.",
+"facts": [
+"Mini length",
+"V neckline",
+"Long sleeves with elasticised cuffs",
+"Functional buttons down front",
+"Decorative trim detail",
+"Lined"
+],
+"n": 4,
+"added": "2026-10-28",
+"shape": 1.5
+},
+{
+"id": "dorothy-dress-leafbud",
+"style": "Q8856",
+"dept": "dresses",
+"kind": "Dresses",
+"name": "Dorothy Dress",
+"colour": "Leafbud",
+"price": 188.0,
+"was": null,
+"sizes": [
+"S",
+"M"
+],
+"blurb": "Introducing the Dorothy Dress in a beautiful chartreuse. The perfect dress for special occasions and everyday. This midi dress features a V-neck bust with two front ties and ruffle edge. Finished with lace detailing. Lined with a side zip closure.",
+"facts": [
+"100% Polyester",
+"Hand wash cold, Hang dry",
+"Waist",
+"Total Length"
+],
+"n": 4,
+"added": "2026-09-18",
+"shape": 1.33
+},
+{
+"id": "louisia-v-neck-hanky-hem-midi-dress-red",
+"style": "Q9569",
+"dept": "dresses",
+"kind": "Maxi",
+"name": "Louisia V Neck Hanky Hem Midi Dress",
+"colour": "Red",
+"price": 75.0,
+"was": null,
+"sizes": [
+"S",
+"M"
+],
+"blurb": "",
+"facts": [
+"Sleeveless v-neck midi dress with hanky hem with ruched detail",
+"Good stretch, unlined",
+"92% viscose 8% spandex",
+"Cold gentle machine wash"
+],
+"n": 4,
+"added": "2026-10-29",
+"shape": 1.35
+},
+{
+"id": "shanaya-beaded-sweeatheart-mini-dress-magenta",
+"style": "Q4072",
+"dept": "dresses",
+"kind": "Mini",
+"name": "Shanaya Beaded Sweeatheart Mini Dress",
+"colour": "Magenta",
+"price": 48.0,
+"was": 96.0,
+"sizes": [
+"S",
+"M"
+],
+"blurb": "",
+"facts": [
+"Sweetheart neckline",
+"Back zip closure",
+"Neck tie closure",
+"Beaded trim",
+"Polyester",
+"Item care: Hand wash, do not bleach, do not tumble dry, do not iron, do not dry clean"
+],
+"n": 4,
+"added": "2026-10-28",
+"shape": 1.5
+},
+{
+"id": "lanie-v-neck-mini-dress-in-jersey-ocean-storm",
+"style": "Q1526",
+"dept": "dresses",
+"kind": "Mini",
+"name": "Lanie V Neck Mini Dress in Jersey Ocean Storm",
+"colour": null,
+"price": 62.0,
+"was": null,
+"sizes": [
+"S",
+"M"
+],
+"blurb": "",
+"facts": [
+"Fitted silhouette",
+"Mini length",
+"V neckline",
+"Flutter sleeves",
+"Asymmetric ruffle hem"
+],
+"n": 4,
+"added": "2026-10-13",
+"shape": 1.26
+},
+{
+"id": "margot-dress-brown",
+"style": "Q9587",
+"dept": "dresses",
+"kind": "Dresses",
+"name": "Margot Dress",
+"colour": "Brown",
+"price": 28.0,
+"was": null,
+"sizes": [
+"S",
+"M"
+],
+"blurb": "Spaghetti strap dress with a ruffle hem detail at the bottom.",
+"facts": [
+"Fabrics: 95% viscose, 5% elastane"
+],
+"n": 3,
+"added": "2026-10-14",
+"shape": 1.5
+},
+{
+"id": "amabel-halterneck-midi-dress-black",
+"style": "Q4294",
+"dept": "dresses",
+"kind": "Midi",
+"name": "Amabel Halterneck Midi Dress",
+"colour": "Black",
+"price": 109.0,
+"was": null,
+"sizes": [
+"S",
+"M"
+],
+"blurb": "The Amabel Midi Dress makes getting dressed feel effortless. Cut to midi length with a halter neckline, it's crafted from a soft satin fabric with a subtle metallic sheen that catches the light with every move. A back neck drape adds a touch of drama, while the front fold detail on the neckline brings structure to the design.",
+"facts": [
+"Midi length",
+"Halter neckline",
+"Side invisible zip with hook and eye close",
+"Back neck drape feature",
+"Soft satin fabrication with subtle metallic sheen",
+"Lined"
+],
+"n": 4,
+"added": "2026-10-28",
+"shape": 1.5
+},
+{
+"id": "philippa-dress-venetian-blue",
+"style": "Q5962",
+"dept": "dresses",
+"kind": "Dresses",
+"name": "Philippa Dress",
+"colour": "Venetian Blue",
+"price": 168.0,
+"was": null,
+"sizes": [
+"S",
+"M"
+],
+"blurb": "",
+"facts": [
+"100% Polyester",
+"Hand Wash Cold, Line Dry",
+"Waist",
+"Sleeve Length",
+"Total Length"
+],
+"n": 4,
+"added": "2026-09-17",
+"shape": 1.33
+},
+{
+"id": "settle-down-long-sleeve-v-neck-mini-dress-white",
+"style": "Q8228",
+"dept": "dresses",
+"kind": "Mini",
+"name": "Settle Down Long Sleeve V Neck Mini Dress",
+"colour": "White",
+"price": 75.0,
+"was": null,
+"sizes": [
+"S",
+"M"
+],
+"blurb": "",
+"facts": [
+"Long-sleeve v-neck mini dress",
+"Good stretch, unlined",
+"100% cotton",
+"Cold gentle machine wash"
+],
+"n": 4,
+"added": "2026-10-29",
+"shape": 1.35
+},
+{
+"id": "brandie-sequin-mini-dress-dark-gray",
+"style": "Q6141",
+"dept": "dresses",
+"kind": "Mini",
+"name": "Brandie Sequin Mini Dress",
+"colour": "Dark-gray",
+"price": 47.0,
+"was": 94.0,
+"sizes": [
+"S",
+"M"
+],
+"blurb": "",
+"facts": [
+"Adjustable straps",
+"Fitted skirt",
+"Lyocell, Polyester, Spandex"
+],
+"n": 4,
+"added": "2026-10-14",
+"shape": 1.5
+},
+{
+"id": "pelagia-long-sleeve-mini-dress-in-moss-green",
+"style": "Q2242",
+"dept": "dresses",
+"kind": "Mini",
+"name": "Pelagia Long Sleeve Mini Dress in Moss Green",
+"colour": null,
+"price": 65.0,
+"was": null,
+"sizes": [
+"S",
+"M"
+],
+"blurb": "",
+"facts": [
+"Moss green rayon jersey fabric",
+"Mini length",
+"Scoop neckline with keyhole tie detail",
+"Long sleeves"
+],
+"n": 4,
+"added": "2026-09-27",
+"shape": 1.26
+},
+{
+"id": "bayden-one-shoulder-midi-dress-emerald",
+"style": "Q9316",
+"dept": "dresses",
+"kind": "Midi",
+"name": "Bayden One Shoulder Midi Dress",
+"colour": "Emerald",
+"price": 89.0,
+"was": null,
+"sizes": [
+"S",
+"M"
+],
+"blurb": "",
+"facts": [
+"Midi length",
+"One shoulder style with asymmetrical neckline",
+"Side invisible zip with hook and eye close",
+"Ruched waist detail",
+"Lined"
+],
+"n": 4,
+"added": "2026-10-28",
+"shape": 1.5
+},
+{
+"id": "paz-dress-prairie-paisley",
+"style": "Q5622",
+"dept": "dresses",
+"kind": "Dresses",
+"name": "Paz Dress",
+"colour": "Prairie Paisley",
+"price": 158.0,
+"was": null,
+"sizes": [
+"S",
+"M"
+],
+"blurb": "",
+"facts": [
+"95% Rayon, 5% Spandex",
+"Hand Wash Cold, Line Dry",
+"Waist",
+"Total Length"
+],
+"n": 4,
+"added": "2026-08-20",
+"shape": 1.33
+},
+{
+"id": "fienna-beaded-mini-dress-purple",
+"style": "Q7673",
+"dept": "dresses",
+"kind": "Mini",
+"name": "Fienna Beaded Mini Dress",
+"colour": "Purple",
+"price": 69.0,
+"was": null,
+"sizes": [
+"S",
+"M"
+],
+"blurb": "",
+"facts": [
+"Square neckline, adjustable satin straps",
+"Good stretch, fully lined",
+"Cold hand wash"
+],
+"n": 4,
+"added": "2026-10-28",
+"shape": 1.35
+},
+{
+"id": "milaya-mini-dress-in-chiffon-black",
+"style": "Q8039",
+"dept": "dresses",
+"kind": "Mini",
+"name": "Milaya Mini Dress in Chiffon Black",
+"colour": null,
+"price": 69.0,
+"was": null,
+"sizes": [
+"S",
+"M"
+],
+"blurb": "",
+"facts": [
+"Relaxed, layered fit",
+"Mini length",
+"Halter neckline with tie fastening",
+"Sleeveless",
+"Layered, curved hemline"
+],
+"n": 4,
+"added": "2026-09-20",
+"shape": 1.26
+},
+{
+"id": "cova-mini-dress-burgundy",
+"style": "Q5878",
+"dept": "dresses",
+"kind": "Mini",
+"name": "Cova Mini Dress",
+"colour": "Burgundy",
+"price": 79.0,
+"was": null,
+"sizes": [
+"S",
+"M"
+],
+"blurb": "",
+"facts": [
+"Mini length",
+"Off shoulder style with straight neckline",
+"Invisible back zip with hook and eye close",
+"Soft velvet fabrication",
+"Lined"
+],
+"n": 4,
+"added": "2026-10-28",
+"shape": 1.5
+},
+{
+"id": "cindy-dress-tobacco-stripe",
+"style": "Q3617",
+"dept": "dresses",
+"kind": "Dresses",
+"name": "Cindy Dress",
+"colour": "Tobacco Stripe",
+"price": 138.0,
+"was": null,
+"sizes": [
+"S",
+"M"
+],
+"blurb": "Eddy is 5'9.5\", 32D, 23\" Waist, 36\" Hip, and wears a size S, Regan is 5'5\", 41\" Bust, 37\" Waist, 42\" Hip and wears a size XL",
+"facts": [
+"95% Cotton 5% Spandex",
+"Hand Wash Cold, Line Dry",
+"Waist",
+"Total Length"
+],
+"n": 4,
+"added": "2026-08-07",
+"shape": 1.33
+},
+{
+"id": "kelia-3-4-sleeve-v-neck-mini-dress-charcoal-peti",
+"style": "Q2490",
+"dept": "dresses",
+"kind": "Mini",
+"name": "Kelia 3/4 Sleeve V Neck Mini Dress Charcoal Petite",
+"colour": "Charcoal",
+"price": 69.0,
+"was": null,
+"sizes": [
+"S",
+"M"
+],
+"blurb": "",
+"facts": [
+"3/4 sleeve v neck mini dress",
+"Good stretch, fully lined",
+"Main: 70% reclaimed viscose 30% reclaimed polyester, Lining: 95% polyester 5% elastane",
+"Cold gentle machine wash"
+],
+"n": 4,
+"added": "2026-10-27",
+"shape": 1.35
+},
+{
+"id": "sundari-quarter-sleeve-mini-dress-in-rayon-jerse",
+"style": "Q2857",
+"dept": "dresses",
+"kind": "Mini",
+"name": "Sundari Quarter Sleeve Mini Dress in Rayon Jersey Chocolate Brown",
+"colour": null,
+"price": 72.0,
+"was": null,
+"sizes": [
+"S",
+"M"
+],
+"blurb": "",
+"facts": [
+"Chocolate brown rayon jersey fabric",
+"Regular fit",
+"Mini length",
+"V-neckline",
+"Three-quarter sleeves"
+],
+"n": 4,
+"added": "2026-09-20",
+"shape": 1.26
+},
+{
+"id": "karish-halterneck-midi-dress-purple-velvet",
+"style": "Q6178",
+"dept": "dresses",
+"kind": "Midi",
+"name": "Karish Halterneck Midi Dress",
+"colour": "Purple Velvet",
+"price": 89.0,
+"was": null,
+"sizes": [
+"S",
+"M"
+],
+"blurb": "",
+"facts": [
+"Midi length",
+"Halter neckline with adjustable tie close",
+"Soft velvet floral print",
+"Lined"
+],
+"n": 4,
+"added": "2026-10-28",
+"shape": 1.5
+},
+{
+"id": "peggy-dress-chocolate",
+"style": "Q9114",
+"dept": "dresses",
+"kind": "Dresses",
+"name": "Peggy Dress",
+"colour": "Chocolate",
+"price": 117.5,
+"was": 168.0,
+"sizes": [
+"S",
+"M"
+],
+"blurb": "Introducing The Peggy Dress - A comfy oversized midi dress for an effortlessly cute look. Finished with pockets. Lined.",
+"facts": [
+"100% Cotton",
+"Hand Wash Cold, Lay Flat to Dry",
+"Length"
+],
+"n": 4,
+"added": "2026-07-09",
+"shape": 1.33
+},
+{
+"id": "avelline-picot-trim-mini-dress-black",
+"style": "Q4431",
+"dept": "dresses",
+"kind": "Mini",
+"name": "Avelline Picot Trim Mini Dress",
+"colour": "Black",
+"price": 65.0,
+"was": null,
+"sizes": [
+"S",
+"M"
+],
+"blurb": "",
+"facts": [
+"Lace trim scoop neck mini dress",
+"Non-stretch material, unlined",
+"96% polyester 4% spandex",
+"Cold gentle machine wash"
+],
+"n": 4,
+"added": "2026-10-25",
+"shape": 1.35
+},
+{
+"id": "ufacy-ruched-v-neck-mini-dress-in-cool-blue",
+"style": "Q4331",
+"dept": "dresses",
+"kind": "Mini",
+"name": "Ufacy Ruched V-Neck Mini Dress in Cool Blue",
+"colour": null,
+"price": 43.0,
+"was": 57.0,
+"sizes": [
+"S",
+"M"
+],
+"blurb": "",
+"facts": [
+"Cool blue rayon jersey fabric",
+"Fitted through the body",
+"Mini length",
+"Collared V-neckline with ruched detail",
+"Short sleeves"
+],
+"n": 4,
+"added": "2026-09-13",
+"shape": 1.26
+},
+{
+"id": "micaela-long-sleeve-mini-dress-cherry-polka-dot",
+"style": "Q6004",
+"dept": "dresses",
+"kind": "Mini",
+"name": "Micaela Long Sleeve Mini Dress",
+"colour": "Cherry Polka Dot",
+"price": 79.0,
+"was": null,
+"sizes": [
+"S",
+"M"
+],
+"blurb": "",
+"facts": [
+"Mini length",
+"Boat neckline",
+"Long sleeves with elasticised cuffs",
+"Drawstring tie close detail on sleeves",
+"Back neck opening with tie close",
+"Lined"
+],
+"n": 4,
+"added": "2026-10-28",
+"shape": 1.5
+},
+{
+"id": "eloise-midi-dress-black",
+"style": "Q2690",
+"dept": "dresses",
+"kind": "Midi",
+"name": "Eloise Midi Dress",
+"colour": "Black",
+"price": 158.0,
+"was": null,
+"sizes": [
+"S",
+"M"
+],
+"blurb": "",
+"facts": [
+"98% POLYESTER, 2% SPANDEX",
+"Hand wash cold with like colors, Hang to dry",
+"Zulma is 5'5, 36A Bust, 26\" Waist, 30\" Hip, and wears a size S",
+"Waist",
+"Total Length"
+],
+"n": 4,
+"added": "2026-06-04",
+"shape": 1.33
+},
+{
+"id": "angel-antics-halter-mini-dress-burgundy",
+"style": "Q7037",
+"dept": "dresses",
+"kind": "Mini",
+"name": "Angel Antics Halter Mini Dress",
+"colour": "Burgundy",
+"price": 75.0,
+"was": null,
+"sizes": [
+"S",
+"M"
+],
+"blurb": "",
+"facts": [
+"Non-stretch material, fully lined",
+"Main: 100% reclaimed polyester, Lining: 100% polyester",
+"Cold hand wash"
+],
+"n": 4,
+"added": "2026-10-22",
+"shape": 1.35
+},
+{
+"id": "denzella-mini-dress-black",
+"style": "Q2005",
+"dept": "dresses",
+"kind": "Mini",
+"name": "Denzella Mini Dress",
+"colour": "Black",
+"price": 59.0,
+"was": null,
+"sizes": [
+"S",
+"M"
+],
+"blurb": "",
+"facts": [
+"Mini length",
+"Elasticised halter neckline",
+"Side invisible zip with hook and eye close",
+"Soft satin fabrication",
+"Lined"
+],
+"n": 4,
+"added": "2026-10-28",
+"shape": 1.5
+},
+{
+"id": "manon-midi-dress-raspberry-stripe",
+"style": "Q3617",
+"dept": "dresses",
+"kind": "Midi",
+"name": "Manon Midi Dress",
+"colour": "Raspberry Stripe",
+"price": 117.5,
+"was": 168.0,
+"sizes": [
+"S",
+"M"
+],
+"blurb": "",
+"facts": [
+"95% cotton 5% spandex",
+"Hand Wash Cold, Line Dry",
+"Waist",
+"Total Length"
+],
+"n": 4,
+"added": "2026-05-27",
+"shape": 1.33
+},
+{
+"id": "noemmi-high-neck-ruched-maxi-dress-black",
+"style": "Q8380",
+"dept": "dresses",
+"kind": "Maxi",
+"name": "Noemmi High Neck Ruched Maxi Dress",
+"colour": "Black",
+"price": 79.0,
+"was": null,
+"sizes": [
+"S",
+"M"
+],
+"blurb": "",
+"facts": [
+"High-neck ruched sleeveless maxi dress",
+"Good stretch, fully lined",
+"Main: 90% reclaimed polyester 10% elastane, Lining: 97% polyester 3% elastane",
+"Cold gentle machine wash"
+],
+"n": 4,
+"added": "2026-10-22",
+"shape": 1.35
+},
+{
+"id": "sweenie-midi-dress-green",
+"style": "Q5480",
+"dept": "dresses",
+"kind": "Midi",
+"name": "Sweenie Midi Dress",
+"colour": "Green",
+"price": 89.0,
+"was": null,
+"sizes": [
+"S",
+"M"
+],
+"blurb": "",
+"facts": [
+"Midi length",
+"Asymmetrical neckline",
+"Single adjustable thin shoulder strap",
+"Side invisible zip with hook and eye close",
+"Draped neck sash detail",
+"Subtle cowl effect on neckline"
+],
+"n": 4,
+"added": "2026-10-28",
+"shape": 1.5
+},
+{
+"id": "quinn-dress-sun",
+"style": "Q9088",
+"dept": "dresses",
+"kind": "Dresses",
+"name": "Quinn Dress",
+"colour": "Sun",
+"price": 148.0,
+"was": null,
+"sizes": [
+"S",
+"M"
+],
+"blurb": "The Quinn Dress is a 100% cotton mini dress featuring an adjustable tie at center front. Finished with pockets. This mini dress has a 3 tier detail at the hem. Lined. Running slightly large, suggest to size down if in between sizes.",
+"facts": [
+"Self: 100% Cotton, Linning: 100% Cotton",
+"Hand Wash Cold, Line Dry",
+"Total Length"
+],
+"n": 4,
+"added": "2026-05-07",
+"shape": 1.33
+},
+{
+"id": "hibiscus-girl-scooped-a-line-mini-dress-brown",
+"style": "Q7263",
+"dept": "dresses",
+"kind": "Mini",
+"name": "Hibiscus Girl Scooped A Line Mini Dress",
+"colour": "Brown",
+"price": 59.0,
+"was": null,
+"sizes": [
+"S",
+"M"
+],
+"blurb": "",
+"facts": [
+"Good stretch, unlined",
+"87% reclaimed polyamide 13% elastane",
+"Cold hand wash"
+],
+"n": 4,
+"added": "2026-10-22",
+"shape": 1.35
+},
+{
+"id": "alliana-maxi-dress-black",
+"style": "Q8695",
+"dept": "dresses",
+"kind": "Maxi",
+"name": "Alliana Maxi Dress",
+"colour": "Black",
+"price": 89.0,
+"was": null,
+"sizes": [
+"S",
+"M"
+],
+"blurb": "Effortless elegance meets everyday ease in the Alliana Maxi Dress. This floor-skimming silhouette is designed to make a statement without trying too hard, featuring a chic mock neckline and cap sleeves that add just the right amount of coverage.",
+"facts": [
+"Maxi length",
+"Mock neckline",
+"Cap sleeves",
+"Lined"
+],
+"n": 4,
+"added": "2026-10-28",
+"shape": 1.5
+},
+{
+"id": "leigh-dress-dove",
+"style": "Q8760",
+"dept": "dresses",
+"kind": "Dresses",
+"name": "Leigh Dress",
+"colour": "Dove",
+"price": 168.0,
+"was": null,
+"sizes": [
+"S",
+"M"
+],
+"blurb": "Fan-favorite: The Leigh Dress is a 100% cotton mini dress with a point collar at front and back featuring a bow at center front. This mini dress features a tiered detail at the bottom hem. Running slightly large, suggest to size down if in between sizes.",
+"facts": [
+"100% Cotton",
+"Hand Wash Cold, Line Dry",
+"Total Length",
+"Sleeve Length"
+],
+"n": 4,
+"added": "2026-02-11",
+"shape": 1.33
+},
+{
+"id": "ainsleah-button-waist-off-shoulder-mini-dress-sl",
+"style": "Q7411",
+"dept": "dresses",
+"kind": "Mini",
+"name": "Ainsleah Button Waist Off Shoulder Mini Dress",
+"colour": "Slate",
+"price": 59.0,
+"was": null,
+"sizes": [
+"S",
+"M"
+],
+"blurb": "",
+"facts": [
+"Button waist off-shoulder mini dress",
+"Good stretch, partially lined",
+"Main & lining: 96% LENZING™ Ecovero 4% elastane",
+"Cold gentle machine wash"
+],
+"n": 4,
+"added": "2026-10-22",
+"shape": 1.35
+},
+{
+"id": "roselia-off-shoulder-maxi-dress-cherry-polka-dot",
+"style": "Q6946",
+"dept": "dresses",
+"kind": "Maxi",
+"name": "Roselia Off Shoulder Maxi Dress",
+"colour": "Cherry Polka Dot",
+"price": 99.0,
+"was": null,
+"sizes": [
+"S",
+"M"
+],
+"blurb": "",
+"facts": [
+"Maxi length",
+"Sweetheart neckline",
+"Invisible back zip with hook and eye clasp",
+"Delicate lace trim detail",
+"Polka dot print",
+"Lined"
+],
+"n": 4,
+"added": "2026-10-28",
+"shape": 1.5
+},
+{
+"id": "soho-dress-noir-garden",
+"style": "Q3599",
+"dept": "dresses",
+"kind": "Dresses",
+"name": "Soho Dress",
+"colour": "Noir Garden",
+"price": 107.5,
+"was": 215.0,
+"sizes": [
+"S",
+"M"
+],
+"blurb": "",
+"facts": [
+"100% Cotton",
+"Waist",
+"Length",
+"Sleeve Length"
+],
+"n": 4,
+"added": "2026-01-15",
+"shape": 1.33
+},
+{
+"id": "henrieta-lace-up-maxi-dress-burgundy",
+"style": "Q1627",
+"dept": "dresses",
+"kind": "Maxi",
+"name": "Henrieta Lace Up Maxi Dress",
+"colour": "Burgundy",
+"price": 89.0,
+"was": null,
+"sizes": [
+"S",
+"M"
+],
+"blurb": "",
+"facts": [
+"Lace-up long-sleeve maxi dress",
+"Good stretch, unlined",
+"Main 1 & lining: 85% nylon 15% spandex, Lining: 95% polyester 5% spandex",
+"Cold gentle machine wash"
+],
+"n": 4,
+"added": "2026-10-22",
+"shape": 1.35
+},
+{
+"id": "sylvara-maxi-dress-burgundy",
+"style": "Q4135",
+"dept": "dresses",
+"kind": "Maxi",
+"name": "Sylvara Maxi Dress",
+"colour": "Burgundy",
+"price": 99.0,
+"was": null,
+"sizes": [
+"S",
+"M"
+],
+"blurb": "",
+"facts": [
+"Maxi length",
+"V neckline",
+"Short puff sleeves",
+"Elasticised shirred waistband",
+"Unlined"
+],
+"n": 4,
+"added": "2026-10-28",
+"shape": 1.5
+},
+{
+"id": "dahlia-dress-red-dot",
+"style": "Q3602",
+"dept": "dresses",
+"kind": "Dresses",
+"name": "Dahlia Dress",
+"colour": "Red Dot",
+"price": 168.0,
+"was": null,
+"sizes": [
+"S",
+"M"
+],
+"blurb": "",
+"facts": [
+"Self: 100% Polyester, lining: 100% Polyester",
+"Hand wash cold with like colors, lay flat to dry",
+"Waist",
+"Total Length"
+],
+"n": 4,
+"added": "2025-12-11",
+"shape": 1.33
+},
+{
+"id": "latrina-v-neck-long-sleeve-knit-mini-dress-dark-",
+"style": "Q9119",
+"dept": "dresses",
+"kind": "Mini",
+"name": "Latrina V Neck Long Sleeve Knit Mini Dress",
+"colour": "Dark Grey",
+"price": 75.0,
+"was": null,
+"sizes": [
+"S",
+"M"
+],
+"blurb": "",
+"facts": [
+"V-neck long sleeve knit mini dress",
+"Good stretch, unlined",
+"63% reclaimed polyester 25% polyester 12% nylon",
+"Cold gentle machine wash"
+],
+"n": 4,
+"added": "2026-10-21",
+"shape": 1.35
+},
+{
+"id": "jennings-midi-dress-white",
+"style": "Q7952",
+"dept": "dresses",
+"kind": "Midi",
+"name": "Jennings Midi Dress",
+"colour": "White",
+"price": 45.97,
+"was": 129.0,
+"sizes": [
+"S",
+"M"
+],
+"blurb": "",
+"facts": [
+"Midi length",
+"Square neckline",
+"Non adjustable straps",
+"Functional buttons down front",
+"Unlined"
+],
+"n": 4,
+"added": "2026-10-26",
+"shape": 1.5
+},
+{
+"id": "jenny-mini-dress-dove",
+"style": "Q9716",
+"dept": "dresses",
+"kind": "Mini",
+"name": "Jenny Mini Dress",
+"colour": "Dove",
+"price": 148.0,
+"was": null,
+"sizes": [
+"S",
+"M"
+],
+"blurb": "Fan-favorite: The Jenny Mini Dress is a 100% cotton mini dress with a point collar at front and back featuring a bow at center front. This mini dress has an eyelet detail at the hem. Running slightly large, suggest to size down if in between sizes.",
+"facts": [
+"100% Cotton",
+"Hand Wash Cold, Line Dry",
+"Total Length"
+],
+"n": 4,
+"added": "2025-07-21",
+"shape": 1.33
+},
+{
+"id": "odela-strapless-drop-waist-maxi-dress-black",
+"style": "Q6605",
+"dept": "dresses",
+"kind": "Maxi",
+"name": "Odela Strapless Drop Waist Maxi Dress",
+"colour": "Black",
+"price": 99.0,
+"was": null,
+"sizes": [
+"S",
+"M"
+],
+"blurb": "",
+"facts": [
+"Maxi dress with an asymmetrical drop waist & strapless neckline",
+"Silicone strip, pleated skirt, zip closure at side, scarf detail, lace-up back",
+"Non-stretch material, fully lined",
+"Main: 97% polyester 3% elastane, Lining: 100% polyester",
+"Cold gentle machine wash"
+],
+"n": 4,
+"added": "2026-10-21",
+"shape": 1.35
+},
+{
+"id": "louise-midi-dress-cream",
+"style": "Q6767",
+"dept": "dresses",
+"kind": "Midi",
+"name": "Louise Midi Dress",
+"colour": "Cream",
+"price": 38.97,
+"was": 109.0,
+"sizes": [
+"S",
+"M"
+],
+"blurb": "",
+"facts": [
+"Midi length",
+"V neckline",
+"Back invisible zip with hook and eye clasp",
+"Lace trim detail",
+"Lined"
+],
+"n": 4,
+"added": "2026-10-26",
+"shape": 1.5
+},
+{
+"id": "perdita-long-sleeve-lace-maxi-dress-dark-brown",
+"style": "Q5305",
+"dept": "dresses",
+"kind": "Maxi",
+"name": "Perdita Long Sleeve Lace Maxi Dress",
+"colour": "Dark Brown",
+"price": 99.0,
+"was": null,
+"sizes": [
+"S",
+"M"
+],
+"blurb": "",
+"facts": [
+"Long-sleeve maxi dress in lace fabric",
+"Folded-over detail, silicone strip, hook & zip back closure, flutter sleeves",
+"Good stretch, fully lined",
+"Main: 90% nylon 10% elastane, Lining: 97% polyester 3% elastane",
+"Cold hand wash"
+],
+"n": 4,
+"added": "2026-10-20",
+"shape": 1.35
+},
+{
+"id": "celestelle-sequin-maxi-dress-black-pearl",
+"style": "Q8735",
+"dept": "dresses",
+"kind": "Maxi",
+"name": "Celestelle Sequin Maxi Dress",
+"colour": "Black Pearl",
+"price": 119.0,
+"was": null,
+"sizes": [
+"S",
+"M"
+],
+"blurb": "The Celestelle Sequin Maxi Dress in Black Pearl is pure evening magic. Its floor-grazing maxi length flows beautifully with every step, while the square neckline adds a modern, editorial edge to the silhouette. Covered in black paillette sequins of varying sizes, this dress catches the light from every angle, creating a shimmering effect that feels both bold and elegant.",
+"facts": [
+"Maxi length",
+"Square neckline",
+"Thin adjustable shoulder straps",
+"Lined"
+],
+"n": 4,
+"added": "2026-10-26",
+"shape": 1.5
+},
+{
+"id": "adalynne-twist-front-mini-dress-black",
+"style": "Q8448",
+"dept": "dresses",
+"kind": "Mini",
+"name": "Adalynne Twist Front Mini Dress",
+"colour": "Black",
+"price": 65.0,
+"was": null,
+"sizes": [
+"S",
+"M"
+],
+"blurb": "",
+"facts": [
+"High neck with ruched detail, zip closure",
+"Non-stretch material, fully lined",
+"Main & lining: 100% polyester",
+"Cold gentle machine wash"
+],
+"n": 4,
+"added": "2026-10-19",
+"shape": 1.35
+},
+{
+"id": "twylar-long-sleeve-velvet-mini-dress-navy",
+"style": "Q9931",
+"dept": "dresses",
+"kind": "Mini",
+"name": "Twylar Long Sleeve Velvet Mini Dress",
+"colour": "Navy",
+"price": 89.0,
+"was": null,
+"sizes": [
+"S",
+"M"
+],
+"blurb": "Embrace elegance with the Twylar Velvet Mini Dress. The long balloon sleeves create a striking silhouette while elasticised cuffs ensure comfortable wear throughout the night. The invisible back zip with hook and eye clasp provides a seamless finish, letting the dress's beautiful lines take center stage.",
+"facts": [
+"Mini length",
+"High neckline",
+"Long balloon sleeves with elasticised cuffs",
+"Back invisible zip with hook and eye clasp",
+"Soft velvet fabrication",
+"Lined"
+],
+"n": 4,
+"added": "2026-10-26",
+"shape": 1.5
+},
+{
+"id": "airabella-long-sleeve-lace-mini-dress-chocolate",
+"style": "Q9248",
+"dept": "dresses",
+"kind": "Mini",
+"name": "Airabella Long Sleeve Lace Mini Dress",
+"colour": "Chocolate",
+"price": 85.0,
+"was": null,
+"sizes": [
+"S",
+"M"
+],
+"blurb": "",
+"facts": [
+"Mini dress in lace fabric with long sleeves",
+"V-neckline, side split with adjustable tie closure, flared sleeves",
+"Slightly stretched, fully lined",
+"Main: 90% reclaimed nylon 10% spandex, Lining: 95% reclaimed nylon 5% spandex",
+"Cold hand wash"
+],
+"n": 4,
+"added": "2026-10-19",
+"shape": 1.35
+},
+{
+"id": "solenza-mini-skirt-brown-check",
+"style": "Q6115",
+"dept": "skirts",
+"kind": "Mini",
+"name": "Solenza Mini Skirt",
+"colour": "Brown Check",
+"price": 49.0,
+"was": null,
+"sizes": [
+"S",
+"M"
+],
+"blurb": "",
+"facts": [
+"Mini skirt in plaid print",
+"Side zip closure",
+"Non-stretch material, fully lined",
+"Main: 78% polyester, 19% viscose, 3% spandex",
+"Cold machine wash"
+],
+"n": 4,
+"added": "2026-11-01",
+"shape": 1.35
+},
+{
+"id": "darcy-skort-turquoise",
+"style": "Q9530",
+"dept": "skirts",
+"kind": "Mini",
+"name": "Darcy Skort",
+"colour": "Turquoise",
+"price": 88.0,
+"was": null,
+"sizes": [
+"S",
+"M"
+],
+"blurb": "",
+"facts": [
+"95% Cotton, 5% Spandex",
+"Machine wash cold, Tumble dry low",
+"Waist",
+"Skirt Length"
+],
+"n": 4,
+"added": "2026-10-22",
+"shape": 1.33
+},
+{
+"id": "calle-knit-skirt-set-grey",
+"style": "Q4476",
+"dept": "skirts",
+"kind": "Mini",
+"name": "Calle Knit Skirt Set",
+"colour": "Grey",
+"price": 109.0,
+"was": null,
+"sizes": [
+"S",
+"M"
+],
+"blurb": "",
+"facts": [
+"Boat neckline",
+"Long sleeves with elasticised cuffs",
+"Elasticised shirred waist panel",
+"Maxi length skirt",
+"High rise waist",
+"Elasticised shirred waist band with adjustable drawstring tie"
+],
+"n": 4,
+"added": "2026-10-28",
+"shape": 1.5
+},
+{
+"id": "emisra-knot-midi-skirt-in-jersey-grey",
+"style": "Q2505",
+"dept": "skirts",
+"kind": "Maxi & Midi",
+"name": "Emisra Knot Midi Skirt in Jersey Grey",
+"colour": null,
+"price": 75.0,
+"was": null,
+"sizes": [
+"S",
+"M"
+],
+"blurb": "",
+"facts": [
+"Flared fit",
+"Midi length",
+"Low rise",
+"Foldover waistband detail"
+],
+"n": 4,
+"added": "2026-10-25",
+"shape": 1.26
+},
+{
+"id": "mariska-mini-skirt-multi",
+"style": "Q6686",
+"dept": "skirts",
+"kind": "Mini",
+"name": "Mariska Mini Skirt",
+"colour": "Multi",
+"price": 25.0,
+"was": 79.0,
+"sizes": [
+"S",
+"M"
+],
+"blurb": "",
+"facts": [
+"Tiered ruffled trim",
+"Unlined",
+"SIZE & FIT",
+"Mini length",
+"95% Polyester 5% Spandex",
+"Wash and dry garment inside out"
+],
+"n": 4,
+"added": "2026-05-19",
+"shape": 1.53
+},
+{
+"id": "riley-plaid-skirt-black-green-and-white-plaid",
+"style": "Q3496",
+"dept": "skirts",
+"kind": "Mini",
+"name": "Riley Plaid Skirt",
+"colour": "Black Green and White Plaid",
+"price": 32.0,
+"was": null,
+"sizes": [
+"S",
+"M"
+],
+"blurb": "",
+"facts": [
+"Green plaid cotton mini skirt with pleated detailing.",
+"Fabrics: 100% cotton"
+],
+"n": 4,
+"added": "2026-10-30",
+"shape": 1.5
+},
+{
+"id": "esmira-asymmetrical-midi-skirt-brown-stripe-peti",
+"style": "Q9564",
+"dept": "skirts",
+"kind": "Maxi & Midi",
+"name": "Esmira Asymmetrical Midi Skirt Brown Stripe",
+"colour": "Petite",
+"price": 65.0,
+"was": null,
+"sizes": [
+"S",
+"M"
+],
+"blurb": "",
+"facts": [
+"Asymmetrical midi skirt in stripe print",
+"Side zip closure, tie with bead detailing, low-rise",
+"Non-stretch material, fully lined",
+"Main & lining: 100% polyester",
+"Cold gentle machine wash"
+],
+"n": 4,
+"added": "2026-10-27",
+"shape": 1.35
+},
+{
+"id": "penny-skirt-ballet-plaid",
+"style": "Q5574",
+"dept": "skirts",
+"kind": "Mini",
+"name": "Penny Skirt",
+"colour": "Ballet Plaid",
+"price": 158.0,
+"was": null,
+"sizes": [
+"S",
+"M"
+],
+"blurb": "Meet the Penny Skirt in Ballet Plaid! Finished with flattering drop waist, lined and finished with a back zipper closure.",
+"facts": [
+"70% Tencel 30% Nylon",
+"Hand wash cold, Hang dry",
+"Waist",
+"Total Length"
+],
+"n": 4,
+"added": "2026-09-17",
+"shape": 1.33
+},
+{
+"id": "mayven-drop-waist-midi-skirt-plum-polka-dot",
+"style": "Q2908",
+"dept": "skirts",
+"kind": "Maxi & Midi",
+"name": "Mayven Drop Waist Midi Skirt",
+"colour": "Plum Polka Dot",
+"price": 79.0,
+"was": null,
+"sizes": [
+"S",
+"M"
+],
+"blurb": "",
+"facts": [
+"Drop waist design",
+"Midi length",
+"High rise waist",
+"Side invisible zip with hook and eye clasp",
+"Polka dot print",
+"Lined"
+],
+"n": 4,
+"added": "2026-10-28",
+"shape": 1.5
+},
+{
+"id": "izaro-midi-skirt-in-croc-suede-dark-brown",
+"style": "Q1921",
+"dept": "skirts",
+"kind": "Maxi & Midi",
+"name": "Izaro Midi Skirt in Croc Suede Dark Brown",
+"colour": null,
+"price": 91.0,
+"was": null,
+"sizes": [
+"S",
+"M"
+],
+"blurb": "",
+"facts": [
+"Dark brown croc-embossed suede fabric",
+"Midi length",
+"Low rise"
+],
+"n": 4,
+"added": "2026-10-25",
+"shape": 1.26
+},
+{
+"id": "dana-skirt-navy-blue",
+"style": "Q8000",
+"dept": "skirts",
+"kind": "Mini",
+"name": "Dana Skirt",
+"colour": "Navy Blue",
+"price": 32.0,
+"was": null,
+"sizes": [
+"S",
+"M"
+],
+"blurb": "",
+"facts": [
+"Pleated skirt with side buttons and adjustable waist.",
+"Fabrics: 80% polyester , 20% viscose"
+],
+"n": 3,
+"added": "2026-10-27",
+"shape": 1.5
+},
+{
+"id": "caviar-tie-maxi-skirt-brown-stripe-tall",
+"style": "Q1722",
+"dept": "skirts",
+"kind": "Maxi & Midi",
+"name": "Caviar Tie Maxi Skirt Brown Stripe",
+"colour": "Tall",
+"price": 65.0,
+"was": null,
+"sizes": [
+"S",
+"M"
+],
+"blurb": "",
+"facts": [
+"Maxi skirt in stripe print with a tie design",
+"Mesh fabric, elasticated waistband, side waist ruched, raw cut hem, mid-rise fit",
+"Good stretch, fully lined",
+"Main: 93% reclaimed polyester 7% elastane, Lining: 97% polyester 3% elastane",
+"Cold hand wash"
+],
+"n": 4,
+"added": "2026-10-27",
+"shape": 1.35
+},
+{
+"id": "renee-skirt-swan-song",
+"style": "Q6877",
+"dept": "skirts",
+"kind": "Mini",
+"name": "Renee Skirt",
+"colour": "Swan Song",
+"price": 148.0,
+"was": null,
+"sizes": [
+"S",
+"M"
+],
+"blurb": "",
+"facts": [
+"45% Viscose 55% Rayon",
+"Machine wash cold with like colors. Line Dry",
+"Waist",
+"Length"
+],
+"n": 4,
+"added": "2026-09-17",
+"shape": 1.33
+},
+{
+"id": "daymond-mini-skirt-red-sequin-tartan",
+"style": "Q9412",
+"dept": "skirts",
+"kind": "Mini",
+"name": "Daymond Mini Skirt",
+"colour": "Red Sequin Tartan",
+"price": 79.0,
+"was": null,
+"sizes": [
+"S",
+"M"
+],
+"blurb": "",
+"facts": [
+"High rise waist",
+"Mini length",
+"Invisible side zip with hook and eye close",
+"Lined"
+],
+"n": 4,
+"added": "2026-10-26",
+"shape": 1.5
+},
+{
+"id": "niyani-mini-skirt-in-chocolate-with-blue-trim",
+"style": "Q7317",
+"dept": "skirts",
+"kind": "Mini",
+"name": "Niyani Mini Skirt in Chocolate with Blue Trim",
+"colour": null,
+"price": 46.0,
+"was": null,
+"sizes": [
+"S",
+"M"
+],
+"blurb": "",
+"facts": [
+"Chocolate brown lined mesh fabric",
+"Relaxed , A-line silhouette",
+"Mini length",
+"Low rise",
+"Contrast blue waistband trim"
+],
+"n": 4,
+"added": "2026-10-13",
+"shape": 1.26
+},
+{
+"id": "norelai-knit-skort-multi-stripe",
+"style": "Q8572",
+"dept": "skirts",
+"kind": "Mini",
+"name": "Norelai Knit Skort",
+"colour": "Multi Stripe",
+"price": 55.0,
+"was": null,
+"sizes": [
+"S",
+"M"
+],
+"blurb": "",
+"facts": [
+"Knit skort in multi-stripe print",
+"Elasticated waist, side split, built-in shorts, mid-rise",
+"Good stretch, unlined",
+"100% reclaimed polyester",
+"Cold hand wash"
+],
+"n": 4,
+"added": "2026-10-25",
+"shape": 1.35
+},
+{
+"id": "star-skort-moss-plaid",
+"style": "Q5997",
+"dept": "skirts",
+"kind": "Mini",
+"name": "Star Skort",
+"colour": "Moss Plaid",
+"price": 138.0,
+"was": null,
+"sizes": [
+"S",
+"M"
+],
+"blurb": "",
+"facts": [
+"100% Cotton",
+"Waist",
+"Skirt Length"
+],
+"n": 4,
+"added": "2026-08-20",
+"shape": 1.33
+},
+{
+"id": "penny-mini-skater-skirt-green-plaid",
+"style": "Q4935",
+"dept": "skirts",
+"kind": "Mini",
+"name": "Penny Mini Skater Skirt",
+"colour": "Green Plaid",
+"price": 59.0,
+"was": null,
+"sizes": [
+"S",
+"M"
+],
+"blurb": "",
+"facts": [
+"Mini length",
+"High rise waist",
+"Invisible side zip with hook and eye clasp",
+"Pleated design",
+"Non functional waist tie",
+"Lined"
+],
+"n": 4,
+"added": "2026-10-26",
+"shape": 1.5
+},
+{
+"id": "juliena-coat-with-skirt-hem-in-dark-grey",
+"style": "Q2678",
+"dept": "skirts",
+"kind": "Mini",
+"name": "Juliena Coat with Skirt Hem in Dark Grey",
+"colour": null,
+"price": 150.0,
+"was": null,
+"sizes": [
+"S",
+"M"
+],
+"blurb": "",
+"facts": [
+"Dark grey wool blend fabric",
+"Regular fit",
+"Thigh-length",
+"Collared neckline",
+"Long sleeves",
+"Double breasted button front"
+],
+"n": 4,
+"added": "2026-10-13",
+"shape": 1.26
+},
+{
+"id": "true-visions-belted-maxi-skirt-charcoal",
+"style": "Q3643",
+"dept": "skirts",
+"kind": "Maxi & Midi",
+"name": "True Visions Belted Maxi Skirt",
+"colour": "Charcoal",
+"price": 65.0,
+"was": null,
+"sizes": [
+"S",
+"M"
+],
+"blurb": "",
+"facts": [
+"Belted maxi skirt in mid-rise",
+"Removable belt, belt loops, button zip closure",
+"Non-stretch material, unlined",
+"100% cotton",
+"Cold hand wash"
+],
+"n": 4,
+"added": "2026-10-18",
+"shape": 1.35
+},
+{
+"id": "sandy-midi-skirt-heritage-horse",
+"style": "Q6021",
+"dept": "skirts",
+"kind": "Maxi & Midi",
+"name": "Sandy Midi Skirt",
+"colour": "Heritage Horse",
+"price": 118.0,
+"was": null,
+"sizes": [
+"S",
+"M"
+],
+"blurb": "",
+"facts": [
+"Self: 80% Polyester, 20% Nylon",
+"Hand Wash Cold, Line Dry",
+"Waist",
+"Total Length"
+],
+"n": 4,
+"added": "2026-08-20",
+"shape": 1.33
+},
+{
+"id": "parker-faux-leather-mini-skirt-black",
+"style": "Q9459",
+"dept": "skirts",
+"kind": "Mini",
+"name": "Parker Faux Leather Mini Skirt",
+"colour": "Black",
+"price": 69.0,
+"was": null,
+"sizes": [
+"S",
+"M"
+],
+"blurb": "",
+"facts": [
+"Mini length",
+"High rise waist",
+"Invisible side zip with hook and eye clasp",
+"Faux leather fabrication",
+"Lined"
+],
+"n": 4,
+"added": "2026-10-26",
+"shape": 1.5
+},
+{
+"id": "azila-midi-skirt-in-chiffon-blue-and-brown-check",
+"style": "Q4951",
+"dept": "skirts",
+"kind": "Maxi & Midi",
+"name": "Azila Midi Skirt in Chiffon Blue and Brown Check",
+"colour": null,
+"price": 55.0,
+"was": null,
+"sizes": [
+"S",
+"M"
+],
+"blurb": "",
+"facts": [
+"A-line fit",
+"Midi length",
+"Low rise"
+],
+"n": 4,
+"added": "2026-10-04",
+"shape": 1.26
+},
+{
+"id": "stefenie-denim-skort-washed-black-tall-black",
+"style": "Q3680",
+"dept": "skirts",
+"kind": "Mini",
+"name": "Stefenie Denim Skort Washed Black Tall",
+"colour": "Black",
+"price": 54.0,
+"was": null,
+"sizes": [
+"S",
+"M"
+],
+"blurb": "",
+"facts": [
+"Denim skort in low-rise fit",
+"Invisible zipper on side, twin back pockets, built-in shorts",
+"Non-stretch material, fully lined",
+"Main: 99% cotton 1% viscose, Pocketing: 65% polyester 35% cotton",
+"Cold gentle machine wash"
+],
+"n": 4,
+"added": "2026-10-15",
+"shape": 1.35
+},
+{
+"id": "amora-skirt-prairie-paisley",
+"style": "Q4709",
+"dept": "skirts",
+"kind": "Mini",
+"name": "Amora Skirt",
+"colour": "Prairie Paisley",
+"price": 138.0,
+"was": null,
+"sizes": [
+"S",
+"M"
+],
+"blurb": "",
+"facts": [
+"95% Rayon, 5% Spandex",
+"Hand Wash Cold, Line Dry",
+"Waist",
+"Total Length"
+],
+"n": 4,
+"added": "2026-08-20",
+"shape": 1.33
+},
+{
+"id": "devona-gathered-maxi-skirt-plum-burnout",
+"style": "Q7587",
+"dept": "skirts",
+"kind": "Maxi & Midi",
+"name": "Devona Gathered Maxi Skirt",
+"colour": "Plum Burnout",
+"price": 69.0,
+"was": null,
+"sizes": [
+"S",
+"M"
+],
+"blurb": "",
+"facts": [
+"Maxi length",
+"High rise waist",
+"Elasticised waistband",
+"Gathered side waist detail",
+"Invisible side zip with hook and eye close",
+"Floral lace mesh overlay"
+],
+"n": 4,
+"added": "2026-10-22",
+"shape": 1.5
+},
+{
+"id": "teodo-mini-skirt-in-twill-dogtooth-grey",
+"style": "Q8992",
+"dept": "skirts",
+"kind": "Mini",
+"name": "Teodo Mini Skirt in Twill Dogtooth Grey",
+"colour": null,
+"price": 52.0,
+"was": null,
+"sizes": [
+"S",
+"M"
+],
+"blurb": "",
+"facts": [
+"Grey dogtooth print twill fabric",
+"Mini length",
+"A-line fit",
+"Wrap-style front with button fastening"
+],
+"n": 4,
+"added": "2026-10-04",
+"shape": 1.26
+},
+{
+"id": "stefenie-denim-skort-washed-black-petite-black",
+"style": "Q4400",
+"dept": "skirts",
+"kind": "Mini",
+"name": "Stefenie Denim Skort Washed Black Petite",
+"colour": "Black",
+"price": 54.0,
+"was": null,
+"sizes": [
+"S",
+"M"
+],
+"blurb": "",
+"facts": [
+"Denim skort in low-rise fit",
+"Invisible zipper on side, twin back pockets, built-in shorts",
+"Non-stretch material, fully lined",
+"Main: 99% cotton 1% viscose, Pocketing: 65% polyester 35% cotton",
+"Cold gentle machine wash"
+],
+"n": 4,
+"added": "2026-10-15",
+"shape": 1.35
+},
+{
+"id": "anastasia-tie-sweatpants-mauve",
+"style": "Q8575",
+"dept": "pants",
+"kind": "Sweatpants",
+"name": "Anastasia Tie Sweatpants",
+"colour": "Mauve",
+"price": 35.0,
+"was": null,
+"sizes": [
+"S",
+"M"
+],
+"blurb": "Thick and cozy sweatpants with a drawstring waistband and side pockets.",
+"facts": [
+"Fabrics: 85% cotton, 15% polyester"
+],
+"n": 3,
+"added": "2026-10-29",
+"shape": 1.5
+},
+{
+"id": "hadlia-tie-waist-pants-black",
+"style": "Q1826",
+"dept": "pants",
+"kind": "Pants",
+"name": "Hadlia Tie Waist Pants",
+"colour": "Black",
+"price": 65.0,
+"was": null,
+"sizes": [
+"S",
+"M"
+],
+"blurb": "",
+"facts": [
+"Side ruched, elasticated, thick waistband, mid-rise",
+"Good stretch, fully lined",
+"93% polyester 7% elastane",
+"Cold gentle machine wash"
+],
+"n": 4,
+"added": "2026-10-29",
+"shape": 1.35
+},
+{
+"id": "angel-energy-sequin-foldover-pants-navy",
+"style": "Q4579",
+"dept": "pants",
+"kind": "Pants",
+"name": "Angel Energy Sequin Foldover Pants",
+"colour": "Navy",
+"price": 34.0,
+"was": 68.0,
+"sizes": [
+"S",
+"M"
+],
+"blurb": "",
+"facts": [
+"Foldover waistband",
+"Wide leg fit",
+"Cotton, Spandex"
+],
+"n": 4,
+"added": "2026-10-28",
+"shape": 1.5
+},
+{
+"id": "esitaya-drape-trouser-in-rayon-jersey-grey",
+"style": "Q5761",
+"dept": "pants",
+"kind": "Pants",
+"name": "Esitaya Drape Trouser in Rayon Jersey Grey",
+"colour": null,
+"price": 78.0,
+"was": null,
+"sizes": [
+"S",
+"M"
+],
+"blurb": "",
+"facts": [
+"Grey rayon jersey fabric",
+"Straight leg fit",
+"Regular length",
+"Low rise",
+"Foldover waistband detail"
+],
+"n": 4,
+"added": "2026-10-25",
+"shape": 1.26
+},
+{
+"id": "kristin-pant-espresso-plaid",
+"style": "Q3355",
+"dept": "pants",
+"kind": "Pants",
+"name": "Kristin Pant",
+"colour": "Espresso Plaid",
+"price": 148.0,
+"was": null,
+"sizes": [
+"S",
+"M"
+],
+"blurb": "",
+"facts": [
+"70% Tencel 30% Nylon",
+"Hand Wash Cold, Lay Flat To Dry, Do Not Bleach",
+"Waist",
+"Rise",
+"Length"
+],
+"n": 4,
+"added": "2026-10-20",
+"shape": 1.33
+},
+{
+"id": "welsie-tailored-pant-black-jacquard",
+"style": "Q9446",
+"dept": "pants",
+"kind": "Pants",
+"name": "Welsie Tailored Pant",
+"colour": "Black Jacquard",
+"price": 79.0,
+"was": null,
+"sizes": [
+"S",
+"M"
+],
+"blurb": "",
+"facts": [
+"High rise waist",
+"Back invisible zip with hook and eye close",
+"Functional side pockets",
+"Pleated waist band",
+"Soft satin fabrication with jacquard print",
+"Unlined"
+],
+"n": 4,
+"added": "2026-10-28",
+"shape": 1.5
+},
+{
+"id": "reika-pant-red",
+"style": "Q7904",
+"dept": "pants",
+"kind": "Pants",
+"name": "Reika Pant",
+"colour": "Red",
+"price": 55.0,
+"was": 109.0,
+"sizes": [
+"S",
+"M"
+],
+"blurb": "",
+"facts": [
+"Low rise flare pants",
+"Burgundy faux leather",
+"Low-rise waistline with belt detail",
+"Zip pocket",
+"Slim fit through the seat and thighs",
+"Flare leg fit"
+],
+"n": 4,
+"added": "2026-05-19",
+"shape": 1.53
+},
+{
+"id": "gracie-jeans-medium-wash",
+"style": "Q7479",
+"dept": "pants",
+"kind": "Jeans",
+"name": "Gracie Jeans",
+"colour": "Medium Wash",
+"price": 42.0,
+"was": null,
+"sizes": [
+"S",
+"M"
+],
+"blurb": "Low-rise, relaxed fit, carpenter style wide leg jeans, belt loops, zip and button closure.",
+"facts": [
+"Fabrics: 100% cotton"
+],
+"n": 4,
+"added": "2026-10-29",
+"shape": 1.5
+},
+{
+"id": "silver-moon-linen-blend-tie-pants-olive-green-ta",
+"style": "Q7961",
+"dept": "pants",
+"kind": "Pants",
+"name": "Silver Moon Linen Blend Tie Pants Olive Green",
+"colour": "Tall",
+"price": 85.0,
+"was": null,
+"sizes": [
+"S",
+"M"
+],
+"blurb": "",
+"facts": [
+"Linen-blend tie pants in a mid-rise fit",
+"Folded-over waist look, zip closure at side, wide-leg cut, relaxed fit",
+"Non-stretch material, unlined",
+"Main: 50% LENZING™ Viscose 50% linen, Lining: 100% cotton",
+"Cold gentle machine wash"
+],
+"n": 4,
+"added": "2026-10-27",
+"shape": 1.35
+},
+{
+"id": "senior-girl-straight-leg-sweatpants-light-blue",
+"style": "Q3710",
+"dept": "pants",
+"kind": "Sweatpants",
+"name": "Senior Girl Straight Leg Sweatpants",
+"colour": "Light-blue",
+"price": 39.0,
+"was": 78.0,
+"sizes": [
+"S",
+"M"
+],
+"blurb": "",
+"facts": [
+"Straight leg fit",
+"Polyester, Cotton"
+],
+"n": 4,
+"added": "2026-10-28",
+"shape": 1.5
+},
+{
+"id": "ponirah-trouser-in-tailoring-pinstripe-grey",
+"style": "Q9816",
+"dept": "pants",
+"kind": "Pants",
+"name": "Ponirah Trouser in Tailoring Pinstripe Grey",
+"colour": null,
+"price": 111.0,
+"was": null,
+"sizes": [
+"S",
+"M"
+],
+"blurb": "",
+"facts": [
+"Relaxed fit",
+"Full length",
+"Mid rise",
+"Back pockets"
+],
+"n": 4,
+"added": "2026-10-13",
+"shape": 1.26
+},
+{
+"id": "renee-pant-cinnamon",
+"style": "Q9530",
+"dept": "pants",
+"kind": "Pants",
+"name": "Renee Pant",
+"colour": "Cinnamon",
+"price": 148.0,
+"was": null,
+"sizes": [
+"S",
+"M"
+],
+"blurb": "Introducing the Renee Pant: Straight leg pants with a tiered ruffle skirt attachment at top featured in a brown taffeta and an elasticized waistband. Unlined.",
+"facts": [
+"100% Polyester",
+"Machine wash cold with like colors. Line Dry",
+"Waist",
+"Rise"
+],
+"n": 4,
+"added": "2026-09-17",
+"shape": 1.33
+},
+{
+"id": "bodey-elastic-waist-pants-velvet-brown-floral",
+"style": "Q2271",
+"dept": "pants",
+"kind": "Pants",
+"name": "Bodey Elastic Waist Pants",
+"colour": "Velvet Brown Floral",
+"price": 99.0,
+"was": null,
+"sizes": [
+"S",
+"M"
+],
+"blurb": "",
+"facts": [
+"High rise waist",
+"Wide elasticised waist band",
+"Functional pockets",
+"Soft velvet fabrication",
+"Small floral print",
+"Unlined"
+],
+"n": 4,
+"added": "2026-10-26",
+"shape": 1.5
+},
+{
+"id": "saylor-denim-jeans-dark-denim",
+"style": "Q3615",
+"dept": "pants",
+"kind": "Jeans",
+"name": "Saylor Denim Jeans",
+"colour": "Dark Denim",
+"price": 45.0,
+"was": null,
+"sizes": [
+"S",
+"M"
+],
+"blurb": "Low-rise medium wash denim jeans with front and back pockets and a straight leg fit.",
+"facts": [
+"Fabrics: 100% cotton"
+],
+"n": 4,
+"added": "2026-10-29",
+"shape": 1.5
+},
+{
+"id": "lunea-concealed-waistband-cargo-pants-charcoal-p",
+"style": "Q3398",
+"dept": "pants",
+"kind": "Pants",
+"name": "Lunea Concealed Waistband Cargo Pants Charcoal Petite",
+"colour": "Charcoal",
+"price": 69.0,
+"was": null,
+"sizes": [
+"S",
+"M"
+],
+"blurb": "",
+"facts": [
+"Wide-leg cargo pants in a low-rise fit",
+"Elasticated, pleats under waist, twin pockets",
+"Non-stretch material, unlined",
+"94% cotton 6% elastane",
+"Cold hand wash"
+],
+"n": 4,
+"added": "2026-10-27",
+"shape": 1.33
+},
+{
+"id": "winnefred-low-rise-sweatpants-light-pink",
+"style": "Q9221",
+"dept": "pants",
+"kind": "Sweatpants",
+"name": "Winnefred Low Rise Sweatpants",
+"colour": "Light-pink",
+"price": 39.0,
+"was": 78.0,
+"sizes": [
+"S",
+"M"
+],
+"blurb": "",
+"facts": [
+"Adjustable tie waist",
+"Cinched hem",
+"Cotton, Polyester"
+],
+"n": 4,
+"added": "2026-10-22",
+"shape": 1.5
+},
+{
+"id": "nanine-trouser-in-navy-with-adrenaline-red-bindi",
+"style": "Q5772",
+"dept": "pants",
+"kind": "Pants",
+"name": "Nanine Trouser in Navy with Adrenaline Red Binding",
+"colour": null,
+"price": 73.0,
+"was": null,
+"sizes": [
+"S",
+"M"
+],
+"blurb": "",
+"facts": [
+"Relaxed fit",
+"Low rise waistband",
+"Contrast red waistband trim"
+],
+"n": 4,
+"added": "2026-10-13",
+"shape": 1.26
+},
+{
+"id": "liora-ruffle-pant-venetian-blue",
+"style": "Q6692",
+"dept": "pants",
+"kind": "Pants",
+"name": "Liora Ruffle Pant",
+"colour": "Venetian Blue",
+"price": 148.0,
+"was": null,
+"sizes": [
+"S",
+"M"
+],
+"blurb": "Meet the Liora Ruffle Pant: A taffeta trouser in a wide leg cut, featuring an elasticized waist and a ruffle hem all in out iridescent Venetian Blue.",
+"facts": [
+"100% Polyester",
+"Hand wash cold, Lay Flat to Dry",
+"Waist",
+"Rise"
+],
+"n": 4,
+"added": "2026-09-17",
+"shape": 1.33
+},
+{
+"id": "lainey-satin-pants-black",
+"style": "Q2162",
+"dept": "pants",
+"kind": "Pants",
+"name": "Lainey Satin Pants",
+"colour": "Black",
+"price": 69.0,
+"was": null,
+"sizes": [
+"S",
+"M"
+],
+"blurb": "",
+"facts": [
+"Elasticised waistband",
+"Soft satin feel",
+"Unlined"
+],
+"n": 4,
+"added": "2026-10-26",
+"shape": 1.5
+},
+{
+"id": "gigi-jeans-dark-denim",
+"style": "Q4523",
+"dept": "pants",
+"kind": "Jeans",
+"name": "Gigi Jeans",
+"colour": "Dark Denim",
+"price": 45.0,
+"was": null,
+"sizes": [
+"S",
+"M"
+],
+"blurb": "Baggy fit, wide straight leg suit jeans, with belt loops, zip and button closure, and adjustable elastic bands inside to change size of the waist.",
+"facts": [
+"Fabrics: 90% poliester, 10% wool"
+],
+"n": 4,
+"added": "2026-10-29",
+"shape": 1.5
+},
+{
+"id": "lunea-concealed-waistband-cargo-pants-brown-peti",
+"style": "Q5425",
+"dept": "pants",
+"kind": "Pants",
+"name": "Lunea Concealed Waistband Cargo Pants Brown Petite",
+"colour": "Brown",
+"price": 69.0,
+"was": null,
+"sizes": [
+"S",
+"M"
+],
+"blurb": "",
+"facts": [
+"Wide-leg pants in a low-rise fit",
+"Elasticated, pleats under waist, twin pockets",
+"Non-stretch material, unlined",
+"94% cotton 6% elastane",
+"Cold hand wash"
+],
+"n": 4,
+"added": "2026-10-27",
+"shape": 1.33
+},
+{
+"id": "brody-wide-leg-pleated-sweatpants-black",
+"style": "Q5590",
+"dept": "pants",
+"kind": "Sweatpants",
+"name": "Brody Wide Leg Pleated Sweatpants",
+"colour": "Black",
+"price": 39.0,
+"was": 78.0,
+"sizes": [
+"S",
+"M"
+],
+"blurb": "",
+"facts": [
+"Wide leg fit",
+"Adjustable tie waistband",
+"Pleated detail",
+"Cotton, Polyester"
+],
+"n": 4,
+"added": "2026-10-19",
+"shape": 1.5
+},
+{
+"id": "mipazu-trouser-in-fig-with-cool-blue-binding",
+"style": "Q7155",
+"dept": "pants",
+"kind": "Pants",
+"name": "Mipazu Trouser in Fig with Cool Blue Binding",
+"colour": null,
+"price": 90.0,
+"was": null,
+"sizes": [
+"S",
+"M"
+],
+"blurb": "",
+"facts": [
+"Fig purple rayon jersey fabric",
+"Relaxed fit",
+"Low rise waistband"
+],
+"n": 4,
+"added": "2026-10-13",
+"shape": 1.26
+},
+{
+"id": "jean-top-prairie-paisley",
+"style": "Q2485",
+"dept": "pants",
+"kind": "Jeans",
+"name": "Jean Top",
+"colour": "Prairie Paisley",
+"price": 108.0,
+"was": null,
+"sizes": [
+"S",
+"M"
+],
+"blurb": "",
+"facts": [
+"95% Rayon, 5% Spandex",
+"Hand Wash Cold, Line Dry",
+"Waist",
+"Total Length"
+],
+"n": 4,
+"added": "2026-08-20",
+"shape": 1.33
+},
+{
+"id": "mellie-lace-trim-pants-chocolate-brown-velvet",
+"style": "Q6336",
+"dept": "pants",
+"kind": "Pants",
+"name": "Mellie Lace Trim Pants",
+"colour": "Chocolate Brown Velvet",
+"price": 89.0,
+"was": null,
+"sizes": [
+"S",
+"M"
+],
+"blurb": "",
+"facts": [
+"High rise waist",
+"Elasticised waist at back",
+"Lace detail",
+"Soft velvet fabrication",
+"Unlined"
+],
+"n": 4,
+"added": "2026-10-26",
+"shape": 1.5
+},
+{
+"id": "finley-overalls-medium-wash-denim",
+"style": "Q5607",
+"dept": "pants",
+"kind": "Pants",
+"name": "Finley Overalls",
+"colour": "Medium Wash Denim",
+"price": 55.0,
+"was": null,
+"sizes": [
+"S",
+"M"
+],
+"blurb": "Relaxed fit overalls with two back and side pockets, three front chest pockets, belt loops, adjustable straps, and silver hardware.",
+"facts": [
+"Fabrics: 100% cotton",
+"58\" (147cm) longest length, 29\" (74cm) inseam,",
+"30\" (76cm) waist"
+],
+"n": 4,
+"added": "2026-10-29",
+"shape": 1.5
+},
+{
+"id": "loved-up-low-rise-baggy-pants-black-petite",
+"style": "Q9484",
+"dept": "pants",
+"kind": "Pants",
+"name": "Loved Up Low Rise Baggy Pants Black",
+"colour": "Petite",
+"price": 65.0,
+"was": null,
+"sizes": [
+"S",
+"M"
+],
+"blurb": "",
+"facts": [
+"Low-rise baggy pants",
+"Double loops, hook & zip closure, pleats under waist, twin hip pockets, faux back pockets",
+"Non-stretch material, unlined",
+"95% reclaimed polyester 5% elastane",
+"Cold gentle machine wash"
+],
+"n": 4,
+"added": "2026-10-27",
+"shape": 1.33
+},
+{
+"id": "pascale-stitched-low-rise-wide-leg-jeans-red",
+"style": "Q1561",
+"dept": "pants",
+"kind": "Jeans",
+"name": "Pascale Stitched Low Rise Wide Leg Jeans",
+"colour": "Red",
+"price": 55.0,
+"was": 110.0,
+"sizes": [
+"S",
+"M"
+],
+"blurb": "",
+"facts": [
+"Low rise waist",
+"Wide leg fit",
+"Rigid denim fabric",
+"100% Cotton"
+],
+"n": 4,
+"added": "2026-10-19",
+"shape": 1.5
+},
+{
+"id": "asla-cropped-capri-trouser-in-twill-dogtooth-gre",
+"style": "Q5148",
+"dept": "pants",
+"kind": "Pants",
+"name": "Asla Cropped Capri Trouser in Twill Dogtooth Grey",
+"colour": null,
+"price": 69.0,
+"was": null,
+"sizes": [
+"S",
+"M"
+],
+"blurb": "",
+"facts": [
+"Grey dogtooth print twill fabric",
+"Slim fit",
+"Capri length",
+"Low rise",
+"Complete the look with the Josie long sleeve top"
+],
+"n": 4,
+"added": "2026-10-13",
+"shape": 1.26
+},
+{
+"id": "rei-pant-indigo",
+"style": "Q1600",
+"dept": "pants",
+"kind": "Pants",
+"name": "Rei Pant",
+"colour": "Indigo",
+"price": 103.5,
+"was": 148.0,
+"sizes": [
+"S",
+"M"
+],
+"blurb": "Introducing the Rei Pant: the perfect blend of structure and comfort. With an elastic waistband, slightly curved leg shape, and contrasting white seams, these pants are designed for a relaxed yet stylish fit. Plus, they come with two front pockets for added convenience. Don't miss out on this versatile and effortlessly cool pair of pants!",
+"facts": [
+"100% Cotton",
+"Machine wash cold with like colors, hang dry",
+"Waist",
+"Front Rise"
+],
+"n": 4,
+"added": "2026-07-09",
+"shape": 1.33
+},
+{
+"id": "darla-velvet-wide-leg-pants-hunter-green",
+"style": "Q9778",
+"dept": "pants",
+"kind": "Pants",
+"name": "Darla Velvet Wide Leg Pants",
+"colour": "Hunter Green",
+"price": 79.0,
+"was": null,
+"sizes": [
+"S",
+"M"
+],
+"blurb": "",
+"facts": [
+"High waisted",
+"Functional side pockets",
+"Elasticised waistband at back",
+"Non functional back pockets",
+"Front invisible zip with hook and eye close",
+"Unlined"
+],
+"n": 4,
+"added": "2026-10-22",
+"shape": 1.5
+},
+{
+"id": "hilary-pants-light-heather-grey",
+"style": "Q6110",
+"dept": "pants",
+"kind": "Sweatpants",
+"name": "Hilary Pants",
+"colour": "Light Heather Grey",
+"price": 35.0,
+"was": null,
+"sizes": [
+"S",
+"M"
+],
+"blurb": "Soft cotton, fleece-lined, flared yoga pants with a drawstring waistband.",
+"facts": [
+"Fabrics: 68% cotton, 32% polyester"
+],
+"n": 4,
+"added": "2026-10-27",
+"shape": 1.5
+},
+{
+"id": "good-riddance-pleat-tie-slouch-pants-charcoal-pe",
+"style": "Q7295",
+"dept": "pants",
+"kind": "Pants",
+"name": "Good Riddance Pleat Tie Slouch Pants Charcoal",
+"colour": "Petite",
+"price": 68.0,
+"was": null,
+"sizes": [
+"S",
+"M"
+],
+"blurb": "",
+"facts": [
+"Pleat tie slouch pants",
+"Double button & zip closure, twin hip pockets, wide-leg, mid-rise fit",
+"Non-stretch material, unlined",
+"95% reclaimed polyester 5% elastane",
+"Cold gentle machine wash"
+],
+"n": 4,
+"added": "2026-10-27",
+"shape": 1.35
+},
+{
+"id": "ernie-foldover-cargo-sweatpants-gray-melange",
+"style": "Q4635",
+"dept": "pants",
+"kind": "Sweatpants",
+"name": "Ernie Foldover Cargo Sweatpants",
+"colour": "Gray-melange",
+"price": 39.0,
+"was": 78.0,
+"sizes": [
+"S",
+"M"
+],
+"blurb": "",
+"facts": [
+"Foldover waistband",
+"Cargo style pockets",
+"Cotton, Polyester"
+],
+"n": 4,
+"added": "2026-10-19",
+"shape": 1.5
+},
+{
+"id": "mino-capri-trouser-in-charcoal-grey-with-off-whi",
+"style": "Q3497",
+"dept": "pants",
+"kind": "Pants",
+"name": "Mino Capri Trouser in Charcoal Grey with Off White Binding",
+"colour": null,
+"price": 59.0,
+"was": null,
+"sizes": [
+"S",
+"M"
+],
+"blurb": "",
+"facts": [
+"Charcoal grey rayon jersey fabric",
+"Relaxed fit",
+"Low rise waistband",
+"Capri length"
+],
+"n": 4,
+"added": "2026-10-04",
+"shape": 1.26
+},
+{
+"id": "nora-pant-cherry",
+"style": "Q7769",
+"dept": "pants",
+"kind": "Pants",
+"name": "Nora Pant",
+"colour": "Cherry",
+"price": 103.5,
+"was": 148.0,
+"sizes": [
+"S",
+"M"
+],
+"blurb": "",
+"facts": [
+"100% Cotton",
+"Hand Wash Cold, Line Dry",
+"Zulma is 5'5, 36A Bust, 26\" Waist, 30\" Hip, and wears a size S",
+"Waist",
+"Rise"
+],
+"n": 4,
+"added": "2026-06-04",
+"shape": 1.33
+},
+{
+"id": "rita-balloon-leg-pant-black",
+"style": "Q1736",
+"dept": "pants",
+"kind": "Pants",
+"name": "Rita Balloon Leg Pant",
+"colour": "Black",
+"price": 59.0,
+"was": null,
+"sizes": [
+"S",
+"M"
+],
+"blurb": "The Rita Balloon Leg Pant in black is the kind of piece that makes getting dressed feel effortless. Cut with a high-rise waist and a relaxed, billowing leg, it strikes that perfect balance between bold silhouette and everyday wearability.",
+"facts": [
+"High rise waist",
+"Back elasticised waistband",
+"Invisible side zip with hook and eye close",
+"Functional pockets",
+"Cuffs with button close",
+"Lined"
+],
+"n": 4,
+"added": "2026-10-21",
+"shape": 1.5
+},
+{
+"id": "priscilla-striped-pants-navy-blue-with-white-str",
+"style": "Q6327",
+"dept": "pants",
+"kind": "Pants",
+"name": "Priscilla Striped Pants",
+"colour": "Navy Blue with White Stripes",
+"price": 24.0,
+"was": null,
+"sizes": [
+"S",
+"M"
+],
+"blurb": "",
+"facts": [
+"Yoga pants with a striped waistband and wide legs.",
+"Fabrics: 96% cotton 4% elastane"
+],
+"n": 3,
+"added": "2026-10-26",
+"shape": 1.5
+},
+{
+"id": "yevina-eyelet-flare-pant-black-petite",
+"style": "Q5926",
+"dept": "pants",
+"kind": "Pants",
+"name": "Yevina Eyelet Flare Pant Black",
+"colour": "Petite",
+"price": 65.0,
+"was": null,
+"sizes": [
+"S",
+"M"
+],
+"blurb": "",
+"facts": [
+"Eyelet pants with flare detailing & mid-rise fit",
+"Zip closure at side, faux back pockets",
+"Partially stretched, unlined",
+"50% rayon 45% nylon 5% elastane",
+"Cold gentle machine wash"
+],
+"n": 4,
+"added": "2026-10-27",
+"shape": 1.35
+},
+{
+"id": "tilliey-straight-leg-pants-burgundy",
+"style": "Q4414",
+"dept": "pants",
+"kind": "Pants",
+"name": "Tilliey Straight Leg Pants",
+"colour": "Burgundy",
+"price": 33.0,
+"was": 66.0,
+"sizes": [
+"S",
+"M"
+],
+"blurb": "",
+"facts": [
+"Low rise waist",
+"Straight leg fit",
+"Adjustable tie waist",
+"Cotton, Polyester, Spandex"
+],
+"n": 4,
+"added": "2026-10-14",
+"shape": 1.5
+},
+{
+"id": "yamba-trouser-in-heritage-twill-grey",
+"style": "Q2415",
+"dept": "pants",
+"kind": "Pants",
+"name": "Yamba Trouser in Heritage Twill Grey",
+"colour": null,
+"price": 77.0,
+"was": 96.0,
+"sizes": [
+"S",
+"M"
+],
+"blurb": "",
+"facts": [
+"Low rise waistband",
+"Wide leg fit",
+"Button and zip fly fastening"
+],
+"n": 4,
+"added": "2026-10-04",
+"shape": 1.26
+},
+{
+"id": "frankie-tailored-pant-brown-satin",
+"style": "Q4365",
+"dept": "pants",
+"kind": "Pants",
+"name": "Frankie Tailored Pant",
+"colour": "Brown Satin",
+"price": 89.0,
+"was": null,
+"sizes": [
+"S",
+"M"
+],
+"blurb": "",
+"facts": [
+"High rise waist",
+"Elasticised back waistband",
+"Fly front zip with button closure",
+"Functional front pockets",
+"Soft satin feel",
+"Unlined"
+],
+"n": 4,
+"added": "2026-10-21",
+"shape": 1.5
+},
+{
+"id": "priscilla-capri-pants-black",
+"style": "Q6763",
+"dept": "pants",
+"kind": "Pants",
+"name": "Priscilla Capri Pants",
+"colour": "Black",
+"price": 24.0,
+"was": null,
+"sizes": [
+"S",
+"M"
+],
+"blurb": "Soft cotton-blend capri yoga pants with a fold-over waistband.",
+"facts": [
+"Fabrics: 96% cotton, 4% elastane"
+],
+"n": 3,
+"added": "2026-10-26",
+"shape": 1.5
+},
+{
+"id": "lunea-concealed-waistband-3-4-pant-black-petite-",
+"style": "Q3836",
+"dept": "pants",
+"kind": "Pants",
+"name": "Lunea Concealed Waistband 3/4 Pant Black Petite",
+"colour": "Black",
+"price": 59.0,
+"was": null,
+"sizes": [
+"S",
+"M"
+],
+"blurb": "",
+"facts": [
+"Waistband 3/4 pants",
+"Elasticated, pleats under waist, mid-rise",
+"Non-stretch material, unlined",
+"96% cotton 4% elastane",
+"Cold gentle machine wash"
+],
+"n": 4,
+"added": "2026-10-27",
+"shape": 1.35
+},
+{
+"id": "hudsen-longline-cargo-shorts-charcoal-petite",
+"style": "Q2217",
+"dept": "shorts",
+"kind": "Shorts",
+"name": "Hudsen Longline Cargo Shorts Charcoal",
+"colour": "Petite",
+"price": 69.0,
+"was": null,
+"sizes": [
+"S",
+"M"
+],
+"blurb": "",
+"facts": [
+"Longline cargo shorts with low-rise baggy fit",
+"Non-stretch material, unlined",
+"100% cotton",
+"Cold gentle machine wash",
+"Size up for an oversized fit"
+],
+"n": 4,
+"added": "2026-10-27",
+"shape": 1.35
+},
+{
+"id": "henley-tailored-shorts-brown-houndstooth",
+"style": "Q5941",
+"dept": "shorts",
+"kind": "Shorts",
+"name": "Henley Tailored Shorts",
+"colour": "Brown Houndstooth",
+"price": 59.0,
+"was": null,
+"sizes": [
+"S",
+"M"
+],
+"blurb": "",
+"facts": [
+"High rise waist",
+"Hidden front fly zip with hook and eye close",
+"Functional front pockets",
+"Unlined"
+],
+"n": 4,
+"added": "2026-10-28",
+"shape": 1.5
+},
+{
+"id": "angel-wings-foldover-shorts-gray-melange",
+"style": "Q2864",
+"dept": "shorts",
+"kind": "Shorts",
+"name": "Angel Wings Foldover Shorts",
+"colour": "Gray-melange",
+"price": 21.0,
+"was": 42.0,
+"sizes": [
+"S",
+"M"
+],
+"blurb": "",
+"facts": [
+"Foldover waistband",
+"Cotton, Spandex"
+],
+"n": 4,
+"added": "2026-10-14",
+"shape": 1.5
+},
+{
+"id": "verana-denim-shorts-dark-denim",
+"style": "Q6472",
+"dept": "shorts",
+"kind": "Denim",
+"name": "Verana Denim Shorts",
+"colour": "Dark Denim",
+"price": 32.0,
+"was": null,
+"sizes": [
+"S",
+"M"
+],
+"blurb": "",
+"facts": [
+"Comfortable dark wash frayed denim shorts with a zip fly.",
+"Fabrics: 97% cotton 2% polyester, and 1% elastane"
+],
+"n": 3,
+"added": "2026-10-27",
+"shape": 1.5
+},
+{
+"id": "qiana-short-with-lace-trim-in-satin-black",
+"style": "Q2441",
+"dept": "shorts",
+"kind": "Shorts",
+"name": "Qiana Short with Lace Trim in Satin Black",
+"colour": null,
+"price": 62.0,
+"was": null,
+"sizes": [
+"S",
+"M"
+],
+"blurb": "",
+"facts": [
+"Black satin fabric with lace trim hem",
+"Relaxed fit",
+"Knee-length",
+"Elasticated waistband with drawstring tie"
+],
+"n": 4,
+"added": "2026-09-27",
+"shape": 1.26
+},
+{
+"id": "domination-faux-leather-shorts-black-tall-black",
+"style": "Q2168",
+"dept": "shorts",
+"kind": "Shorts",
+"name": "Domination Faux Leather Shorts Black Tall",
+"colour": "Black",
+"price": 55.0,
+"was": null,
+"sizes": [
+"S",
+"M"
+],
+"blurb": "",
+"facts": [
+"Faux leather shorts with a mid-rise fit",
+"Buckle detail at sides, belt looped waist, button & zip closure, twin side pockets",
+"Non-stretch material, unlined",
+"Main: 55% polyester 45% PU, Lining: 100% polyester",
+"Cold gentle machine wash"
+],
+"n": 4,
+"added": "2026-10-27",
+"shape": 1.35
+},
+{
+"id": "cherie-knit-short-sand-black",
+"style": "Q1723",
+"dept": "shorts",
+"kind": "Shorts",
+"name": "Cherie Knit Short",
+"colour": "Sand Black",
+"price": 29.97,
+"was": 69.0,
+"sizes": [
+"S",
+"M"
+],
+"blurb": "",
+"facts": [
+"High waisted style knit shorts",
+"Elasticised waist band with drawstring close",
+"Unlined"
+],
+"n": 4,
+"added": "2026-10-19",
+"shape": 1.5
+},
+{
+"id": "hennie-sweat-shorts-sweet-mint",
+"style": "Q6012",
+"dept": "shorts",
+"kind": "Shorts",
+"name": "Hennie Sweat Shorts",
+"colour": "Sweet-mint",
+"price": 20.0,
+"was": 40.0,
+"sizes": [
+"S",
+"M"
+],
+"blurb": "",
+"facts": [
+"Elastic waistband",
+"Rolled hem",
+"Cotton, Polyester"
+],
+"n": 4,
+"added": "2026-10-14",
+"shape": 1.5
+},
+{
+"id": "allyza-baggy-cargo-shorts-olive-tall",
+"style": "Q2942",
+"dept": "shorts",
+"kind": "Shorts",
+"name": "Allyza Baggy Cargo Shorts Olive",
+"colour": "Tall",
+"price": 59.0,
+"was": null,
+"sizes": [
+"S",
+"M"
+],
+"blurb": "",
+"facts": [
+"Cargo shorts with baggy fit",
+"Elasticated waistband, faux zipper, side pockets, adjustable drawstring detail, low-rise",
+"Non-stretch material, unlined",
+"100% cotton",
+"Cold gentle machine wash"
+],
+"n": 4,
+"added": "2026-10-27",
+"shape": 1.35
+},
+{
+"id": "dealia-knit-short-set-pink-stripe",
+"style": "Q8284",
+"dept": "shorts",
+"kind": "Shorts",
+"name": "Dealia Knit Short Set",
+"colour": "Pink Stripe",
+"price": 69.97,
+"was": 99.0,
+"sizes": [
+"S",
+"M"
+],
+"blurb": "",
+"facts": [
+"V neckline with functional buttons",
+"Long sleeves",
+"Ribbed cuffs and hemline",
+"High rise shorts",
+"Elasticised waist band",
+"Unlined"
+],
+"n": 4,
+"added": "2026-10-14",
+"shape": 1.5
+},
+{
+"id": "saphi-striped-foldover-knit-shorts-black-and-whi",
+"style": "Q3645",
+"dept": "shorts",
+"kind": "Shorts",
+"name": "Saphi Striped Foldover Knit Shorts",
+"colour": "Black-and-white",
+"price": 23.0,
+"was": 46.0,
+"sizes": [
+"S",
+"M"
+],
+"blurb": "",
+"facts": [
+"Contrast foldover waist",
+"Knit fabric",
+"Acrylic"
+],
+"n": 4,
+"added": "2026-10-07",
+"shape": 1.5
+},
+{
+"id": "hudsen-longline-cargo-shorts-red",
+"style": "Q3826",
+"dept": "shorts",
+"kind": "Shorts",
+"name": "Hudsen Longline Cargo Shorts",
+"colour": "Red",
+"price": 69.0,
+"was": null,
+"sizes": [
+"S",
+"M"
+],
+"blurb": "",
+"facts": [
+"Longline cargo shorts with low-rise baggy fit",
+"Non-stretch material, unlined",
+"100% reclaimed cotton",
+"Cold gentle machine wash",
+"Size up for an oversized fit"
+],
+"n": 4,
+"added": "2026-10-27",
+"shape": 1.35
+},
+{
+"id": "braxon-shorts-sage",
+"style": "Q2188",
+"dept": "shorts",
+"kind": "Shorts",
+"name": "Braxon Shorts",
+"colour": "Sage",
+"price": 39.0,
+"was": null,
+"sizes": [
+"S",
+"M"
+],
+"blurb": "",
+"facts": [
+"High waisted",
+"Elasticised waistband",
+"Soft feel",
+"Relaxed fit",
+"Unlined"
+],
+"n": 4,
+"added": "2026-10-07",
+"shape": 1.5
+},
+{
+"id": "matiah-foldover-cable-knit-shorts-light-blue",
+"style": "Q6326",
+"dept": "shorts",
+"kind": "Shorts",
+"name": "Matiah Foldover Cable Knit Shorts",
+"colour": "Light-blue",
+"price": 23.0,
+"was": 46.0,
+"sizes": [
+"S",
+"M"
+],
+"blurb": "",
+"facts": [
+"Foldover waistband",
+"Cable knit fabric",
+"Acrylic, Nylon, Polyester"
+],
+"n": 4,
+"added": "2026-10-07",
+"shape": 1.5
+},
+{
+"id": "chelzie-longline-applique-track-jorts-grey-marle",
+"style": "Q4853",
+"dept": "shorts",
+"kind": "Denim",
+"name": "Chelzie Longline Applique Track Jorts",
+"colour": "Grey Marle / Camo",
+"price": 69.0,
+"was": null,
+"sizes": [
+"S",
+"M"
+],
+"blurb": "",
+"facts": [
+"Low-rise longline applique track sweatshorts",
+"Elasticated waist, star camo detail at side, pocketless",
+"Non-stretch material, unlined",
+"85% cotton 15% polyester",
+"Cold gentle machine wash"
+],
+"n": 4,
+"added": "2026-10-27",
+"shape": 1.35
+},
+{
+"id": "allyza-baggy-cargo-shorts-snow-camo",
+"style": "Q6665",
+"dept": "shorts",
+"kind": "Shorts",
+"name": "Allyza Baggy Cargo Shorts",
+"colour": "Snow Camo",
+"price": 59.0,
+"was": null,
+"sizes": [
+"S",
+"M"
+],
+"blurb": "",
+"facts": [
+"Cargo shorts with baggy fit",
+"Elasticated waistband, faux zipper, side pockets, adjustable drawstring detail, low-rise",
+"Non-stretch material, unlined",
+"100% cotton",
+"Cold gentle machine wash"
+],
+"n": 4,
+"added": "2026-10-27",
+"shape": 1.35
+},
+{
+"id": "kassey-gaucho-shorts-teal",
+"style": "Q3739",
+"dept": "shorts",
+"kind": "Shorts",
+"name": "Kassey Gaucho Shorts",
+"colour": "Teal",
+"price": 55.0,
+"was": null,
+"sizes": [
+"S",
+"M"
+],
+"blurb": "",
+"facts": [
+"Low-rise guacho shorts with thick waist",
+"Good stretch, unlined",
+"92% reclaimed viscose 8% elastane",
+"Cold gentle machine wash"
+],
+"n": 4,
+"added": "2026-10-19",
+"shape": 1.35
+},
+{
+"id": "tynen-baggy-longline-sweatshorts-grey-marle",
+"style": "Q6888",
+"dept": "shorts",
+"kind": "Shorts",
+"name": "Tynen Baggy Longline Sweatshorts",
+"colour": "Grey Marle",
+"price": 55.0,
+"was": null,
+"sizes": [
+"S",
+"M"
+],
+"blurb": "",
+"facts": [
+"Low-rise baggy longline sweatshorts",
+"Non-stretch material, unlined",
+"85% cotton 15% polyester",
+"Cold gentle machine wash"
+],
+"n": 4,
+"added": "2026-10-15",
+"shape": 1.35
+},
+{
+"id": "hudsen-longline-cargo-shorts-cream-tall",
+"style": "Q2367",
+"dept": "shorts",
+"kind": "Shorts",
+"name": "Hudsen Longline Cargo Shorts Cream",
+"colour": "Tall",
+"price": 69.0,
+"was": null,
+"sizes": [
+"S",
+"M"
+],
+"blurb": "",
+"facts": [
+"Longline cargo shorts with low-rise baggy fit",
+"Non-stretch material, unlined",
+"100% cotton",
+"Cold gentle machine wash",
+"Size up for an oversized fit"
+],
+"n": 4,
+"added": "2026-10-15",
+"shape": 1.33
+},
+{
+"id": "henrea-knit-shorts-brown-blue-stripe",
+"style": "Q6920",
+"dept": "shorts",
+"kind": "Shorts",
+"name": "Henrea Knit Shorts",
+"colour": "Brown / Blue Stripe",
+"price": 55.0,
+"was": null,
+"sizes": [
+"S",
+"M"
+],
+"blurb": "",
+"facts": [
+"Knit shorts in stripe print with high-rise fit",
+"Good stretch, unlined",
+"100% polyester",
+"Cold gentle machine wash"
+],
+"n": 4,
+"added": "2026-10-15",
+"shape": 1.35
+},
+{
+"id": "meradith-tie-waist-shorts-blue-stripe",
+"style": "Q6872",
+"dept": "shorts",
+"kind": "Shorts",
+"name": "Meradith Tie Waist Shorts",
+"colour": "Blue Stripe",
+"price": 39.0,
+"was": null,
+"sizes": [
+"S",
+"M"
+],
+"blurb": "",
+"facts": [
+"Tie-waist shorts in stripe print",
+"Elasticated waist, drawstring closure, pocketless",
+"Good stretch, unlined",
+"52.13% cotton 17.85% nylon 30.02% polyester",
+"Cold gentle machine wash"
+],
+"n": 4,
+"added": "2026-10-14",
+"shape": 1.35
+},
+{
+"id": "dreamful-low-rise-faux-suede-mini-shorts-deep-re",
+"style": "Q6946",
+"dept": "shorts",
+"kind": "Shorts",
+"name": "Dreamful Low Rise Faux Suede Mini Shorts",
+"colour": "Deep Red",
+"price": 49.0,
+"was": null,
+"sizes": [
+"S",
+"M"
+],
+"blurb": "",
+"facts": [
+"Low-rise faux suede mini shorts",
+"Belt loops, button & zip closure, five pockets",
+"Non-stretch material, fully lined",
+"Main: 95% polyester 5% elastane, Lining: 100% polyester",
+"Cold gentle machine wash"
+],
+"n": 4,
+"added": "2026-10-14",
+"shape": 1.35
+},
+{
+"id": "henley-blazer-brown-houndstooth",
+"style": "Q2931",
+"dept": "jackets",
+"kind": "Blazers",
+"name": "Henley Blazer",
+"colour": "Brown Houndstooth",
+"price": 109.0,
+"was": null,
+"sizes": [
+"S",
+"M"
+],
+"blurb": "Layer up in style with the Henley Blazer in Brown Houndstooth, a wardrobe staple that pulls together any look with zero fuss. The collared neckline and notch lapels bring a sharp, polished edge, while the button-down front keeps things classic and versatile.",
+"facts": [
+"Collared neckline with notch lapels",
+"Long sleeves",
+"Button closure down front",
+"Functional front pockets with decorative breast pocket",
+"Oversized fit",
+"Lined"
+],
+"n": 4,
+"added": "2026-10-28",
+"shape": 1.5
+},
+{
+"id": "solenza-collared-jacket-brown-check",
+"style": "Q2102",
+"dept": "jackets",
+"kind": "Jackets",
+"name": "Solenza Collared Jacket",
+"colour": "Brown Check",
+"price": 95.0,
+"was": null,
+"sizes": [
+"S",
+"M"
+],
+"blurb": "",
+"facts": [
+"Zip & button closure, twin pockets, ribbed hem, drop shoulders",
+"Non-stretch material, unlined",
+"78% polyester 19% viscose 3% spandex",
+"Cold gentle machine wash"
+],
+"n": 4,
+"added": "2026-11-01",
+"shape": 1.35
+},
+{
+"id": "christie-high-neck-faux-leather-jacket-black",
+"style": "Q6184",
+"dept": "jackets",
+"kind": "Jackets",
+"name": "Christie High Neck Faux Leather Jacket",
+"colour": "Black",
+"price": 104.0,
+"was": 208.0,
+"sizes": [
+"S",
+"M"
+],
+"blurb": "",
+"facts": [
+"High neckline",
+"Button detailing",
+"Faux leather fabric",
+"Polyurethane, Polyester",
+"Item care: Hand wash, do not bleach, do not tumble dry, do not iron, do not dry clean"
+],
+"n": 4,
+"added": "2026-10-28",
+"shape": 1.5
+},
+{
+"id": "saptuti-coat-in-brushed-wool-black",
+"style": "Q4849",
+"dept": "jackets",
+"kind": "Coats",
+"name": "Saptuti Coat in Brushed Wool Black",
+"colour": null,
+"price": 206.0,
+"was": null,
+"sizes": [
+"S",
+"M"
+],
+"blurb": "",
+"facts": [
+"Black brushed wool fabric",
+"Relaxed fit",
+"Longline length",
+"High collar neckline",
+"Long sleeves",
+"Button detail at collar"
+],
+"n": 4,
+"added": "2026-10-13",
+"shape": 1.26
+},
+{
+"id": "olson-trench-black-white-dot",
+"style": "Q4355",
+"dept": "jackets",
+"kind": "Coats",
+"name": "Olson Trench",
+"colour": "Black & White Dot",
+"price": 250.0,
+"was": null,
+"sizes": [
+"S",
+"M"
+],
+"blurb": "",
+"facts": [
+"Self: 100% Cotton, Lining: 100% Polyester",
+"Hand Wash Cold, Line Dry",
+"Sleeve Length",
+"Total Length"
+],
+"n": 4,
+"added": "2026-09-17",
+"shape": 1.33
+},
+{
+"id": "penny-collarless-fitted-blazer-green-plaid",
+"style": "Q4854",
+"dept": "jackets",
+"kind": "Blazers",
+"name": "Penny Collarless Fitted Blazer",
+"colour": "Green Plaid",
+"price": 99.0,
+"was": null,
+"sizes": [
+"S",
+"M"
+],
+"blurb": "",
+"facts": [
+"Round neckline",
+"Long sleeves",
+"Functional buttons down front",
+"Non functional pockets",
+"Lined"
+],
+"n": 4,
+"added": "2026-10-26",
+"shape": 1.5
+},
+{
+"id": "satchie-utility-frog-closure-bomber-jacket-khaki",
+"style": "Q6275",
+"dept": "jackets",
+"kind": "Jackets",
+"name": "Satchie Utility Frog Closure Bomber Jacket",
+"colour": "Khaki",
+"price": 115.0,
+"was": null,
+"sizes": [
+"S",
+"M"
+],
+"blurb": "",
+"facts": [
+"Utility frog-closure bomber jacket",
+"Non-stretch material, unlined",
+"Main: 100% cotton, Lining: 100% polyester",
+"Cold gentle machine wash"
+],
+"n": 4,
+"added": "2026-10-28",
+"shape": 1.35
+},
+{
+"id": "briley-contrast-collar-jacket-burgundy",
+"style": "Q2146",
+"dept": "jackets",
+"kind": "Jackets",
+"name": "Briley Contrast Collar Jacket",
+"colour": "Burgundy",
+"price": 65.0,
+"was": 130.0,
+"sizes": [
+"S",
+"M"
+],
+"blurb": "",
+"facts": [
+"Front zip closure",
+"100% Cotton"
+],
+"n": 4,
+"added": "2026-10-19",
+"shape": 1.5
+},
+{
+"id": "galala-double-breasted-jacket-in-beige",
+"style": "Q5500",
+"dept": "jackets",
+"kind": "Jackets",
+"name": "Galala Double Breasted Jacket in Beige",
+"colour": null,
+"price": 147.0,
+"was": null,
+"sizes": [
+"S",
+"M"
+],
+"blurb": "",
+"facts": [
+"Beige synthetic wool fabric",
+"Oversized fit",
+"Regular length",
+"High funnel neckline",
+"Long sleeves",
+"Double breasted button front"
+],
+"n": 4,
+"added": "2026-10-13",
+"shape": 1.26
+},
+{
+"id": "olson-cropped-trench-moss-plaid",
+"style": "Q5878",
+"dept": "jackets",
+"kind": "Coats",
+"name": "Olson Cropped Trench",
+"colour": "Moss Plaid",
+"price": 220.0,
+"was": null,
+"sizes": [
+"S",
+"M"
+],
+"blurb": "",
+"facts": [
+"Self: 100% Cotton, Lining: 100% Cotton",
+"Hand Wash Cold, Line Dry",
+"Sleeve Length",
+"Total Length"
+],
+"n": 4,
+"added": "2026-08-20",
+"shape": 1.33
+},
+{
+"id": "coco-feather-trim-blazer-black",
+"style": "Q4796",
+"dept": "jackets",
+"kind": "Blazers",
+"name": "Coco Feather Trim Blazer",
+"colour": "Black",
+"price": 99.0,
+"was": null,
+"sizes": [
+"S",
+"M"
+],
+"blurb": "",
+"facts": [
+"Long sleeves",
+"Non functional pockets",
+"Feather trim detail",
+"Lined"
+],
+"n": 4,
+"added": "2026-10-26",
+"shape": 1.5
+},
+{
+"id": "avorie-high-neck-cinched-jacket-khaki",
+"style": "Q2279",
+"dept": "jackets",
+"kind": "Jackets",
+"name": "Avorie High Neck Cinched Jacket",
+"colour": "Khaki",
+"price": 105.0,
+"was": null,
+"sizes": [
+"S",
+"M"
+],
+"blurb": "",
+"facts": [
+"High-neck cinched jacket",
+"Zip-up closure, twin pockets, drop shoulders, pleats under sleeves, single-button cuff",
+"Non-stretch material, fully lined",
+"Main: 100% cotton, Lining: 100% polyester",
+"Cold gentle machine wash"
+],
+"n": 4,
+"added": "2026-10-28",
+"shape": 1.35
+},
+{
+"id": "rinnah-faux-suede-bomber-jacket-brown-washed",
+"style": "Q1640",
+"dept": "jackets",
+"kind": "Jackets",
+"name": "Rinnah Faux Suede Bomber Jacket",
+"colour": "Brown-washed",
+"price": 80.0,
+"was": 160.0,
+"sizes": [
+"S",
+"M"
+],
+"blurb": "",
+"facts": [
+"Oversized fit",
+"Faux suede fabric",
+"Polyurethane, Cotton",
+"Item care: Hand wash, do not bleach, do not tumble dry, do not iron, do not dry clean"
+],
+"n": 4,
+"added": "2026-10-19",
+"shape": 1.5
+},
+{
+"id": "bintari-jacket-in-faux-wool-blue-and-brown-check",
+"style": "Q7681",
+"dept": "jackets",
+"kind": "Jackets",
+"name": "Bintari Jacket in Faux Wool Blue and Brown Check",
+"colour": null,
+"price": 114.0,
+"was": null,
+"sizes": [
+"S",
+"M"
+],
+"blurb": "",
+"facts": [
+"Blue and brown check faux wool fabric",
+"Waist length",
+"Collared neckline with button-front closure",
+"Long sleeves"
+],
+"n": 4,
+"added": "2026-10-13",
+"shape": 1.26
+},
+{
+"id": "lady-puffer-jacket-black-dot",
+"style": "Q7229",
+"dept": "jackets",
+"kind": "Puffers",
+"name": "Lady Puffer Jacket",
+"colour": "Black Dot",
+"price": 188.0,
+"was": null,
+"sizes": [
+"S",
+"M"
+],
+"blurb": "",
+"facts": [
+"Shell: 100% Polyester, Lining: 95% Polyester, 5% Spandex, Filler: 100% Polyester",
+"Total Length",
+"Sleeve Length"
+],
+"n": 4,
+"added": "2026-08-05",
+"shape": 1.33
+},
+{
+"id": "verona-fringe-jacket-black",
+"style": "Q8655",
+"dept": "jackets",
+"kind": "Jackets",
+"name": "Verona Fringe Jacket",
+"colour": "Black",
+"price": 99.0,
+"was": null,
+"sizes": [
+"S",
+"M"
+],
+"blurb": "The Verona Fringe Jacket in black is the kind of piece that pulls an entire outfit together. Cut to a flattering crop length with an open front and long sleeves. The adjustable tie at the round neckline lets you customize the fit and adds a subtle detail that elevates the overall look.",
+"facts": [
+"Crop length",
+"Round neckline",
+"Adjustable tie on front neckline",
+"Long sleeves",
+"Hook and eye closures down front",
+"Lined"
+],
+"n": 4,
+"added": "2026-10-26",
+"shape": 1.5
+},
+{
+"id": "adeliah-faux-fur-longline-jacket-brown",
+"style": "Q3219",
+"dept": "jackets",
+"kind": "Jackets",
+"name": "Adeliah Faux Fur Longline Jacket",
+"colour": "Brown",
+"price": 135.0,
+"was": null,
+"sizes": [
+"S",
+"M"
+],
+"blurb": "",
+"facts": [
+"V-neck, button closure, removable belt, drop shoulders",
+"Non-stretch material, fully lined",
+"Main: 50% PU 35% polyester 15% viscose, Lining:100% polyester"
+],
+"n": 4,
+"added": "2026-10-28",
+"shape": 1.35
+},
+{
+"id": "presleigh-high-neck-nylon-jacket-blue",
+"style": "Q8162",
+"dept": "jackets",
+"kind": "Jackets",
+"name": "Presleigh High Neck Nylon Jacket",
+"colour": "Blue",
+"price": 59.0,
+"was": 118.0,
+"sizes": [
+"S",
+"M"
+],
+"blurb": "",
+"facts": [
+"High neckline",
+"Oversized fit",
+"Front zip closure",
+"Cinched waistband",
+"Nylon"
+],
+"n": 4,
+"added": "2026-10-18",
+"shape": 1.5
+},
+{
+"id": "niloufar-jacket-in-wool-dark-grey",
+"style": "Q8080",
+"dept": "jackets",
+"kind": "Jackets",
+"name": "Niloufar Jacket in Wool Dark Grey",
+"colour": null,
+"price": 120.0,
+"was": null,
+"sizes": [
+"S",
+"M"
+],
+"blurb": "",
+"facts": [
+"Dark grey wool fabric",
+"Collared neckline",
+"Regular body length",
+"Asymmetric button-front fastening",
+"Long sleeves"
+],
+"n": 4,
+"added": "2026-10-04",
+"shape": 1.26
+},
+{
+"id": "shyla-jacket-mocha-suede",
+"style": "Q5668",
+"dept": "jackets",
+"kind": "Jackets",
+"name": "Shyla Jacket",
+"colour": "Mocha Suede",
+"price": 168.0,
+"was": null,
+"sizes": [
+"S",
+"M"
+],
+"blurb": "Introducing the Shyla Jacket in Mocha Suede - the perfect combination of chic and edgy. With its sleek design and mocha brown color, this jacket elevates a classic silhouette. The Shyla is a faux leather fitted jacket with a zip closure and side-seam pockets. Featured in a vintage-inspired faux suede fabric.",
+"facts": [
+"Self: 55% Viscose, 45% Polyester",
+"Lining: 100% Polyester",
+"Sleeve Length",
+"Total Length"
+],
+"n": 4,
+"added": "2025-09-16",
+"shape": 1.33
+},
+{
+"id": "caspian-funnel-neck-car-coat-black",
+"style": "Q5617",
+"dept": "jackets",
+"kind": "Coats",
+"name": "Caspian Funnel Neck Car Coat",
+"colour": "Black",
+"price": 109.0,
+"was": null,
+"sizes": [
+"S",
+"M"
+],
+"blurb": "",
+"facts": [
+"Funnel neck design",
+"High neckline with button fastening",
+"Long flare sleeves",
+"Waist belt loops",
+"Removable waist tie",
+"Lined"
+],
+"n": 4,
+"added": "2026-10-22",
+"shape": 1.5
+},
+{
+"id": "dennie-bomber-jacket-charcoal-green-plaid",
+"style": "Q4632",
+"dept": "jackets",
+"kind": "Jackets",
+"name": "Dennie Bomber Jacket",
+"colour": "Charcoal / Green Plaid",
+"price": 105.0,
+"was": null,
+"sizes": [
+"S",
+"M"
+],
+"blurb": "",
+"facts": [
+"Oversized bomber jacket in plaid print",
+"Collared, zip-up & button closure, pleats at hem, drop shoulders",
+"Non-stretch material, fully lined",
+"Main & lining: 100% polyester",
+"Cold gentle machine wash"
+],
+"n": 4,
+"added": "2026-10-27",
+"shape": 1.35
+},
+{
+"id": "resari-double-breasted-coat-in-tweed-black-and-w",
+"style": "Q4161",
+"dept": "jackets",
+"kind": "Coats",
+"name": "Resari Double Breasted Coat in Tweed Black and White",
+"colour": null,
+"price": 104.0,
+"was": 130.0,
+"sizes": [
+"S",
+"M"
+],
+"blurb": "",
+"facts": [
+"Relaxed fit",
+"Regular length",
+"High collar neckline",
+"Long sleeves",
+"Double-breasted button front",
+"Tie belt at waist"
+],
+"n": 4,
+"added": "2026-10-04",
+"shape": 1.26
+},
+{
+"id": "harvie-crop-trucker-jacket-brown-houndstooth",
+"style": "Q4991",
+"dept": "jackets",
+"kind": "Jackets",
+"name": "Harvie Crop Trucker Jacket",
+"colour": "Brown Houndstooth",
+"price": 99.0,
+"was": null,
+"sizes": [
+"S",
+"M"
+],
+"blurb": "",
+"facts": [
+"Long sleeves",
+"Functional buttons down front",
+"Functional pockets",
+"Houndstooth print",
+"Lined"
+],
+"n": 4,
+"added": "2026-10-21",
+"shape": 1.5
+},
+{
+"id": "kelehan-long-sleeve-faux-suede-zip-front-jacket-",
+"style": "Q6534",
+"dept": "jackets",
+"kind": "Jackets",
+"name": "Kelehan Long Sleeve Faux Suede Zip Front Jacket",
+"colour": "Khaki",
+"price": 85.0,
+"was": null,
+"sizes": [
+"S",
+"M"
+],
+"blurb": "",
+"facts": [
+"Collared long-sleeve top with double zip detail",
+"Faux suede material, fitted silhouette, twin front breast pockets with button closure",
+"Non-stretch material, unlined",
+"Main: 100% polyester fleece, Lining: 100% polyester",
+"Cold hand wash"
+],
+"n": 4,
+"added": "2026-10-27",
+"shape": 1.35
+},
+{
+"id": "conrad-double-button-high-neck-jacket-in-black-a",
+"style": "Q8937",
+"dept": "jackets",
+"kind": "Jackets",
+"name": "Conrad Double Button High Neck Jacket in Black and White",
+"colour": null,
+"price": 96.0,
+"was": 120.0,
+"sizes": [
+"S",
+"M"
+],
+"blurb": "",
+"facts": [
+"Regular fit",
+"Regular length",
+"High neck",
+"Long sleeves",
+"Double popper stud button front detail",
+"Elasticated hem"
+],
+"n": 4,
+"added": "2026-10-04",
+"shape": 1.26
+},
+{
+"id": "mindie-bow-front-crop-jacket-white-sequin",
+"style": "Q2133",
+"dept": "jackets",
+"kind": "Jackets",
+"name": "Mindie Bow Front Crop Jacket",
+"colour": "White Sequin",
+"price": 89.0,
+"was": null,
+"sizes": [
+"S",
+"M"
+],
+"blurb": "",
+"facts": [
+"Cropped length",
+"Round neckline",
+"Hook and eye closure down front",
+"Adjustable tie",
+"Long sleeves",
+"Lined"
+],
+"n": 4,
+"added": "2026-10-21",
+"shape": 1.5
+},
+{
+"id": "nindie-faux-fur-contrast-jacket-green",
+"style": "Q9227",
+"dept": "jackets",
+"kind": "Jackets",
+"name": "Nindie Faux Fur Contrast Jacket",
+"colour": "Green",
+"price": 105.0,
+"was": null,
+"sizes": [
+"S",
+"M"
+],
+"blurb": "",
+"facts": [
+"Faux fur contrast jacket with fitted style",
+"Zip closure, twin breast pockets, seam detailing, drop shoulders",
+"Non-stretch material, fully lined",
+"Main: 100% cotton, Lining & fur: 100% polyester"
+],
+"n": 4,
+"added": "2026-10-25",
+"shape": 1.35
+},
+{
+"id": "ameleah-layered-active-tank-top-deep-teal",
+"style": "Q1675",
+"dept": "active",
+"kind": "Tops",
+"name": "Ameleah Layered Active Tank Top",
+"colour": "Deep-teal",
+"price": 32.0,
+"was": 64.0,
+"sizes": [
+"S",
+"M"
+],
+"blurb": "",
+"facts": [
+"Halter neckline",
+"Criss cross adjustable back straps",
+"Removable pads at lined bust",
+"Nylon, Spandex"
+],
+"n": 4,
+"added": "2026-10-22",
+"shape": 1.5
+},
+{
+"id": "hilary-yoga-pants-light-olive-green",
+"style": "Q6498",
+"dept": "active",
+"kind": "Leggings & Pants",
+"name": "Hilary Yoga Pants",
+"colour": "Light Olive Green",
+"price": 35.0,
+"was": null,
+"sizes": [
+"S",
+"M"
+],
+"blurb": "Soft, flared, cotton blend yoga pants with a drawstring waistband.",
+"facts": [
+"Fabrics: 95% cotton, 5% elastan"
+],
+"n": 2,
+"added": "2026-10-30",
+"shape": 1.5
+},
+{
+"id": "perfect-ponte-stirrup-leggings-black",
+"style": "Q2100",
+"dept": "active",
+"kind": "Leggings & Pants",
+"name": "Perfect Ponte Stirrup Leggings",
+"colour": "Black",
+"price": 69.0,
+"was": null,
+"sizes": [
+"S",
+"M"
+],
+"blurb": "",
+"facts": [
+"High rise",
+"Invisible side zip with hook and eye close",
+"Elasticised stirrup hem",
+"Unlined"
+],
+"n": 4,
+"added": "2026-10-14",
+"shape": 1.5
+},
+{
+"id": "ameleah-foldover-active-shorts-deep-teal",
+"style": "Q9996",
+"dept": "active",
+"kind": "Shorts",
+"name": "Ameleah Foldover Active Shorts",
+"colour": "Deep-teal",
+"price": 26.0,
+"was": 52.0,
+"sizes": [
+"S",
+"M"
+],
+"blurb": "",
+"facts": [
+"Foldover waistband",
+"Nylon, Spandex"
+],
+"n": 4,
+"added": "2026-10-22",
+"shape": 1.5
+},
+{
+"id": "ameleah-layered-off-shoulder-active-top-wild-ber",
+"style": "Q4696",
+"dept": "active",
+"kind": "Tops",
+"name": "Ameleah Layered Off Shoulder Active Top",
+"colour": "Wild-berry",
+"price": 37.0,
+"was": 74.0,
+"sizes": [
+"S",
+"M"
+],
+"blurb": "",
+"facts": [
+"Removable pads at lined bust",
+"Nylon, Spandex"
+],
+"n": 4,
+"added": "2026-10-22",
+"shape": 1.5
+},
+{
+"id": "lannika-wide-leg-active-pants-wild-berry",
+"style": "Q1694",
+"dept": "active",
+"kind": "Leggings & Pants",
+"name": "Lannika Wide Leg Active Pants",
+"colour": "Wild-berry",
+"price": 41.0,
+"was": 82.0,
+"sizes": [
+"S",
+"M"
+],
+"blurb": "",
+"facts": [
+"High rise waist",
+"Wide leg fit",
+"Nylon, Spandex"
+],
+"n": 4,
+"added": "2026-10-22",
+"shape": 1.5
+},
+{
+"id": "izaria-active-foldover-pants-deep-teal",
+"style": "Q3385",
+"dept": "active",
+"kind": "Leggings & Pants",
+"name": "Izaria Active Foldover Pants",
+"colour": "Deep-teal",
+"price": 42.0,
+"was": 84.0,
+"sizes": [
+"S",
+"M"
+],
+"blurb": "",
+"facts": [
+"Foldover waistband",
+"Nylon, Spandex"
+],
+"n": 4,
+"added": "2026-10-19",
+"shape": 1.5
+},
+{
+"id": "izaria-active-long-sleeve-cropped-top-deep-teal",
+"style": "Q9787",
+"dept": "active",
+"kind": "Tops",
+"name": "Izaria Active Long Sleeve Cropped Top",
+"colour": "Deep-teal",
+"price": 29.0,
+"was": 58.0,
+"sizes": [
+"S",
+"M"
+],
+"blurb": "",
+"facts": [
+"Square neckline",
+"Long sleeves",
+"Cropped fit",
+"Nylon, Spandex"
+],
+"n": 4,
+"added": "2026-10-19",
+"shape": 1.5
+},
+{
+"id": "clarissia-active-halter-top-black",
+"style": "Q5581",
+"dept": "active",
+"kind": "Tops",
+"name": "Clarissia Active Halter Top",
+"colour": "Black",
+"price": 32.0,
+"was": 64.0,
+"sizes": [
+"S",
+"M"
+],
+"blurb": "",
+"facts": [
+"Halter neckline",
+"Nylon, Spandex"
+],
+"n": 4,
+"added": "2026-10-19",
+"shape": 1.5
+},
+{
+"id": "izaria-layered-striped-active-tank-top-wild-berr",
+"style": "Q9378",
+"dept": "active",
+"kind": "Tops",
+"name": "Izaria Layered Striped Active Tank Top",
+"colour": "Wild-berry",
+"price": 32.0,
+"was": 64.0,
+"sizes": [
+"S",
+"M"
+],
+"blurb": "",
+"facts": [
+"Halter neckline",
+"Adjustable straps",
+"Removable pads at lined bust",
+"Nylon, Spandex"
+],
+"n": 4,
+"added": "2026-10-18",
+"shape": 1.5
+},
+{
+"id": "lamma-sweetheart-active-tank-top-storm-gray",
+"style": "Q3559",
+"dept": "active",
+"kind": "Tops",
+"name": "Lamma Sweetheart Active Tank Top",
+"colour": "Storm-gray",
+"price": 29.0,
+"was": 58.0,
+"sizes": [
+"S",
+"M"
+],
+"blurb": "",
+"facts": [
+"Sweetheart neckline",
+"Nylon, Spandex"
+],
+"n": 4,
+"added": "2026-10-18",
+"shape": 1.5
+},
+{
+"id": "dami-ruched-active-tank-top-deep-teal",
+"style": "Q2574",
+"dept": "active",
+"kind": "Tops",
+"name": "Dami Ruched Active Tank Top",
+"colour": "Deep-teal",
+"price": 25.0,
+"was": 50.0,
+"sizes": [
+"S",
+"M"
+],
+"blurb": "",
+"facts": [
+"Lined bust",
+"Nylon, Spandex"
+],
+"n": 4,
+"added": "2026-10-14",
+"shape": 1.5
+},
+{
+"id": "buno-active-high-v-neck-top-black",
+"style": "Q8216",
+"dept": "active",
+"kind": "Tops",
+"name": "Buno Active High V Neck Top",
+"colour": "Black",
+"price": 29.0,
+"was": 58.0,
+"sizes": [
+"S",
+"M"
+],
+"blurb": "",
+"facts": [
+"High V neckline",
+"Long sleeves",
+"Nylon, Spandex"
+],
+"n": 4,
+"added": "2026-10-14",
+"shape": 1.5
+},
+{
+"id": "hasha-active-overlap-top-deep-teal",
+"style": "Q5512",
+"dept": "active",
+"kind": "Tops",
+"name": "Hasha Active Overlap Top",
+"colour": "Deep-teal",
+"price": 24.0,
+"was": 48.0,
+"sizes": [
+"S",
+"M"
+],
+"blurb": "",
+"facts": [
+"Adjustable straps",
+"Overlap V neckline",
+"Lined bust",
+"Nylon, Spandex"
+],
+"n": 4,
+"added": "2026-10-14",
+"shape": 1.5
+},
+{
+"id": "amiela-active-v-neck-tank-top-black",
+"style": "Q3137",
+"dept": "active",
+"kind": "Tops",
+"name": "Amiela Active V Neck Tank Top",
+"colour": "Black",
+"price": 28.0,
+"was": 56.0,
+"sizes": [
+"S",
+"M"
+],
+"blurb": "",
+"facts": [
+"Adjustable straps",
+"V neckline",
+"Removable pads at lined bust",
+"Nylon, Spandex"
+],
+"n": 4,
+"added": "2026-10-07",
+"shape": 1.5
+},
+{
+"id": "primo-black-leather",
+"style": "Q2719",
+"dept": "shoes",
+"kind": "Boots",
+"name": "Primo",
+"colour": "Black Leather",
+"price": 118.97,
+"was": 169.95,
+"sizes": [
+6,
+6.5,
+7,
+7.5,
+8,
+8.5,
+9
+],
+"blurb": "The PRIMO BLACK LEATHER is a sophisticated square-toe boot engineered for versatile styling and enduring comfort. The structured silhouette delivers a contemporary edge while maintaining timeless appeal across seasons and occasions. Built for all-day wearability, this essential footwear piece combines refined aesthetics with practical functionality.",
+"facts": [
+"1 inch heel height",
+"10.75 inch shaft height",
+"Leather upper material",
+"Synthetic sole"
+],
+"n": 3,
+"added": "2026-11-01",
+"shape": 1.25
+},
+{
+"id": "ma-belle-sandals-cream",
+"style": "Q9906",
+"dept": "shoes",
+"kind": "Sandals",
+"name": "Ma Belle Sandals",
+"colour": "Cream",
+"price": 38.0,
+"was": 65.0,
+"sizes": [
+6,
+7,
+8,
+9
+],
+"blurb": "",
+"facts": [
+"Sandals, double adjustable upper straps",
+"Chunky treaded sole, padded footbed",
+"Outsole: 100% Rubber"
+],
+"n": 3,
+"added": "2026-10-21",
+"shape": 1.35
+},
+{
+"id": "valentin-black-leather",
+"style": "Q7268",
+"dept": "shoes",
+"kind": "Clogs & Mules",
+"name": "Valentin",
+"colour": "Black Leather",
+"price": 79.99,
+"was": 109.95,
+"sizes": [
+6,
+6.5,
+7,
+7.5,
+8,
+8.5,
+9
+],
+"blurb": "The VALENTIN BLACK LEATHER heel features a timeless round toe silhouette with an elegant toe-strap design. The sophisticated style combines classic appeal with modern comfort, making it perfect for elevated everyday wear or special occasions. Crafted with attention to detail, this mule delivers both style and wearability for the contemporary woman.",
+"facts": [
+"3.25 inch heel height",
+"Leather upper material",
+"Vegan leather lining",
+"Vegan leather sock",
+"Synthetic sole"
+],
+"n": 3,
+"added": "2026-11-01",
+"shape": 1.25
+},
+{
+"id": "larietta-ballet-heels-burgundy",
+"style": "Q6907",
+"dept": "shoes",
+"kind": "Heels",
+"name": "Larietta Ballet Heels",
+"colour": "Burgundy",
+"price": 89.0,
+"was": null,
+"sizes": [
+6,
+7,
+8,
+9
+],
+"blurb": "",
+"facts": [
+"Faux leather ballet heels with pleat detail",
+"Square toe, block heel, slip-on style, padded footbed",
+"Upper & lining: 100% PU, Outsole: 100% rubber"
+],
+"n": 3,
+"added": "2026-10-20",
+"shape": 1.35
+},
+{
+"id": "noir-fawn",
+"style": "Q5631",
+"dept": "shoes",
+"kind": "Heels",
+"name": "Noir",
+"colour": "Fawn",
+"price": 59.99,
+"was": 129.95,
+"sizes": [
+6,
+6.5,
+7,
+7.5,
+8,
+8.5,
+9
+],
+"blurb": "",
+"facts": [
+"4 inch heel height",
+"Leather upper material",
+"Vegan leather lining",
+"Vegan leather sock",
+"Synthetic sole"
+],
+"n": 3,
+"added": "2026-11-01",
+"shape": 1.25
+},
+{
+"id": "charisma-pointed-toe-heels-brown",
+"style": "Q4247",
+"dept": "shoes",
+"kind": "Heels",
+"name": "Charisma Pointed Toe Heels",
+"colour": "Brown",
+"price": 55.0,
+"was": null,
+"sizes": [
+6,
+7,
+8,
+9
+],
+"blurb": "",
+"facts": [
+"Faux suede pointed-toe heels",
+"Closed-toe, stud & eyelet detail, silver-toned hardware, bow detail"
+],
+"n": 3,
+"added": "2026-10-19",
+"shape": 1.35
+},
+{
+"id": "scorn-black-leather",
+"style": "Q3404",
+"dept": "shoes",
+"kind": "Boots",
+"name": "Scorn",
+"colour": "Black Leather",
+"price": 249.95,
+"was": null,
+"sizes": [
+6,
+6.5,
+7,
+7.5,
+8,
+8.5,
+9
+],
+"blurb": "The SCORN BLACK LEATHER boot combines timeless style with modern comfort. Crafted from premium materials, this knee-high silhouette features a sturdy block heel and platform sole for all-day wearability. Perfect for elevating any outfit, from casual to polished looks.",
+"facts": [
+"6 inch heel height",
+"14.25 inch shaft height",
+"Leather upper material",
+"Vegan leather and textile lining",
+"Vegan leather sock",
+"Synthetic sole"
+],
+"n": 3,
+"added": "2026-10-30",
+"shape": 1.25
+},
+{
+"id": "such-a-charmer-faux-suede-scrunch-boot-taupe",
+"style": "Q4160",
+"dept": "shoes",
+"kind": "Boots",
+"name": "Such A Charmer Faux Suede Scrunch Boot",
+"colour": "Taupe",
+"price": 89.0,
+"was": null,
+"sizes": [
+6,
+7,
+8,
+9
+],
+"blurb": "",
+"facts": [
+"Faux suede knee high boots with a scrunch detail",
+"Upper: 100% fabric, Lining: 80% fabric 20% PU, Outsole: 100% rubber"
+],
+"n": 3,
+"added": "2026-10-19",
+"shape": 1.35
+},
+{
+"id": "roger-black-eel",
+"style": "Q7471",
+"dept": "shoes",
+"kind": "Loafers & Flats",
+"name": "Roger",
+"colour": "Black Eel",
+"price": 69.99,
+"was": 119.95,
+"sizes": [
+6,
+6.5,
+7,
+7.5,
+8,
+8.5,
+9
+],
+"blurb": "",
+"facts": [
+".25 inch heel height",
+"Leather upper material",
+"Vegan leather lining",
+"Vegan leather sock",
+"Synthetic sole"
+],
+"n": 3,
+"added": "2026-10-30",
+"shape": 1.25
+},
+{
+"id": "avedon-heels-chocolate",
+"style": "Q1756",
+"dept": "shoes",
+"kind": "Heels",
+"name": "Avedon Heels",
+"colour": "Chocolate",
+"price": 55.0,
+"was": null,
+"sizes": [
+6,
+7,
+8,
+9
+],
+"blurb": "",
+"facts": [
+"Faux leather strappy heels",
+"Padded footbed, square toe, kitten heels",
+"Upper & lining: 100% water based PU, Outsole: 100% rubber"
+],
+"n": 3,
+"added": "2026-10-15",
+"shape": 1.35
+},
+{
+"id": "jones-gusset-black-burgundy-black-burgundy",
+"style": "Q8790",
+"dept": "shoes",
+"kind": "Boots",
+"name": "Jones Gusset Black/burgundy",
+"colour": "Black Burgundy",
+"price": 129.95,
+"was": null,
+"sizes": [
+6,
+6.5,
+7,
+7.5,
+8,
+8.5,
+9
+],
+"blurb": "Experience style and comfort with the JONES GUSSET BLACK/BURGUNDY ankle boot. The sleek design and front zipper detail add a touch of modernity to any outfit. Made with durable suede, these ankle booties are perfect for everyday wear.",
+"facts": [
+"2 inch heel height",
+"6.5 inch shaft height",
+"Leather upper material",
+"Vegan leather lining",
+"Vegan leather sock",
+"Synthetic sole"
+],
+"n": 3,
+"added": "2026-10-30",
+"shape": 1.25
+},
+{
+"id": "madisson-knee-high-boots-black",
+"style": "Q7559",
+"dept": "shoes",
+"kind": "Boots",
+"name": "Madisson Knee High Boots",
+"colour": "Black",
+"price": 100.0,
+"was": null,
+"sizes": [
+6,
+7,
+8,
+9
+],
+"blurb": "",
+"facts": [
+"Faux leather knee-high boots",
+"Square toe, heeled",
+"Main: 100% PU, Lining: 100% polyester, Outsole: TPE"
+],
+"n": 3,
+"added": "2026-09-10",
+"shape": 1.35
+},
+{
+"id": "drax-black",
+"style": "Q7050",
+"dept": "shoes",
+"kind": "Loafers & Flats",
+"name": "Drax",
+"colour": "Black",
+"price": 79.99,
+"was": 109.95,
+"sizes": [
+6,
+6.5,
+7,
+7.5,
+8,
+8.5,
+9
+],
+"blurb": "The DRAX BLACK is a sophisticated Mary Jane ballet flat elevated with embellishments that catch the light with every step. This timeless silhouette combines classic style with modern refinement, offering a versatile shoe that transitions seamlessly from day to evening.",
+"facts": [
+".25 inch heel height",
+"Vegan leather upper material with metal hardware",
+"Vegan leather lining",
+"Vegan leather sock",
+"Synthetic sole"
+],
+"n": 3,
+"added": "2026-10-30",
+"shape": 1.25
+},
+{
+"id": "therapy-form-boots-worn-black",
+"style": "Q5910",
+"dept": "shoes",
+"kind": "Boots",
+"name": "Therapy Form Boots",
+"colour": "Worn Black",
+"price": 129.95,
+"was": null,
+"sizes": [
+6,
+7,
+8,
+9
+],
+"blurb": "",
+"facts": [
+"Faux leather, rounded square toe, zip closure",
+"Upper & lining: non-leather, Outsole: rubber"
+],
+"n": 3,
+"added": "2026-08-17",
+"shape": 1.35
+},
+{
+"id": "kendrix-black-white-polka-dot-black-white",
+"style": "Q4925",
+"dept": "shoes",
+"kind": "Clogs & Mules",
+"name": "Kendrix Black/white Polka Dot",
+"colour": "Black White",
+"price": 59.99,
+"was": 109.95,
+"sizes": [
+6,
+6.5,
+7,
+7.5,
+8,
+8.5,
+9
+],
+"blurb": "",
+"facts": [
+"3 inch heel height",
+"Synthetic sole"
+],
+"n": 3,
+"added": "2026-10-29",
+"shape": 1.25
+},
+{
+"id": "divy-cognac-leather",
+"style": "Q5853",
+"dept": "shoes",
+"kind": "Loafers & Flats",
+"name": "Divy",
+"colour": "Cognac Leather",
+"price": 39.99,
+"was": 109.0,
+"sizes": [
+6,
+7,
+8,
+9
+],
+"blurb": "The DIVY COGNAC LEATHER ballet flat showcases refined craftsmanship with its woven construction and graceful bow embellishment. This round-toe design balances minimalist aesthetics with functional elegance, making it an ideal choice for those seeking a versatile flat that transitions effortlessly across occasions.",
+"facts": [
+".25 inch heel height",
+"Suede upper material",
+"Unlined",
+"Synthetic sole",
+"Fit tip: If you are in between sizes, size up a half-size"
+],
+"n": 3,
+"added": "2026-10-29",
+"shape": 1.25
+},
+{
+"id": "henrietta-brown-cow-print-black-white",
+"style": "Q8779",
+"dept": "shoes",
+"kind": "Sandals",
+"name": "Henrietta Brown Cow Print",
+"colour": "Black White",
+"price": 109.95,
+"was": null,
+"sizes": [
+6,
+6.5,
+7,
+7.5,
+8,
+8.5,
+9
+],
+"blurb": "This footwear is made with genuine leather and is hand finished. Any color variations or slight imperfections are part of the natural beauty of the leather.",
+"facts": [
+"3 inch heel height",
+"Leather upper material",
+"Synthetic sole"
+],
+"n": 3,
+"added": "2026-10-28",
+"shape": 1.25
+},
+{
+"id": "crussi-espadrille-light-brown-suede",
+"style": "Q9107",
+"dept": "shoes",
+"kind": "Sandals",
+"name": "Crussi Espadrille",
+"colour": "Light Brown Suede",
+"price": 129.95,
+"was": null,
+"sizes": [
+6,
+6.5,
+7,
+7.5,
+8,
+8.5,
+9
+],
+"blurb": "",
+"facts": [
+"5 inch heel height",
+"Suede upper material",
+"Vegan leather lining",
+"Vegan leather sock",
+"Synthetic sole"
+],
+"n": 3,
+"added": "2026-10-28",
+"shape": 1.25
+},
+{
+"id": "crussi-natural-multi-raffia-natural-multi",
+"style": "Q4200",
+"dept": "shoes",
+"kind": "Sandals",
+"name": "Crussi Natural Multi Raffia",
+"colour": "Natural Multi",
+"price": 129.95,
+"was": null,
+"sizes": [
+6,
+6.5,
+7,
+7.5,
+8,
+8.5,
+9
+],
+"blurb": "",
+"facts": [
+"5 inch heel height",
+"Textile leather lining",
+"Vegan leather sock",
+"Synthetic sole"
+],
+"n": 3,
+"added": "2026-10-28",
+"shape": 1.25
+},
+{
+"id": "mavrick-olive-multi",
+"style": "Q5110",
+"dept": "shoes",
+"kind": "Sneakers",
+"name": "Mavrick",
+"colour": "Olive Multi",
+"price": 159.95,
+"was": null,
+"sizes": [
+6,
+6.5,
+7,
+7.5,
+8,
+8.5,
+9
+],
+"blurb": "The MAVRICK OLIVE MULTI is a high-top sneaker that combines classic style with a hidden wedge for subtle lift. Designed with a secure lace-up closure, this sneaker offers a streamlined silhouette while blending elevated style with everyday versatility. Perfect for casual wear, the hidden wedge provides comfortable support without compromising its clean aesthetic.",
+"facts": [
+"Suede, textile, and leather upper material",
+"Vegan leather sock",
+"Synthetic sole"
+],
+"n": 3,
+"added": "2026-10-28",
+"shape": 1.25
+},
+{
+"id": "bri-gold-multi-gold-multi",
+"style": "Q6415",
+"dept": "shoes",
+"kind": "Heels",
+"name": "Bri Gold Multi",
+"colour": "Gold Multi",
+"price": 79.99,
+"was": 109.95,
+"sizes": [
+6,
+6.5,
+7,
+7.5,
+8,
+8.5,
+9
+],
+"blurb": "A grosgrain ribbon wraps around the slingback strap of the BRI GOLD MULTI point toe stiletto pump and finishes with a bow accenting the side of the shoe.",
+"facts": [
+"Point toe stiletto slingback pump",
+"Slip-on style with slingback strap",
+"Accent bow at side",
+"4 inch heel height",
+"Synthetic sole",
+"Fit tip: If you are in between sizes, size up a half-size"
+],
+"n": 3,
+"added": "2026-10-27",
+"shape": 1.25
+},
+{
+"id": "milly-bone",
+"style": "Q7885",
+"dept": "shoes",
+"kind": "Sandals",
+"name": "Milly",
+"colour": "Bone",
+"price": 129.95,
+"was": null,
+"sizes": [
+6,
+7,
+8,
+9
+],
+"blurb": "The MILLY BONE is a sophisticated wedge sandal featuring an ankle strap for secure, all-day comfort. Crafted with intricate woven detailing across the upper, this style combines bohemian charm with contemporary design. The natural wood bottom adds warmth and texture, perfect for everything from casual outings to elevated warm-weather looks.",
+"facts": [
+"3.25 inch heel height",
+"Unlined",
+"Vegan leather sock",
+"Synthetic sole"
+],
+"n": 3,
+"added": "2026-10-27",
+"shape": 1.25
+},
+{
+"id": "judson-black-distressed",
+"style": "Q4567",
+"dept": "shoes",
+"kind": "Boots",
+"name": "Judson",
+"colour": "Black Distressed",
+"price": 179.95,
+"was": null,
+"sizes": [
+6,
+6.5,
+7,
+7.5,
+8,
+8.5,
+9
+],
+"blurb": "The JUDSON BLACK DISTRESSED is a square toe ankle boot designed with a block heel for all-day comfort and stability. This versatile bootie adds modern edge to any wardrobe. Perfect for transitioning from day to night, it pairs effortlessly with jeans, dresses, or trousers for a polished, on-trend look.",
+"facts": [
+"1.75 inch heel height",
+"6.75 inch shaft height",
+"Leather upper material",
+"Textile and vegan leather lining",
+"Vegan leather sock",
+"Synthetic sole"
+],
+"n": 3,
+"added": "2026-10-27",
+"shape": 1.25
+},
+{
+"id": "lochlan-dark-cherry-leather-burgundy-leather",
+"style": "Q9030",
+"dept": "shoes",
+"kind": "Boots",
+"name": "Lochlan Dark Cherry Leather",
+"colour": "Burgundy Leather",
+"price": 169.95,
+"was": null,
+"sizes": [
+6,
+6.5,
+7,
+7.5,
+8,
+8.5,
+9
+],
+"blurb": "The LOCHLAN DARK CHERRY LEATHER is a sleek ankle boot designed for everyday versatility. This bootie features a sturdy block heel that delivers comfort and stability for all-day wear. Crafted from premium materials, it combines classic style with modern functionality, making it an essential addition to any footwear collection.",
+"facts": [
+"3.25 inch heel height",
+"5.5 inch shaft height",
+"Leather upper material",
+"Vegan leather sock",
+"Synthetic sole"
+],
+"n": 3,
+"added": "2026-10-27",
+"shape": 1.25
+},
+{
+"id": "milena-zebra-raffia",
+"style": "Q5569",
+"dept": "shoes",
+"kind": "Clogs & Mules",
+"name": "Milena",
+"colour": "Zebra Raffia",
+"price": 129.95,
+"was": null,
+"sizes": [
+6,
+7,
+8,
+9
+],
+"blurb": "The MILENA ZEBRA RAFFIA is a striking mule that showcases sleek stud details and a distinctive wood bottom. This contemporary design blends texture, creating an eye-catching piece that transitions effortlessly from day to evening. The studded embellishments add edge and visual interest, while the wood sole brings warmth and natural contrast. Perfect for those seeking a bold, statement-making heel that stands out.",
+"facts": [
+"4.25 inch heel height",
+"Vegan leather lining",
+"Leather sock",
+"Synthetic sole"
+],
+"n": 3,
+"added": "2026-10-27",
+"shape": 1.25
+},
+{
+"id": "calico-purple-multi",
+"style": "Q8785",
+"dept": "shoes",
+"kind": "Loafers & Flats",
+"name": "Calico",
+"colour": "Purple Multi",
+"price": 119.95,
+"was": null,
+"sizes": [
+6,
+6.5,
+7,
+7.5,
+8,
+8.5,
+9
+],
+"blurb": "The CALICO PURPLE MULTI tabi split toe ballet flat combines traditional design with modern craftsmanship. Crafted from premium materials, this flat features a distinctive split toe for enhanced flexibility and a unique silhouette. Its sleek profile and comfortable fit make it an expert choice for those seeking both style and innovative footwear technology.",
+"facts": [
+".25 inch heel height",
+"Vegan leather sock",
+"Synthetic sole"
+],
+"n": 3,
+"added": "2026-10-27",
+"shape": 1.25
+},
+{
+"id": "calico-blush-sequins-blush",
+"style": "Q5492",
+"dept": "shoes",
+"kind": "Loafers & Flats",
+"name": "Calico Blush Sequins",
+"colour": "Blush",
+"price": 119.95,
+"was": null,
+"sizes": [
+6,
+6.5,
+7,
+7.5,
+8,
+8.5,
+9
+],
+"blurb": "The CALICO BLUSH SEQUINS tabi split toe ballet flat combines traditional design with modern craftsmanship. Crafted from premium materials, this flat features a distinctive split toe for enhanced flexibility and a unique silhouette. Its sleek profile and comfortable fit make it an expert choice for those seeking both style and innovative footwear technology.",
+"facts": [
+".25 inch heel height",
+"Textile and vegan leather upper material",
+"Vegan leather sock",
+"Synthetic sole"
+],
+"n": 3,
+"added": "2026-10-27",
+"shape": 1.25
+},
+{
+"id": "santino-red-suede",
+"style": "Q2408",
+"dept": "shoes",
+"kind": "Heels",
+"name": "Santino",
+"colour": "Red Suede",
+"price": 59.99,
+"was": 129.95,
+"sizes": [
+6,
+6.5,
+7,
+7.5,
+8,
+8.5,
+9
+],
+"blurb": "The SANTINO RED SUEDE combines timeless elegance with modern edge. This striking stiletto heel features a peep toe design that adds a touch of allure, while the distinctive clear strap detail elevates the look with contemporary flair. Perfect for evening events or nights out, this shoe delivers confidence and style in every step.",
+"facts": [
+"4 inch heel height",
+"Suede upper material with PVC",
+"Vegan leather lining",
+"Vegan leather sock",
+"Synthetic sole"
+],
+"n": 3,
+"added": "2026-10-27",
+"shape": 1.25
+},
+{
+"id": "stasia-brown",
+"style": "Q8322",
+"dept": "shoes",
+"kind": "Boots",
+"name": "Stasia",
+"colour": "Brown",
+"price": 69.99,
+"was": 129.95,
+"sizes": [
+6,
+6.5,
+7,
+7.5,
+8,
+8.5,
+9
+],
+"blurb": "",
+"facts": [
+"2.5 inch heel height",
+"6.5 inch shaft height",
+"Leather upper material",
+"Synthetic sole"
+],
+"n": 3,
+"added": "2026-10-26",
+"shape": 1.25
+},
+{
+"id": "enella-zebra",
+"style": "Q6375",
+"dept": "shoes",
+"kind": "Boots",
+"name": "Enella",
+"colour": "Zebra",
+"price": 129.95,
+"was": null,
+"sizes": [
+6,
+6.5,
+7,
+7.5,
+8,
+8.5,
+9
+],
+"blurb": "The ENELLA ZEBRA is a sleek stiletto bootie that combines edgy pointed-toe styling with a sophisticated fold-over ankle design. This versatile piece transitions seamlessly from day to night, offering a modern silhouette that elevates any outfit. Perfect for those seeking a bold, contemporary ankle boot that makes a statement.",
+"facts": [
+"3.5 inch heel height",
+"4 inch shaft height",
+"Vegan leather and textile lining",
+"Vegan leather sock",
+"Synthetic sole"
+],
+"n": 3,
+"added": "2026-10-26",
+"shape": 1.25
+},
+{
+"id": "varina-woven-ivory-rhinestones-ivory",
+"style": "Q4005",
+"dept": "shoes",
+"kind": "Loafers & Flats",
+"name": "Varina Woven Ivory Rhinestones",
+"colour": "Ivory",
+"price": 129.95,
+"was": null,
+"sizes": [
+6,
+6.5,
+7,
+7.5,
+8,
+8.5,
+9
+],
+"blurb": "The VARINA WOVEN IVORY RHINESTONES is a refined ballet sandal that combines timeless elegance with modern comfort. This espadrille wedge features a delicate square bow and adjustable leg ties for a personalized fit that moves with you. Designed to complement everything from casual dresses to polished separates, this versatile sandal becomes an essential addition to any wardrobe seeking understated sophistication.",
+"facts": [
+"4.5 inch heel height",
+"Textile and vegan leather upper material",
+"Vegan leather sock",
+"Synthetic sole"
+],
+"n": 3,
+"added": "2026-10-26",
+"shape": 1.25
+},
+{
+"id": "devin-black-leather",
+"style": "Q9124",
+"dept": "shoes",
+"kind": "Sandals",
+"name": "Devin",
+"colour": "Black Leather",
+"price": 69.99,
+"was": 109.95,
+"sizes": [
+6,
+6.5,
+7,
+7.5,
+8,
+8.5,
+9
+],
+"blurb": "This DEVIN BLACK LEATHER espadrille sandal combines timeless design with contemporary comfort. The ankle strap delivers secure support and a polished silhouette, while the wedge heel offers subtle elevation and all-day wearability. Crafted with attention to detail, it transitions seamlessly from weekend trips to evening occasions.",
+"facts": [
+"4.5 inch heel height",
+"Leather upper material",
+"Vegan leather lining",
+"Vegan leather sock",
+"Synthetic sole"
+],
+"n": 3,
+"added": "2026-10-25",
+"shape": 1.25
+},
+{
+"id": "besette-bone-leather",
+"style": "Q4058",
+"dept": "shoes",
+"kind": "Loafers & Flats",
+"name": "Besette",
+"colour": "Bone Leather",
+"price": 69.99,
+"was": 99.95,
+"sizes": [
+6,
+7,
+8,
+9
+],
+"blurb": "Experience style and comfort with the BESETTE BONE LEATHER Mary Jane ballet flat . Designed with a rounded toe, these flats offer a chic and versatile look for any outfit. Enjoy the perfect blend of fashion and function with these classic flats.",
+"facts": [
+".25 inch heel height",
+"Leather upper material",
+"Unlined",
+"Synthetic sole",
+"Fit tip: If you are in between sizes, size up a half-size"
+],
+"n": 3,
+"added": "2026-10-22",
+"shape": 1.25
+},
+{
+"id": "jamiyah-natural-leather",
+"style": "Q5677",
+"dept": "shoes",
+"kind": "Boots",
+"name": "Jamiyah",
+"colour": "Natural Leather",
+"price": 149.95,
+"was": null,
+"sizes": [
+6,
+6.5,
+7,
+7.5,
+8,
+8.5,
+9
+],
+"blurb": "The JAMIYAH NATURAL LEATHER is a sleek ankle bootie featuring a modern square toe and convenient back zipper for easy on-and-off wear. Crafted with premium materials, this versatile style transitions seamlessly from day to night, offering both comfort and contemporary edge. Perfect for elevating any outfit with understated sophistication.",
+"facts": [
+"2.25 inch heel height",
+"6 inch shaft height",
+"Leather upper material",
+"Vegan leather and textile lining",
+"Vegan leather sock",
+"Synthetic sole"
+],
+"n": 3,
+"added": "2026-10-22",
+"shape": 1.25
+},
+{
+"id": "reckless-black-leather",
+"style": "Q7706",
+"dept": "shoes",
+"kind": "Boots",
+"name": "Reckless",
+"colour": "Black Leather",
+"price": 169.99,
+"was": 229.95,
+"sizes": [
+6,
+7,
+8,
+9
+],
+"blurb": "Own the edge. The RECKLESS BLACK LEATHER moto bootie commands attention with bold buckle hardware and striking patched detailing that makes a statement. This ankle boot pairs attitude with undeniable style. Perfect for adding an easy lift to everyday looks while still feeling effortless.",
+"facts": [
+"2 inch heel height",
+"7 inch shaft height",
+"Leather upper material",
+"Leather lining",
+"Leather sock",
+"Synthetic sole"
+],
+"n": 3,
+"added": "2026-10-22",
+"shape": 1.25
+},
+{
+"id": "bigschmona-jelly-natural",
+"style": "Q6982",
+"dept": "shoes",
+"kind": "Sandals",
+"name": "Bigschmona Jelly",
+"colour": "Natural",
+"price": 59.95,
+"was": null,
+"sizes": [
+6,
+7,
+8,
+9
+],
+"blurb": "",
+"facts": [
+"2 inch heel height",
+"Synthetic sole",
+"Fit tip: If you are in between sizes, size up a half-size"
+],
+"n": 3,
+"added": "2026-10-22",
+"shape": 1.25
+},
+{
+"id": "selma-turquoise-suede",
+"style": "Q4677",
+"dept": "shoes",
+"kind": "Loafers & Flats",
+"name": "Selma",
+"colour": "Turquoise Suede",
+"price": 109.95,
+"was": null,
+"sizes": [
+6,
+6.5,
+7,
+7.5,
+8,
+8.5,
+9
+],
+"blurb": "The SELMA TURQUOISE SUEDE is a timeless ballet flat featuring an elegant bow detail and rounded toe silhouette. Crafted from premium materials, this versatile style transitions seamlessly from office to evening wear. The refined bow accent adds a touch of sophistication, while the classic flat sole ensures all-day comfort. Perfect for those seeking a polished, feminine essential that complements any wardrobe.",
+"facts": [
+".5 inch heel height",
+"Suede upper material",
+"Vegan leather sock",
+"Synthetic sole"
+],
+"n": 3,
+"added": "2026-10-21",
+"shape": 1.25
+},
+{
+"id": "pulse-black",
+"style": "Q9510",
+"dept": "shoes",
+"kind": "Sneakers",
+"name": "Pulse",
+"colour": "Black",
+"price": 79.99,
+"was": 109.95,
+"sizes": [
+6,
+6.5,
+7,
+7.5,
+8,
+8.5,
+9
+],
+"blurb": "",
+"facts": [
+".5 inch heel height",
+"Leather upper material",
+"Vegan leather lining",
+"Vegan leather sock",
+"Synthetic sole"
+],
+"n": 3,
+"added": "2026-10-20",
+"shape": 1.25
+},
+{
+"id": "dipsy-terracotta-conch-terracotta",
+"style": "Q2978",
+"dept": "shoes",
+"kind": "Loafers & Flats",
+"name": "Dipsy Terracotta Conch",
+"colour": "Terracotta",
+"price": 39.99,
+"was": 89.95,
+"sizes": [
+6,
+6.5,
+7,
+7.5,
+8,
+8.5,
+9
+],
+"blurb": "This DIPSY slide sandal features mini studs and a rounded toe for added style and comfort. The perfect combination of fashion and practicality, these sandals are a must-have for any wardrobe. With their suede design, they add a touch of rustic charm to any outfit.",
+"facts": [
+".5 inch heel height",
+"Unlined",
+"Synthetic sole",
+"Fit tip: If you are in between sizes, size up a half-size"
+],
+"n": 3,
+"added": "2026-10-19",
+"shape": 1.25
+},
+{
+"id": "exotica-flower-champagne",
+"style": "Q9560",
+"dept": "shoes",
+"kind": "Heels",
+"name": "Exotica Flower",
+"colour": "Champagne",
+"price": 159.95,
+"was": null,
+"sizes": [
+6,
+6.5,
+7,
+7.5,
+8,
+8.5,
+9
+],
+"blurb": "",
+"facts": [
+"Slip-on style with coil ankle strap",
+"4.5 inch heel height",
+"Vegan leather lining",
+"Vegan leather sock",
+"Synthetic sole"
+],
+"n": 3,
+"added": "2026-10-19",
+"shape": 1.25
+},
+{
+"id": "lakoma-black-multi",
+"style": "Q4732",
+"dept": "shoes",
+"kind": "Boots",
+"name": "Lakoma",
+"colour": "Black Multi",
+"price": 189.95,
+"was": null,
+"sizes": [
+6,
+6.5,
+7,
+7.5,
+8,
+8.5,
+9
+],
+"blurb": "The LAKOMA BLACK MULTI is a versatile ankle boot designed with a distinctive fold-over cuff and pointed-toe silhouette. Featuring a subtle wedge heel for added lift and all-day comfort, this bootie seamlessly transitions from day to night. The two-tone upper creates a sophisticated look that pairs effortlessly with dresses, jeans, or casual wear.",
+"facts": [
+"3 inch heel height",
+"6.25 inch shaft height",
+"Leather, suede, and faux suede upper material",
+"Faux suede lining",
+"Vegan leather sock",
+"Synthetic sole"
+],
+"n": 3,
+"added": "2026-10-19",
+"shape": 1.25
+},
+{
+"id": "lanches-white-leather",
+"style": "Q9994",
+"dept": "shoes",
+"kind": "Clogs & Mules",
+"name": "Lanches",
+"colour": "White Leather",
+"price": 109.95,
+"was": null,
+"sizes": [
+6,
+6.5,
+7,
+7.5,
+8,
+8.5,
+9
+],
+"blurb": "The LANCHES WHITE LEATHER features a sophisticated strappy upper paired with a sleek mule silhouette. Designed with a comfortable wedge heel , this style offers the perfect balance of fashion and ease. Versatile enough for both casual outings and more elevated occasions, it transitions effortlessly from day to night, making it a go-to choice for any wardrobe.",
+"facts": [
+"2.75 inch heel height",
+"Leather upper material",
+"Leather lining",
+"Vegan leather sock",
+"Synthetic sole"
+],
+"n": 3,
+"added": "2026-10-19",
+"shape": 1.25
+},
+{
+"id": "callia-black-leather",
+"style": "Q8770",
+"dept": "shoes",
+"kind": "Loafers & Flats",
+"name": "Callia",
+"colour": "Black Leather",
+"price": 99.95,
+"was": null,
+"sizes": [
+6,
+6.5,
+7,
+7.5,
+8,
+8.5,
+9
+],
+"blurb": "",
+"facts": [
+".5 inch heel height",
+"Leather upper material with hardware",
+"Vegan leather lining",
+"Vegan leather sock",
+"Synthetic sole"
+],
+"n": 3,
+"added": "2026-10-19",
+"shape": 1.25
+},
+{
+"id": "magnolia-black-leather",
+"style": "Q7992",
+"dept": "shoes",
+"kind": "Boots",
+"name": "Magnolia",
+"colour": "Black Leather",
+"price": 169.95,
+"was": null,
+"sizes": [
+6,
+6.5,
+7,
+7.5,
+8,
+8.5,
+9
+],
+"blurb": "The MAGNOLIA BLACK LEATHER is a versatile ankle bootie crafted with a sleek upper and sturdy block heel for all-day comfort and stability. This classic design transitions seamlessly from casual to polished looks, offering the perfect balance of style and wearability. The block heel provides support while maintaining a modern silhouette that flatters any outfit.",
+"facts": [
+"3.25 inch heel height",
+"4.75 inch shaft height",
+"Leather upper material",
+"Vegan leather lining",
+"Vegan leather sock",
+"Synthetic sole"
+],
+"n": 3,
+"added": "2026-10-19",
+"shape": 1.25
+},
+{
+"id": "agitha-sunglasses-navy",
+"style": "Q2735",
+"dept": "bags",
+"kind": "Shoulder Bags",
+"name": "Agitha Sunglasses",
+"colour": "Navy",
+"price": 14.99,
+"was": 48.0,
+"sizes": null,
+"blurb": "The AGITHA SUNGLASSES NAVY deliver timeless sophistication with their rectangular silhouette and striking navy lenses. Gold-detailing frame accents provide a luxe contrast that elevates the design while maintaining understated elegance. Built for those who appreciate quality eyewear, these sunglasses offer reliable UV protection and a refined aesthetic suitable for any season or occasion.",
+"facts": [
+"Navy frame sunglasses with gold-detailing",
+"Lens/Bridge/Temple width: 50-17-138",
+"INJECTED PC/ACRYLIC LENS"
+],
+"n": 3,
+"added": "2026-10-31",
+"shape": 1.25
+},
+{
+"id": "small-pouch-natural",
+"style": "Q4232",
+"dept": "bags",
+"kind": "Pouches",
+"name": "Small Pouch",
+"colour": "Natural",
+"price": 88.0,
+"was": null,
+"sizes": null,
+"blurb": "",
+"facts": [
+"Vegan leather details",
+"Gold metal hardware",
+"Zip at top",
+"Lined"
+],
+"n": 1,
+"added": "2026-10-19",
+"shape": 1.0
+},
+{
+"id": "polka-dots-card-case-white-with-black-polka-dots",
+"style": "Q3292",
+"dept": "bags",
+"kind": "Pouches",
+"name": "Polka Dots Card Case",
+"colour": "White With Black Polka Dots",
+"price": 18.0,
+"was": null,
+"sizes": null,
+"blurb": "White card holder with black polka dot print and a button type closure.",
+"facts": [
+"Fabrics: Shell 100% polyurethane, Lining 100% cotton"
+],
+"n": 2,
+"added": "2026-10-30",
+"shape": 1.5
+},
+{
+"id": "amarra-studded-faux-leather-shoulder-bag-washed-",
+"style": "Q8240",
+"dept": "bags",
+"kind": "Shoulder Bags",
+"name": "Amarra Studded Faux Leather Shoulder Bag",
+"colour": "Washed Brown",
+"price": 45.0,
+"was": null,
+"sizes": null,
+"blurb": "",
+"facts": [
+"Studded shine faux leather shoulder bag",
+"Twin straps, zip closure, internal pockets, flat base"
+],
+"n": 3,
+"added": "2026-10-15",
+"shape": 1.35
+},
+{
+"id": "cozy-pouch-dream-cloud-knit",
+"style": "Q1545",
+"dept": "bags",
+"kind": "Pouches",
+"name": "Cozy Pouch",
+"colour": "Dream Cloud Knit",
+"price": 38.0,
+"was": null,
+"sizes": null,
+"blurb": "",
+"facts": [
+"Color: Dream Cloud Knit",
+"Made of 100% polyester"
+],
+"n": 3,
+"added": "2026-08-18",
+"shape": 1.0
+},
+{
+"id": "colette-bag-black-gold-black-gold",
+"style": "Q6227",
+"dept": "bags",
+"kind": "Shoulder Bags",
+"name": "Colette Bag Black/gold",
+"colour": "Black Gold",
+"price": 108.0,
+"was": null,
+"sizes": null,
+"blurb": "The COLETTE BAG BLACK/GOLD combines sophisticated quilting with functional design, featuring a chain shoulder strap for versatile styling options. Multiple interior compartments keep essentials organized and accessible, while the structured silhouette maintains its shape throughout the day. This piece seamlessly transitions from professional settings to weekend outings, offering both polish and practicality.",
+"facts": [
+"Zipper closure",
+"Shoulder strap: 11.5in"
+],
+"n": 3,
+"added": "2026-10-28",
+"shape": 1.25
+},
+{
+"id": "boo-jelly-tote-bag-grape",
+"style": "Q8097",
+"dept": "bags",
+"kind": "Totes",
+"name": "Boo Jelly Tote Bag",
+"colour": "Grape",
+"price": 161.0,
+"was": null,
+"sizes": null,
+"blurb": "",
+"facts": [],
+"n": 1,
+"added": "2026-10-14",
+"shape": 1.0
+},
+{
+"id": "leopard-tote-bag-leopard",
+"style": "Q2989",
+"dept": "bags",
+"kind": "Totes",
+"name": "Leopard Tote Bag",
+"colour": "Leopard",
+"price": 28.0,
+"was": null,
+"sizes": null,
+"blurb": "",
+"facts": [
+"Large leopard print tote bag with an inside pocket.",
+"Fabrics: 100% cotton"
+],
+"n": 3,
+"added": "2026-10-30",
+"shape": 1.5
+},
+{
+"id": "colter-faux-leather-textured-shoulder-bag-brown",
+"style": "Q5130",
+"dept": "bags",
+"kind": "Shoulder Bags",
+"name": "Colter Faux Leather Textured Shoulder Bag",
+"colour": "Brown",
+"price": 39.0,
+"was": null,
+"sizes": null,
+"blurb": "",
+"facts": [
+"Faux leather textured shoulder bag",
+"Single strap, zip closure, gold-hardware, internal pockets",
+"80% PU 20% polyester"
+],
+"n": 3,
+"added": "2026-10-14",
+"shape": 1.35
+},
+{
+"id": "eyelet-pouch-blanc-daisy",
+"style": "Q8334",
+"dept": "bags",
+"kind": "Pouches",
+"name": "Eyelet Pouch",
+"colour": "Blanc Daisy",
+"price": 38.0,
+"was": null,
+"sizes": null,
+"blurb": "",
+"facts": [
+"Made of 100% cotton with a polyester lined interior"
+],
+"n": 3,
+"added": "2026-07-07",
+"shape": 1.0
+},
+{
+"id": "demson-sunglasses-black",
+"style": "Q9797",
+"dept": "bags",
+"kind": "Shoulder Bags",
+"name": "Demson Sunglasses",
+"colour": "Black",
+"price": 29.99,
+"was": 48.0,
+"sizes": null,
+"blurb": "The DEMSON SUNGLASSES BLACK are classic aviators designed for timeless style and versatile wear. Featuring a sleek black frame paired with striking yellow lenses, this pair delivers both bold aesthetics and practical functionality. The yellow lenses enhance contrast and clarity, making them ideal for bright conditions while adding an edgy, modern twist to the traditional aviator silhouette.",
+"facts": [
+"Lens/Bridge/Temple width: 55-16-145",
+"INJECTED CP/ACRYLIC LENS"
+],
+"n": 3,
+"added": "2026-10-24",
+"shape": 1.25
+},
+{
+"id": "treats-jelly-tote-bag-jellyfish",
+"style": "Q9871",
+"dept": "bags",
+"kind": "Totes",
+"name": "Treats Jelly Tote Bag",
+"colour": "Jellyfish",
+"price": 209.0,
+"was": null,
+"sizes": null,
+"blurb": "",
+"facts": [],
+"n": 1,
+"added": "2026-10-14",
+"shape": 1.0
+},
+{
+"id": "shoulder-bag-black",
+"style": "Q8030",
+"dept": "bags",
+"kind": "Shoulder Bags",
+"name": "Shoulder Bag",
+"colour": "Black",
+"price": 28.0,
+"was": null,
+"sizes": null,
+"blurb": "Black nylon shoulder bag with three zippered pockets, one button clasp pocket on the front, an internal zipper pocket and plaid blue and green lining.",
+"facts": [
+"Fabrics: Shell: 100% polyester Lining: 100% polyester"
+],
+"n": 3,
+"added": "2026-10-30",
+"shape": 1.5
+},
+{
+"id": "dawn-to-dusk-shoulder-bag-plum-noir",
+"style": "Q7449",
+"dept": "bags",
+"kind": "Shoulder Bags",
+"name": "Dawn To Dusk Shoulder Bag",
+"colour": "Plum Noir",
+"price": 39.0,
+"was": null,
+"sizes": null,
+"blurb": "",
+"facts": [
+"Faux suede shoulder bag",
+"Double removable straps, zip closure, silver-tone hardware, internal pocket, flat base",
+"60% PU 40% polyester"
+],
+"n": 3,
+"added": "2026-09-29",
+"shape": 1.35
+},
+{
+"id": "terry-pouch-lychee-baby",
+"style": "Q6601",
+"dept": "bags",
+"kind": "Pouches",
+"name": "Terry Pouch",
+"colour": "Lychee Baby",
+"price": 36.0,
+"was": null,
+"sizes": null,
+"blurb": "",
+"facts": [
+"Made of a cotton-linen blend with a satin lined interior"
+],
+"n": 3,
+"added": "2026-04-24",
+"shape": 1.0
+},
+{
+"id": "novak-bag-zebra",
+"style": "Q8108",
+"dept": "bags",
+"kind": "Crossbody",
+"name": "Novak Bag",
+"colour": "Zebra",
+"price": 99.0,
+"was": null,
+"sizes": null,
+"blurb": "",
+"facts": [
+"Mag snap closure",
+"Attachable crossbody strap",
+"Leather materials"
+],
+"n": 3,
+"added": "2026-10-24",
+"shape": 1.25
+},
+{
+"id": "candy-jelly-tote-bag-grape",
+"style": "Q6224",
+"dept": "bags",
+"kind": "Totes",
+"name": "Candy Jelly Tote Bag",
+"colour": "Grape",
+"price": 193.0,
+"was": null,
+"sizes": null,
+"blurb": "",
+"facts": [],
+"n": 1,
+"added": "2026-10-14",
+"shape": 1.0
+},
+{
+"id": "floral-card-case-ivory-green-floral",
+"style": "Q3752",
+"dept": "bags",
+"kind": "Pouches",
+"name": "Floral Card Case",
+"colour": "Ivory Green Floral",
+"price": 15.0,
+"was": null,
+"sizes": null,
+"blurb": "",
+"facts": [
+"Small white card case with sage green floral print.",
+"Fabrics: 100% cotton"
+],
+"n": 3,
+"added": "2026-10-29",
+"shape": 1.5
+},
+{
+"id": "brittin-stud-detail-shoulder-bag-black",
+"style": "Q1692",
+"dept": "bags",
+"kind": "Shoulder Bags",
+"name": "Brittin Stud Detail Shoulder Bag",
+"colour": "Black",
+"price": 45.0,
+"was": null,
+"sizes": null,
+"blurb": "",
+"facts": [
+"Twin fixed shoulder straps, hoop ring detail, zip closure, internal zip pocket, flat base",
+"60% PU 40% polyester"
+],
+"n": 3,
+"added": "2026-09-29",
+"shape": 1.35
+},
+{
+"id": "juliana-bag-bronze",
+"style": "Q1752",
+"dept": "bags",
+"kind": "Crossbody",
+"name": "Juliana Bag",
+"colour": "Bronze",
+"price": 69.0,
+"was": null,
+"sizes": null,
+"blurb": "Expertly crafted and versatile, the JULIANA bag is a wardrobe staple. The clutch design offers convenience and style, with a magnetic snap closure and removable crossbody chain strap. Its interior back wall slip pocket holds credit cards and valuables, making it perfect for any occasion.",
+"facts": [
+"Clutch handbag with chain crossbody strap",
+"Mag snap closure",
+"Interior back-wall slip pocket",
+"Removable chain crossbody strap"
+],
+"n": 3,
+"added": "2026-10-23",
+"shape": 1.25
+},
+{
+"id": "spooky-szn-jelly-small-pouch-jellyfish",
+"style": "Q3877",
+"dept": "bags",
+"kind": "Pouches",
+"name": "Spooky Szn Jelly Small Pouch",
+"colour": "Jellyfish",
+"price": 209.0,
+"was": null,
+"sizes": null,
+"blurb": "",
+"facts": [],
+"n": 1,
+"added": "2026-10-14",
+"shape": 1.0
+},
+{
+"id": "stripes-makeup-bag-bubblegum-pink-and-pink-strip",
+"style": "Q3647",
+"dept": "bags",
+"kind": "Shoulder Bags",
+"name": "Stripes Makeup Bag",
+"colour": "Bubblegum Pink and Pink Stripes",
+"price": 18.0,
+"was": null,
+"sizes": null,
+"blurb": "Stripes travel makeup bag, magnet buckle and zipper closure, mirror inside.",
+"facts": [
+"Fabrics: 100% cotton"
+],
+"n": 3,
+"added": "2026-10-22",
+"shape": 1.5
+},
+{
+"id": "olsenn-faux-suede-oversized-shoulder-bag-slate",
+"style": "Q3888",
+"dept": "bags",
+"kind": "Shoulder Bags",
+"name": "Olsenn Faux Suede Oversized Shoulder Bag",
+"colour": "Slate",
+"price": 45.0,
+"was": null,
+"sizes": null,
+"blurb": "",
+"facts": [
+"Faux suede oversized shoulder bag with buckle detail",
+"60% PU 40% polyester"
+],
+"n": 3,
+"added": "2026-09-23",
+"shape": 1.35
+},
+{
+"id": "diora-bag-black-silver-black-silver",
+"style": "Q4013",
+"dept": "bags",
+"kind": "Shoulder Bags",
+"name": "Diora Bag Black/silver",
+"colour": "Black Silver",
+"price": 108.0,
+"was": null,
+"sizes": null,
+"blurb": "The DIORA BAG BLACK/SILVER is a sophisticated shoulder bag featuring a secure top zip opening and striking metal mesh detailing. Draped construction creates an elegant silhouette that effortlessly transitions from day to evening. The colorway adds modern edge to any outfit. Perfect for carrying essentials with contemporary style.",
+"facts": [
+"Removable shoulder strap",
+"Fits only the few essentials, including lipstick, cards, and a phone",
+"Shoulder strap: 12.5 inch drop"
+],
+"n": 3,
+"added": "2026-10-21",
+"shape": 1.25
+},
+{
+"id": "witchy-jelly-small-pouch-grape",
+"style": "Q8716",
+"dept": "bags",
+"kind": "Pouches",
+"name": "Witchy Jelly Small Pouch",
+"colour": "Grape",
+"price": 167.0,
+"was": null,
+"sizes": null,
+"blurb": "",
+"facts": [],
+"n": 1,
+"added": "2026-10-14",
+"shape": 1.0
+},
+{
+"id": "stripes-coin-purse-pastel-pink",
+"style": "Q7840",
+"dept": "bags",
+"kind": "Shoulder Bags",
+"name": "Stripes Coin Purse",
+"colour": "Pastel Pink",
+"price": 8.0,
+"was": null,
+"sizes": null,
+"blurb": "",
+"facts": [
+"Pastel pink and ivory striped coin purse with zip closure.",
+"Fabrics: 100% cotton"
+],
+"n": 3,
+"added": "2026-10-21",
+"shape": 1.5
+},
+{
+"id": "just-peachy-shoulder-bag-champagne",
+"style": "Q4615",
+"dept": "bags",
+"kind": "Shoulder Bags",
+"name": "Just Peachy Shoulder Bag",
+"colour": "Champagne",
+"price": 39.0,
+"was": null,
+"sizes": null,
+"blurb": "",
+"facts": [
+"Shoulder bag with pleat detail",
+"Fixed double thin straps, snap button closure, one main compartment, fully lined",
+"80% OU 20% Polyester"
+],
+"n": 3,
+"added": "2026-09-16",
+"shape": 1.35
+},
+{
+"id": "lei-beaded-trim-western-hat-black",
+"style": "Q7630",
+"dept": "bags",
+"kind": "Shoulder Bags",
+"name": "Lei Beaded Trim Western Hat",
+"colour": "Black",
+"price": 29.99,
+"was": 50.0,
+"sizes": null,
+"blurb": "Embrace bold style with this striking LEI BEADED TRIM WESTERN HAT BLACK. Featuring intricate woven construction and eye-catching beaded trim detailing, this hat delivers cowboy charm with a modern edge. Perfect for making a statement at rodeos, festivals, or everyday wear. The beaded embellishments add texture and visual interest, while the classic western silhouette ensures timeless appeal.",
+"facts": [],
+"n": 3,
+"added": "2026-10-20",
+"shape": 1.25
+},
+{
+"id": "hoop-earrings-silver",
+"style": "Q8257",
+"dept": "jewelry",
+"kind": "Earrings",
+"name": "Hoop Earrings",
+"colour": "Silver",
+"price": 6.0,
+"was": null,
+"sizes": null,
+"blurb": "",
+"facts": [
+"Large infinity hoop stainless steel hoop earrings.",
+"Fabrics: Stainless steel"
+],
+"n": 2,
+"added": "2026-10-30",
+"shape": 1.5
+},
+{
+"id": "irina-bag-tobacco",
+"style": "Q5429",
+"dept": "jewelry",
+"kind": "Earrings",
+"name": "Irina Bag",
+"colour": "Tobacco",
+"price": 54.99,
+"was": 78.0,
+"sizes": null,
+"blurb": "",
+"facts": [],
+"n": 3,
+"added": "2026-11-01",
+"shape": 1.25
+},
+{
+"id": "anchovy-earrings-silver",
+"style": "Q5452",
+"dept": "jewelry",
+"kind": "Earrings",
+"name": "Anchovy Earrings",
+"colour": "Silver",
+"price": 55.0,
+"was": null,
+"sizes": null,
+"blurb": "Show some 🐟 sass with these silver plated hoops adorned with anchovy charms. Perfect for adding that sea-sational touch to any outfit! 🤩",
+"facts": [
+"A pair of silver plated hoops with anchovy charms. Includes two earrings.",
+"1\" silver plated brass hoops with 1.25\" charms"
+],
+"n": 3,
+"added": "2026-09-29",
+"shape": 1.33
+},
+{
+"id": "ruby-lynn-rattler-bag-charm",
+"style": "Q6688",
+"dept": "jewelry",
+"kind": "Charms",
+"name": "Ruby Lynn Rattler Bag Charm",
+"colour": null,
+"price": 118.0,
+"was": null,
+"sizes": null,
+"blurb": "Make a sophisticated statement with the Ruby Lynn Rattler Bag Charm. Crafted from rich, premium pebbled leather, this structured charm features an intricate printed leather motif inspired by classic southwestern desert iconography.",
+"facts": [
+"Width: 3.5",
+"Pebbled Leather",
+"Gold Metal hardware"
+],
+"n": 2,
+"added": "2026-10-22",
+"shape": 1.0
+},
+{
+"id": "elevara-hoop-earrings-silver",
+"style": "Q6950",
+"dept": "jewelry",
+"kind": "Earrings",
+"name": "Elevara Hoop Earrings",
+"colour": "Silver",
+"price": 16.0,
+"was": null,
+"sizes": null,
+"blurb": "",
+"facts": [
+"Hoop earrings with silver hardware",
+"Stud closure"
+],
+"n": 3,
+"added": "2026-10-08",
+"shape": 1.35
+},
+{
+"id": "jocelyn-necklace-gold",
+"style": "Q8299",
+"dept": "jewelry",
+"kind": "Necklaces",
+"name": "Jocelyn Necklace",
+"colour": "Gold",
+"price": 29.0,
+"was": null,
+"sizes": null,
+"blurb": "",
+"facts": [
+"Gold link chain",
+"Gold hardware",
+"Lobster clasp closure",
+"Extension chain"
+],
+"n": 3,
+"added": "2026-10-19",
+"shape": 1.5
+},
+{
+"id": "stainless-steel-heart-locket-necklace-silver",
+"style": "Q1771",
+"dept": "jewelry",
+"kind": "Necklaces",
+"name": "Stainless Steel Heart Locket Necklace",
+"colour": "Silver",
+"price": 12.0,
+"was": null,
+"sizes": null,
+"blurb": "Dainty stainless steel silver chain necklace with a heart locket and adjustable circular clasp closure.",
+"facts": [
+"Materials: Stainless steel"
+],
+"n": 2,
+"added": "2026-10-30",
+"shape": 1.5
+},
+{
+"id": "pom-shoe-charm-brown-multi-brown-multi",
+"style": "Q4366",
+"dept": "jewelry",
+"kind": "Charms",
+"name": "Pom Shoe Charm Brown/multi",
+"colour": "Brown Multi",
+"price": 12.0,
+"was": null,
+"sizes": null,
+"blurb": "",
+"facts": [],
+"n": 3,
+"added": "2026-10-29",
+"shape": 1.25
+},
+{
+"id": "fishes-necklace-silver",
+"style": "Q6796",
+"dept": "jewelry",
+"kind": "Necklaces",
+"name": "Fishes Necklace",
+"colour": "Silver",
+"price": 65.0,
+"was": null,
+"sizes": null,
+"blurb": "A silver plated fish charm necklace with an adjustable clasp closure.",
+"facts": [
+"17\" Silver plated necklace with an additional 3\" adjustable extender."
+],
+"n": 3,
+"added": "2026-09-29",
+"shape": 1.33
+},
+{
+"id": "carrie-ann-cactus-bag-charm",
+"style": "Q8374",
+"dept": "jewelry",
+"kind": "Charms",
+"name": "Carrie Ann Cactus Bag Charm",
+"colour": null,
+"price": 118.0,
+"was": null,
+"sizes": null,
+"blurb": "",
+"facts": [
+"Width: 3.7",
+"Pebbled Leather",
+"Gold Metal hardware"
+],
+"n": 2,
+"added": "2026-10-22",
+"shape": 1.0
+},
+{
+"id": "liora-gold-plated-10mm-chunky-hoop-earrings-gold",
+"style": "Q5558",
+"dept": "jewelry",
+"kind": "Earrings",
+"name": "Liora Gold Plated 10mm Chunky Hoop Earrings",
+"colour": "Gold",
+"price": 22.0,
+"was": null,
+"sizes": null,
+"blurb": "",
+"facts": [
+"Gold-plated 100mm chunky hoop earrings",
+"18k pvd coating 100% stainless steel"
+],
+"n": 3,
+"added": "2026-09-02",
+"shape": 1.33
+},
+{
+"id": "stainless-steel-bracelet-silver",
+"style": "Q7652",
+"dept": "jewelry",
+"kind": "Bracelets",
+"name": "Stainless Steel Bracelet",
+"colour": "Silver",
+"price": 12.0,
+"was": null,
+"sizes": null,
+"blurb": "",
+"facts": [
+"Silver stretchable patterned bracelet.",
+"Materials: Stainless steel."
+],
+"n": 2,
+"added": "2026-10-30",
+"shape": 1.5
+},
+{
+"id": "cord-shoe-charm-brown",
+"style": "Q8114",
+"dept": "jewelry",
+"kind": "Charms",
+"name": "Cord Shoe Charm",
+"colour": "Brown",
+"price": 6.0,
+"was": null,
+"sizes": null,
+"blurb": "",
+"facts": [
+"Materials: 100% Polyester"
+],
+"n": 2,
+"added": "2026-10-26",
+"shape": 1.25
+},
+{
+"id": "horseshoe-earrings-silver",
+"style": "Q5143",
+"dept": "jewelry",
+"kind": "Earrings",
+"name": "Horseshoe Earrings",
+"colour": "Silver",
+"price": 55.0,
+"was": null,
+"sizes": null,
+"blurb": "",
+"facts": [
+"Zinc 90%, Brass 5%, Stainless Steel 5%"
+],
+"n": 3,
+"added": "2026-09-09",
+"shape": 1.33
+},
+{
+"id": "bow-slider-charm",
+"style": "Q1425",
+"dept": "jewelry",
+"kind": "Charms",
+"name": "Bow Slider Charm",
+"colour": null,
+"price": 28.0,
+"was": null,
+"sizes": null,
+"blurb": "",
+"facts": [
+"Fits Customizable Crossbody Strap"
+],
+"n": 3,
+"added": "2026-10-21",
+"shape": 1.0
+},
+{
+"id": "liora-stainless-steel-10mm-chunky-hoop-earrings-",
+"style": "Q8698",
+"dept": "jewelry",
+"kind": "Earrings",
+"name": "Liora Stainless Steel 10mm Chunky Hoop Earrings",
+"colour": "Silver",
+"price": 15.0,
+"was": 22.0,
+"sizes": null,
+"blurb": "",
+"facts": [
+"Stainless steel 100mm chunky hoop earrings",
+"100% stainless steel"
+],
+"n": 3,
+"added": "2026-09-02",
+"shape": 1.33
+},
+{
+"id": "rhinestone-charm-necklace-gold",
+"style": "Q1620",
+"dept": "jewelry",
+"kind": "Necklaces",
+"name": "Rhinestone Charm Necklace",
+"colour": "Gold",
+"price": 8.0,
+"was": null,
+"sizes": null,
+"blurb": "Gold-framed rhinestone gem necklace with an adjustable lobster-clasp closure.",
+"facts": [],
+"n": 3,
+"added": "2026-10-29",
+"shape": 1.5
+},
+{
+"id": "maviss-bag-taupe",
+"style": "Q6066",
+"dept": "jewelry",
+"kind": "Charms",
+"name": "Maviss Bag",
+"colour": "Taupe",
+"price": 129.0,
+"was": null,
+"sizes": null,
+"blurb": "The MAVISS BAG TAUPE is a slouchy shoulder bag featuring a top zip closure and convenient front zipper pocket for everyday essentials. This versatile piece includes a removable charm for personalized styling. Perfect for effortless, laid-back sophistication.",
+"facts": [
+"Front zipper pocket",
+"Top zipper closure",
+"Shoulder strap: 10.5 inch drop",
+"Suede materials"
+],
+"n": 3,
+"added": "2026-10-23",
+"shape": 1.25
+},
+{
+"id": "horse-stud-earrings-silver",
+"style": "Q3468",
+"dept": "jewelry",
+"kind": "Earrings",
+"name": "Horse Stud Earrings",
+"colour": "Silver",
+"price": 44.0,
+"was": null,
+"sizes": null,
+"blurb": "",
+"facts": [
+"90% Zinc, 10% Brass"
+],
+"n": 3,
+"added": "2026-08-20",
+"shape": 1.33
+},
+{
+"id": "star-slider-charm",
+"style": "Q2045",
+"dept": "jewelry",
+"kind": "Charms",
+"name": "Star Slider Charm",
+"colour": null,
+"price": 28.0,
+"was": null,
+"sizes": null,
+"blurb": "",
+"facts": [
+"Fits Customizable Crossbody Strap"
+],
+"n": 3,
+"added": "2026-10-21",
+"shape": 1.0
+},
+{
+"id": "tindra-gold-plated-25mm-hoop-earrings-gold",
+"style": "Q2707",
+"dept": "jewelry",
+"kind": "Earrings",
+"name": "Tindra Gold Plated 25mm Hoop Earrings",
+"colour": "Gold",
+"price": 22.0,
+"was": null,
+"sizes": null,
+"blurb": "",
+"facts": [
+"Gold-plated 25mm hoop earrings",
+"18k pvd coating 100% stainless steel"
+],
+"n": 3,
+"added": "2026-09-02",
+"shape": 1.33
+},
+{
+"id": "striped-bangle-bracelet-black-with-white-stripes",
+"style": "Q4716",
+"dept": "jewelry",
+"kind": "Bracelets",
+"name": "Striped Bangle Bracelet",
+"colour": "Black with White Stripes",
+"price": 10.0,
+"was": null,
+"sizes": null,
+"blurb": "",
+"facts": [],
+"n": 3,
+"added": "2026-10-28",
+"shape": 1.5
+},
+{
+"id": "leilani-bag-denim",
+"style": "Q6125",
+"dept": "jewelry",
+"kind": "Charms",
+"name": "Leilani Bag",
+"colour": "Denim",
+"price": 139.0,
+"was": null,
+"sizes": null,
+"blurb": "",
+"facts": [
+"Denim tote bag",
+"Removable charm strap and bunny",
+"Fits a full day's essentials, including a laptop, tablet, books, and a water bottle"
+],
+"n": 3,
+"added": "2026-10-22",
+"shape": 1.25
+},
+{
+"id": "florette-earrings-silver",
+"style": "Q1460",
+"dept": "jewelry",
+"kind": "Earrings",
+"name": "Florette Earrings",
+"colour": "Silver",
+"price": 55.0,
+"was": null,
+"sizes": null,
+"blurb": "",
+"facts": [
+".75\" White metal, gold plated finish flower charm"
+],
+"n": 3,
+"added": "2026-05-26",
+"shape": 1.33
+},
+{
+"id": "tindra-stainless-silver-25mm-hoop-earrings-silve",
+"style": "Q7361",
+"dept": "jewelry",
+"kind": "Earrings",
+"name": "Tindra Stainless Silver 25mm Hoop Earrings",
+"colour": "Silver",
+"price": 22.0,
+"was": null,
+"sizes": null,
+"blurb": "",
+"facts": [
+"Stainless silver 25mm hoop earrings",
+"100% stainless steel"
+],
+"n": 3,
+"added": "2026-09-02",
+"shape": 1.33
+},
+{
+"id": "flower-ring-silver",
+"style": "Q6034",
+"dept": "jewelry",
+"kind": "Rings",
+"name": "Flower Ring",
+"colour": "Silver",
+"price": 5.0,
+"was": null,
+"sizes": null,
+"blurb": "",
+"facts": [
+"Silver flower ring."
+],
+"n": 2,
+"added": "2026-10-27",
+"shape": 1.5
+},
+{
+"id": "feyre-faux-fur-wallet-brown",
+"style": "Q6968",
+"dept": "jewelry",
+"kind": "Charms",
+"name": "Feyre Faux Fur Wallet",
+"colour": "Brown",
+"price": 48.0,
+"was": null,
+"sizes": null,
+"blurb": "The FEYRE FAUX FUR WALLET BROWN is a versatile kiss-lock coin purse designed for everyday essentials. This wallet includes removable bag charms that add a personalized touch and can be detached when you prefer a minimalist look. The attachable crossbody strap allows you to wear it hands-free, making it perfect for shopping, travel, or casual outings.",
+"facts": [
+"Attachable crossbody strap",
+"Fits only a few essentials, like lipstick and coins",
+"Top handle strap: 2.5 inch drop"
+],
+"n": 3,
+"added": "2026-10-21",
+"shape": 1.25
+},
+{
+"id": "florette-necklace-silver",
+"style": "Q2221",
+"dept": "jewelry",
+"kind": "Necklaces",
+"name": "Florette Necklace",
+"colour": "Silver",
+"price": 65.0,
+"was": null,
+"sizes": null,
+"blurb": "",
+"facts": [
+"White metal, silver plated finish",
+"16\" length, 3\" extender, .75\" flower charm"
+],
+"n": 3,
+"added": "2026-05-26",
+"shape": 1.33
+},
+{
+"id": "zephry-gold-plated-link-chain-bracelet-gold",
+"style": "Q2247",
+"dept": "jewelry",
+"kind": "Bracelets",
+"name": "Zephry Gold Plated Link Chain Bracelet",
+"colour": "Gold",
+"price": 15.0,
+"was": 22.0,
+"sizes": null,
+"blurb": "",
+"facts": [
+"Gold-plated link chain bracelet",
+"Lobster clasp fastening, adjustable length",
+"18k pvd coating 100% stainless steel"
+],
+"n": 3,
+"added": "2026-09-02",
+"shape": 1.33
+},
+{
+"id": "chunky-hoop-earrings-gold",
+"style": "Q9962",
+"dept": "jewelry",
+"kind": "Earrings",
+"name": "Chunky Hoop Earrings",
+"colour": "Gold",
+"price": 6.0,
+"was": null,
+"sizes": null,
+"blurb": "",
+"facts": [],
+"n": 3,
+"added": "2026-10-22",
+"shape": 1.5
+},
+{
+"id": "keighla-crochet-hair-scarf-black",
+"style": "Q2039",
+"dept": "acc",
+"kind": "Hair",
+"name": "Keighla Crochet Hair Scarf",
+"colour": "Black",
+"price": 14.0,
+"was": null,
+"sizes": null,
+"blurb": "",
+"facts": [
+"Non-stretch material",
+"100% polyester"
+],
+"n": 3,
+"added": "2026-10-26",
+"shape": 1.35
+},
+{
+"id": "striped-knee-socks-dark-grey-black",
+"style": "Q2832",
+"dept": "acc",
+"kind": "Socks",
+"name": "Striped Knee Socks",
+"colour": "Dark Grey Black",
+"price": 8.0,
+"was": null,
+"sizes": null,
+"blurb": "",
+"facts": [
+"Long soft striped knee socks.",
+"Fabrics: 80% cotton, 20% spandex"
+],
+"n": 2,
+"added": "2026-10-31",
+"shape": 1.5
+},
+{
+"id": "big-clip-blue-sugar",
+"style": "Q1551",
+"dept": "acc",
+"kind": "Hair",
+"name": "Big Clip",
+"colour": "Blue Sugar",
+"price": 36.0,
+"was": null,
+"sizes": null,
+"blurb": "",
+"facts": [],
+"n": 1,
+"added": "2026-10-01",
+"shape": 1.0
+},
+{
+"id": "scrunchie-white-dot",
+"style": "Q2806",
+"dept": "acc",
+"kind": "Hair",
+"name": "Scrunchie",
+"colour": "White Dot",
+"price": 24.0,
+"was": null,
+"sizes": null,
+"blurb": "",
+"facts": [
+"100% Polyester"
+],
+"n": 3,
+"added": "2026-09-17",
+"shape": 1.33
+},
+{
+"id": "sakara-hair-clip-tort",
+"style": "Q4028",
+"dept": "acc",
+"kind": "Hair",
+"name": "Sakara Hair Clip",
+"colour": "Tort",
+"price": 15.0,
+"was": null,
+"sizes": null,
+"blurb": "",
+"facts": [
+"Silver hardware"
+],
+"n": 3,
+"added": "2026-10-19",
+"shape": 1.5
+},
+{
+"id": "aylaa-sunglasses-silver-blue",
+"style": "Q8177",
+"dept": "acc",
+"kind": "Sunglasses",
+"name": "Aylaa Sunglasses",
+"colour": "Silver / Blue",
+"price": 25.0,
+"was": null,
+"sizes": null,
+"blurb": "",
+"facts": [
+"Blue-light lenses, adjustable molded nose bridge, thin frames"
+],
+"n": 3,
+"added": "2026-10-15",
+"shape": 1.35
+},
+{
+"id": "heart-socks-red-with-pink-hearts",
+"style": "Q5208",
+"dept": "acc",
+"kind": "Socks",
+"name": "Heart Socks",
+"colour": "Red with Pink Hearts",
+"price": 6.0,
+"was": null,
+"sizes": null,
+"blurb": "",
+"facts": [
+"Soft red socks with pink hearts.",
+"Fabrics: 80% cotton, 20% spandex"
+],
+"n": 2,
+"added": "2026-10-31",
+"shape": 1.5
+},
+{
+"id": "bedtime-angel-socks",
+"style": "Q4128",
+"dept": "acc",
+"kind": "Socks",
+"name": "Bedtime Angel Socks",
+"colour": null,
+"price": 18.0,
+"was": null,
+"sizes": null,
+"blurb": "",
+"facts": [
+"Made of 70.3% polyester, 24% acrylic, and 5.7% merino wool"
+],
+"n": 3,
+"added": "2026-08-18",
+"shape": 1.0
+},
+{
+"id": "crochet-beanie-black",
+"style": "Q1517",
+"dept": "acc",
+"kind": "Hats",
+"name": "Crochet Beanie",
+"colour": "Black",
+"price": 39.0,
+"was": null,
+"sizes": null,
+"blurb": "",
+"facts": [
+"Floral knit design",
+"Unlined"
+],
+"n": 3,
+"added": "2026-10-19",
+"shape": 1.5
+},
+{
+"id": "everett-oversized-sunglasses-tort",
+"style": "Q7962",
+"dept": "acc",
+"kind": "Sunglasses",
+"name": "Everett Oversized Sunglasses",
+"colour": "Tort",
+"price": 25.0,
+"was": null,
+"sizes": null,
+"blurb": "",
+"facts": [
+"Tort oversized sunglasses"
+],
+"n": 3,
+"added": "2026-10-14",
+"shape": 1.35
+},
+{
+"id": "polka-dots-socks-black-with-white-polka-dots",
+"style": "Q7304",
+"dept": "acc",
+"kind": "Socks",
+"name": "Polka Dots Socks",
+"colour": "Black with White Polka Dots",
+"price": 6.0,
+"was": null,
+"sizes": null,
+"blurb": "",
+"facts": [
+"Soft black socks with white polka dots .",
+"Fabrics: 80% cotton, 20% spandex"
+],
+"n": 2,
+"added": "2026-10-31",
+"shape": 1.5
+},
+{
+"id": "cozy-scrunchie-oat-latte-knit",
+"style": "Q9744",
+"dept": "acc",
+"kind": "Hair",
+"name": "Cozy Scrunchie",
+"colour": "Oat Latte Knit",
+"price": 16.0,
+"was": null,
+"sizes": null,
+"blurb": "",
+"facts": [
+"Color: Oat Latte Knit",
+"Made of 50% anti-pilling acrylic, 30% nylon, and 20% polyester"
+],
+"n": 2,
+"added": "2026-08-18",
+"shape": 1.0
+},
+{
+"id": "sabrina-crochet-bandana-white",
+"style": "Q8975",
+"dept": "acc",
+"kind": "Hair",
+"name": "Sabrina Crochet Bandana",
+"colour": "White",
+"price": 19.0,
+"was": null,
+"sizes": null,
+"blurb": "",
+"facts": [
+"Adjustable tie"
+],
+"n": 3,
+"added": "2026-10-19",
+"shape": 1.5
+},
+{
+"id": "evanna-faux-leather-belt-brown",
+"style": "Q8472",
+"dept": "acc",
+"kind": "Belts",
+"name": "Evanna Faux Leather Belt",
+"colour": "Brown",
+"price": 39.0,
+"was": null,
+"sizes": null,
+"blurb": "",
+"facts": [
+"Faux leather belt with silver-tone hardware",
+"Thick strap, seam detail, adjustable length"
+],
+"n": 3,
+"added": "2026-10-14",
+"shape": 1.35
+},
+{
+"id": "basic-socks-pastel-pink",
+"style": "Q3496",
+"dept": "acc",
+"kind": "Socks",
+"name": "Basic Socks",
+"colour": "Pastel Pink",
+"price": 6.0,
+"was": null,
+"sizes": null,
+"blurb": "",
+"facts": [
+"Soft ankle socks in pastel pink.",
+"Fabrics: 80% cotton, 20% lycra"
+],
+"n": 2,
+"added": "2026-10-31",
+"shape": 1.5
+},
+{
+"id": "infinity-headband-oat-latte-knit",
+"style": "Q8183",
+"dept": "acc",
+"kind": "Hair",
+"name": "Infinity Headband",
+"colour": "Oat Latte Knit",
+"price": 18.0,
+"was": null,
+"sizes": null,
+"blurb": "",
+"facts": [
+"Color: Oat Latte Knit",
+"Made of 50% anti-pilling acrylic, 30% nylon, and 20% polyester"
+],
+"n": 2,
+"added": "2026-08-18",
+"shape": 1.0
+},
+{
+"id": "abigail-scarf-burgundy-check",
+"style": "Q3805",
+"dept": "acc",
+"kind": "Scarves & Gloves",
+"name": "Abigail Scarf",
+"colour": "Burgundy Check",
+"price": 29.0,
+"was": null,
+"sizes": null,
+"blurb": "",
+"facts": [
+"Oversized scarf design",
+"Plaid print",
+"Soft knit feel"
+],
+"n": 3,
+"added": "2026-10-19",
+"shape": 1.5
+},
+{
+"id": "caevia-fluffy-beanie-cobalt",
+"style": "Q9367",
+"dept": "acc",
+"kind": "Hats",
+"name": "Caevia Fluffy Beanie",
+"colour": "Cobalt",
+"price": 25.0,
+"was": null,
+"sizes": null,
+"blurb": "",
+"facts": [
+"Ribbed fluffy beanie",
+"Good stretch, unlined",
+"40% acrylic 40% polyester 20% spandex"
+],
+"n": 3,
+"added": "2026-10-08",
+"shape": 1.33
+},
+{
+"id": "leather-studded-belt-silver",
+"style": "Q3741",
+"dept": "acc",
+"kind": "Belts",
+"name": "Leather Studded Belt",
+"colour": "Silver",
+"price": 26.0,
+"was": null,
+"sizes": null,
+"blurb": "",
+"facts": [
+"Black leather belt covered with silver square studded holes.",
+"Fabrics: 60% leather, 40% polyurethane"
+],
+"n": 3,
+"added": "2026-10-28",
+"shape": 1.5
+},
+{
+"id": "popstar-clips-bedtime-angel",
+"style": "Q4106",
+"dept": "acc",
+"kind": "Hair",
+"name": "Popstar Clips",
+"colour": "Bedtime Angel",
+"price": 34.0,
+"was": null,
+"sizes": null,
+"blurb": "",
+"facts": [],
+"n": 3,
+"added": "2026-08-18",
+"shape": 1.0
+},
+{
+"id": "mason-suede-belt-brown",
+"style": "Q4620",
+"dept": "acc",
+"kind": "Belts",
+"name": "Mason Suede Belt",
+"colour": "Brown",
+"price": 19.0,
+"was": null,
+"sizes": null,
+"blurb": "The Mason Suede Belt - Brown is the kind of finishing touch that pulls an outfit together in seconds. Designed in soft faux suede with polished gold hardware, it adds warmth, texture, and a refined edge to everything from relaxed denim to tailored pants and flowing dresses.",
+"facts": [
+"Faux suede design",
+"Adjustable length",
+"Gold hardware"
+],
+"n": 3,
+"added": "2026-10-19",
+"shape": 1.5
+},
+{
+"id": "elira-chain-belt-gold",
+"style": "Q7006",
+"dept": "acc",
+"kind": "Belts",
+"name": "Elira Chain Belt",
+"colour": "Gold",
+"price": 22.0,
+"was": null,
+"sizes": null,
+"blurb": "",
+"facts": [
+"Diamante chain belt in gold hardware with adjustable length"
+],
+"n": 3,
+"added": "2026-10-08",
+"shape": 1.33
+},
+{
+"id": "hair-claw-clip-black",
+"style": "Q8883",
+"dept": "acc",
+"kind": "Hair",
+"name": "Hair Claw Clip",
+"colour": "Black",
+"price": 8.0,
+"was": null,
+"sizes": null,
+"blurb": "",
+"facts": [],
+"n": 2,
+"added": "2026-10-28",
+"shape": 1.5
+},
+{
+"id": "sweetheart-clip-dream-cloud-teddy",
+"style": "Q4182",
+"dept": "acc",
+"kind": "Hair",
+"name": "Sweetheart Clip",
+"colour": "Dream Cloud Teddy",
+"price": 36.0,
+"was": null,
+"sizes": null,
+"blurb": "",
+"facts": [],
+"n": 3,
+"added": "2026-08-18",
+"shape": 1.0
+},
+{
+"id": "eleanor-scarf-cream",
+"style": "Q6438",
+"dept": "acc",
+"kind": "Scarves & Gloves",
+"name": "Eleanor Scarf",
+"colour": "Cream",
+"price": 29.0,
+"was": null,
+"sizes": null,
+"blurb": "",
+"facts": [
+"Oversized scarf design",
+"Soft knit feel"
+],
+"n": 3,
+"added": "2026-10-19",
+"shape": 1.5
+},
+{
+"id": "aeriana-faux-leather-wide-belt-chocolate",
+"style": "Q9558",
+"dept": "acc",
+"kind": "Belts",
+"name": "Aeriana Faux Leather Wide Belt",
+"colour": "Chocolate",
+"price": 29.0,
+"was": null,
+"sizes": null,
+"blurb": "",
+"facts": [
+"Faux leather wide belt with buckle detail",
+"Thick strap, adjustable length"
+],
+"n": 3,
+"added": "2026-10-08",
+"shape": 1.33
+},
+{
+"id": "fingerless-wool-striped-gloves-white-with-navy-b",
+"style": "Q6018",
+"dept": "acc",
+"kind": "Scarves & Gloves",
+"name": "Fingerless Wool Striped Gloves",
+"colour": "White With Navy Blue Stripes",
+"price": 8.0,
+"was": null,
+"sizes": null,
+"blurb": "",
+"facts": [
+"Knit wool striped fingerless gloves.",
+"Fabrics: 65% acrylic, 30% wool, 5% spandex"
+],
+"n": 3,
+"added": "2026-10-27",
+"shape": 1.5
+},
+{
+"id": "pointelle-headband-blossom",
+"style": "Q2820",
+"dept": "acc",
+"kind": "Hair",
+"name": "Pointelle Headband",
+"colour": "Blossom",
+"price": 18.0,
+"was": null,
+"sizes": null,
+"blurb": "Made from 100% cotton pointelle, this headband is soft, breathable, and designed to keep hair comfortably in place from morning to night.",
+"facts": [
+"Made of 100% cotton"
+],
+"n": 3,
+"added": "2026-07-07",
+"shape": 1.0
+},
+{
+"id": "the-other-side-belt-grey-silver",
+"style": "Q8844",
+"dept": "acc",
+"kind": "Belts",
+"name": "The Other Side Belt",
+"colour": "Grey / Silver",
+"price": 28.0,
+"was": null,
+"sizes": null,
+"blurb": "",
+"facts": [
+"Faux leather belt with thick strap",
+"Buckle closure, silver-toned hardware, adjustable length"
+],
+"n": 3,
+"added": "2026-10-08",
+"shape": 1.33
+},
+{
+"id": "tassel-scarf-light-pink",
+"style": "Q7020",
+"dept": "acc",
+"kind": "Scarves & Gloves",
+"name": "Tassel Scarf",
+"colour": "Light Pink",
+"price": 18.0,
+"was": null,
+"sizes": null,
+"blurb": "",
+"facts": [
+"Fabrics: 100% acrylic"
+],
+"n": 2,
+"added": "2026-10-27",
+"shape": 1.5
+},
+{
+"id": "lil-clip-rose-petal-eyelet",
+"style": "Q6853",
+"dept": "acc",
+"kind": "Hair",
+"name": "Lil Clip",
+"colour": "Rose Petal Eyelet",
+"price": 32.0,
+"was": null,
+"sizes": null,
+"blurb": "",
+"facts": [],
+"n": 3,
+"added": "2026-07-07",
+"shape": 1.0
+},
+{
+"id": "avenelle-cord-newsboy-hat-fawn",
+"style": "Q1597",
+"dept": "acc",
+"kind": "Hats",
+"name": "Avenelle Cord Newsboy Hat",
+"colour": "Fawn",
+"price": 25.0,
+"was": null,
+"sizes": null,
+"blurb": "",
+"facts": [
+"100% polyester"
+],
+"n": 3,
+"added": "2026-10-08",
+"shape": 1.35
+},
+{
+"id": "plaid-tassel-scarf-navy-blue-and-dark-green-plai",
+"style": "Q5895",
+"dept": "acc",
+"kind": "Scarves & Gloves",
+"name": "Plaid Tassel Scarf",
+"colour": "Navy Blue and Dark Green Plaid",
+"price": 18.0,
+"was": null,
+"sizes": null,
+"blurb": "",
+"facts": [
+"﻿Fabrics: ﻿100% acrylic"
+],
+"n": 3,
+"added": "2026-10-27",
+"shape": 1.5
+},
+{
+"id": "head-scarf-citrine",
+"style": "Q6493",
+"dept": "acc",
+"kind": "Scarves & Gloves",
+"name": "Head Scarf",
+"colour": "Citrine",
+"price": 22.0,
+"was": null,
+"sizes": null,
+"blurb": "Made from 100% cotton, this lightweight Head Scarf is the perfect finishing touch for every outfit.",
+"facts": [
+"Made of 100% cotton"
+],
+"n": 3,
+"added": "2026-07-07",
+"shape": 1.0
+}
+]
+}
